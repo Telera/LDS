@@ -11,3 +11,5 @@ print(df_male.info())
 
 df_tennis = pd.read_csv ('data2021/tennis.csv')
 print(df_tennis.info())
+
+df_tennis
