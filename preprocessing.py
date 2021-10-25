@@ -41,21 +41,24 @@ def count_max_len_str(path):
             else:
                 tokens = line.strip().split(',')
                 for ind, token in enumerate(tokens):
-                    if is_number(token):
-                        len_str[ind] = "int"
-                    else:
-                        if len_str[ind] < len(token):
-                            len_str[ind] = len(token)
-        return(len_str)
+                    if len_str[ind] < len(token):
+                        len_str[ind] = len(token)
+        result = list(map(lambda x,y: x + ":" + str(y), tokens_header, len_str))
+        return(result)
 
 
-
+print("countries:")
 print(min_max_columns("data2021/countries.csv"))
-print(min_max_columns("data2021/female_players.csv"))
-print(min_max_columns("data2021/male_players.csv"))
-print(min_max_columns("data2021/tennis.csv"))
-
 print(count_max_len_str("data2021/countries.csv"))
+
+print("female players:")
+print(min_max_columns("data2021/female_players.csv"))
 print(count_max_len_str("data2021/female_players.csv"))
+
+print("male players:")
+print(min_max_columns("data2021/male_players.csv"))
 print(count_max_len_str("data2021/male_players.csv"))
+
+print("tennis:")
+print(min_max_columns("data2021/tennis.csv"))
 print(count_max_len_str("data2021/tennis.csv"))
