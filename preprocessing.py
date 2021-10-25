@@ -1,6 +1,13 @@
 
 import csv
 
+def is_number(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
+
 def min_max_columns(path):
     with open(path,'r') as f:
         count = 0
