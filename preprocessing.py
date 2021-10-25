@@ -8,6 +8,7 @@ def is_number(s):
     except ValueError:
         return False
 
+
 def min_max_columns(path):
     with open(path,'r') as f:
         count = 0
@@ -40,8 +41,11 @@ def count_max_len_str(path):
             else:
                 tokens = line.strip().split(',')
                 for ind, token in enumerate(tokens):
-                    if len_str[ind] < len(token):
-                        len_str[ind] = len(token)
+                    if is_number(token):
+                        len_str[ind] = "int"
+                    else:
+                        if len_str[ind] < len(token):
+                            len_str[ind] = len(token)
         return(len_str)
 
 
