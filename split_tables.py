@@ -1,5 +1,25 @@
 import csv
 
+# tournament
+"""
+date id <- da creare
+0 1 2 3 4 47 48
+
+# Player
+WINNER 7  12 9  10 11
+LOSER  14 19 16 17 18
+Gender <- creare
+byear of birth <- creare
+
+# Match
+0 
+7  winner id
+14 loser id
+match id (match num+tourney id) <- creare
+21 score
+22-46 incluso
+"""
+
 def add_language(path):
     diz = {}
     with open(path, "r") as f:
@@ -49,9 +69,26 @@ def geography_to_csv(path):
         file_continent.close()
 
 
-print(add_language("data2021/country_list.csv"))
-print(geography_to_csv("data2021/countries.csv"))
+#print(add_language("data2021/country_list.csv"))
+#print(geography_to_csv("data2021/countries.csv"))
 
+tennis_file = open("data2021/tennis.csv", "r")
+
+print("Name: ", tennis_file.name)
+header = tennis_file.readline()
+tokens_header = header.strip().split(',')
+tennis_header_dictionary = dict(zip(range(len(tokens_header)), tokens_header))
+print(tennis_header_dictionary)
+print(header)
+
+match_header = ""
+tournament_header = ""
+date_header = ""
+player_header = ""
+geography = ""
+
+
+tennis_file.close()
 
 
 

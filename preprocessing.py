@@ -46,7 +46,7 @@ def count_max_len_str(path):
                         number_flag[ind] = False
                     if len_str[ind] < len(token) and not number_flag[ind]:
                         len_str[ind] = len(token)
-                        print(tokens_header[ind], ":", token)
+                        #print(tokens_header[ind], ":", token)
         #result = list(map(lambda x,y,z: x + ":" + str(y) + str(z), tokens_header, len_str, number_flag))
         result = list(map(lambda x,y,z: x + ":" + str(y) if not z else x + ": num", tokens_header, len_str, number_flag))
         return(result)
