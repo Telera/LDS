@@ -93,13 +93,23 @@ print(headers)
 #print(tennis_header_dictionary)
 
 match_file = open("output/match.csv", "w")
+tournament_file = open("output/tournament.csv", "w")
+player_file = open("output/player.csv", "w")
 
 for row in reader:
-    line = []
+    line_match = []
+    line_tournament = []
+    line_player = []
     for attr, val in row.items():
         if attr in headers["match"]:
-            line.append(val)
-    match_file.write(','.join(line) + "\n")
+            line_match.append(val)
+        if attr in headers["tournament"]:
+            line_tournament.append(val)
+        if attr in headers["player"]:
+            line_player.append(val)
+    match_file.write(','.join(line_match) + "\n")
+    tournament_file.write(','.join(line_tournament) + "\n")
+    player_file.write(','.join(line_player) + "\n")
 
 """
 for line in tennis_file:
@@ -117,6 +127,8 @@ geography = ""
 
 
 """
+tournament_file.close()
+player_file.close()
 match_file.close()
 tennis_file.close()
 
