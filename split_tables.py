@@ -93,15 +93,13 @@ print(headers)
 #print(tennis_header_dictionary)
 
 match_file = open("output/match.csv", "w")
-match_writer = csv.writer(match_file)
 
 for row in reader:
     line = []
     for attr, val in row.items():
         if attr in headers["match"]:
             line.append(val)
-            print(line)
-    match_writer.writerow(line)
+    match_file.write(','.join(line) + "\n")
 
 """
 for line in tennis_file:
