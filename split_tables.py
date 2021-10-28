@@ -1,7 +1,7 @@
 import csv
 
-# tournament
 """
+# tournament
 date id <- da creare
 0 1 2 3 4 47 48
 
@@ -19,6 +19,7 @@ match id (match num+tourney id) <- creare
 21 score
 22-46 incluso
 """
+
 
 def add_language(path):
     diz = {}
@@ -73,13 +74,42 @@ def geography_to_csv(path):
 #print(geography_to_csv("data2021/countries.csv"))
 
 tennis_file = open("data2021/tennis.csv", "r")
+reader = csv.DictReader(tennis_file)
+header = reader.fieldnames
 
-print("Name: ", tennis_file.name)
-header = tennis_file.readline()
-tokens_header = header.strip().split(',')
-tennis_header_dictionary = dict(zip(range(len(tokens_header)), tokens_header))
-print(tennis_header_dictionary)
 print(header)
+
+
+headers = {}
+headers["match"] = [header[0]] + [header[7]] + [header[14]] + header[21:47]
+headers["tournament"] = header[0:5] + header[47:49]
+
+headers["date"] = [header[5]]
+headers["player"] = [header[7]] + header[9:13]
+
+print(headers)
+
+#tennis_header_dictionary = dict(zip(range(len(tokens_header)), tokens_header))
+#print(tennis_header_dictionary)
+
+match_file = open("output/match.csv", "w")
+match_writer = csv.writer(match_file)
+
+for row in reader:
+    line = []
+    for attr, val in row.items():
+        if attr in headers["match"]:
+            line.append(val)
+            print(line)
+    match_writer.writerow(line)
+
+"""
+for line in tennis_file:
+    tokens = line.strip().split(',')
+
+
+
+    print(line)
 
 match_header = ""
 tournament_header = ""
@@ -88,6 +118,8 @@ player_header = ""
 geography = ""
 
 
+"""
+match_file.close()
 tennis_file.close()
 
 
