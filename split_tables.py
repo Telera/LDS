@@ -70,13 +70,33 @@ def geography_to_csv(path):
 
         file_continent.close()
 
-def preprocessing_match(dict):
-    print(dict["tourney_id"])
-    tourney_name = dict["tourney_id"] + "-"
-    print(tourney_name)
-    num_tourney = re.search("-[M]*[0-9]+[A-Z]*-", tourney_name)
+def preprocessing_match(dict, file):
+    #tourney_id + match_num
+    dict["match_id"] = dict["match_num"]
+    del dict["match_num"]
 
-    print(dict["tourney_id"], "****", num_tourney.group(0))
+    dict["tourney_id"] = dict["tourney_id"] + "-" + dict["match_id"]
+    #file.write(','.join(dict.values()) + "\n")
+    file.writerow(dict)
+
+def preprocessing_tournament(dict, file):
+    file.writerow(dict)
+
+def preprocessing_player(dict_winner, dict_loser, file):
+    dict_winner["player_id"] = dict_winner.pop("winner_id")
+    dict_winner["country_id"] = dict_winner.pop("winner_ioc")
+    dict_winner["name"] = dict_winner.pop("winner_name")
+    dict_winner["hand"] = dict_winner.pop("winner_hand")
+    dict_winner["ht"] = dict_winner.pop("winner_ht")
+
+    dict_loser["player_id"] = dict_loser.pop("loser_id")
+    dict_loser["country_id"] = dict_loser.pop("loser_ioc")
+    dict_loser["name"] = dict_loser.pop("loser_name")
+    dict_loser["hand"] = dict_loser.pop("loser_hand")
+    dict_loser["ht"] = dict_loser.pop("loser_ht")
+
+    file.writerow(dict_winner)
+    file.writerow(dict_loser)
 
 #print(add_language("data2021/country_list.csv"))
 #print(geography_to_csv("data2021/countries.csv"))
@@ -96,8 +116,21 @@ headers["loser_player"] = [header[14]] + header[16:20]
 print(headers)
 
 match_file = open("output/match.csv", "w")
+match_header = [str.replace('match_num','match_id') for str in headers["match"]]
+match_writer = csv.DictWriter(match_file, fieldnames=match_header, lineterminator = '\n')
+match_writer.writeheader()
+
 tournament_file = open("output/tournament.csv", "w")
+tournament_header = headers["tournament"]
+print(tournament_header)
+tournament_writer = csv.DictWriter(tournament_file, fieldnames=tournament_header, lineterminator = '\n')
+tournament_writer.writeheader()
+
 player_file = open("output/player.csv", "w")
+player_header = [str.replace("winner_id" , "player_id").replace("winner_name" , "name").replace("winner_hand" , "hand").replace("winner_ht" , "ht").replace("winner_ioc", "country_id") for str in headers["winner_player"]]
+player_header.insert(1, player_header.pop(-1))
+player_writer = csv.DictWriter(player_file, fieldnames=player_header, lineterminator = '\n')
+player_writer.writeheader()
 
 
 
@@ -109,22 +142,16 @@ for row in reader:
     for attr, val in row.items():
         if attr in headers["match"]:
             line_match[attr] = val
-            #line_match.append(val)
         if attr in headers["tournament"]:
             line_tournament[attr] = val
-            #line_tournament.append(val)
         if attr in headers["winner_player"]:
             line_winner_player[attr] = val
-            #line_winner_player.append(val)
         if attr in headers["loser_player"]:
             line_loser_player[attr] = val
-            #line_loser_player.append(val)
-    preprocessing_match(line_match)
+    preprocessing_match(line_match, match_writer)
+    preprocessing_tournament(line_tournament, tournament_writer)
+    preprocessing_player(line_winner_player, line_loser_player, player_writer)
 
-    #match_file.write(','.join(line_match) + "\n")
-    #tournament_file.write(','.join(line_tournament) + "\n")
-    #player_file.write(','.join(line_winner_player) + "\n")
-    #player_file.write(','.join(line_loser_player) + "\n")
 
 
 tournament_file.close()
