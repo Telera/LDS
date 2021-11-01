@@ -10,6 +10,8 @@ df_female = pd.read_csv ('data2021/female_players.csv')
 df_male = pd.read_csv ('data2021/male_players.csv')
 #print(df_male.info())
 
-df_tennis = pd.read_csv ('data2021/tennis.csv')
-for name in zip(df_tennis["winner_name"], df_tennis["loser_name"]):
-    print(name)
+df_tennis = pd.read_csv ('data2021/tennis.csv', low_memory=False)
+
+list = df_tennis["tourney_id"].unique()
+for elem in list:
+    print(elem)
