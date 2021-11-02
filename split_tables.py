@@ -96,7 +96,7 @@ def year_of_birth(date, age):
     fraction = delta/yearDuration
     date_fraction = (date.year) + fraction
     birth = date_fraction - float(age)
-    #return(int(birth))
+    return(int(birth))
 
 def preprocessing_player(dict_winner, dict_loser, file, winner_year_of_birth, loser_year_of_birth):
     dict_winner["player_id"] = dict_winner.pop("winner_id")
@@ -112,7 +112,7 @@ def preprocessing_player(dict_winner, dict_loser, file, winner_year_of_birth, lo
     dict_loser["ht"] = dict_loser.pop("loser_ht")
 
     dict_winner["byear_of_birth"] = winner_year_of_birth
-    dict_winner["byear_of_birth"] = loser_year_of_birth
+    dict_loser["byear_of_birth"] = loser_year_of_birth
 
     file.writerow(dict_winner)
     file.writerow(dict_loser)
