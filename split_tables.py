@@ -1,6 +1,6 @@
 import csv
 import re
-
+import datetime
 """
 # tournament
 date id <- da creare
@@ -97,6 +97,9 @@ def preprocessing_player(dict_winner, dict_loser, file):
 
     file.writerow(dict_winner)
     file.writerow(dict_loser)
+
+def reformat_date(date):
+    return(datetime.datetime.strptime(date, '%Y%m%d').date())
 
 #print(add_language("data2021/country_list.csv"))
 #print(geography_to_csv("data2021/countries.csv"))
