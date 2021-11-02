@@ -21,6 +21,8 @@ match id (match num+tourney id) <- creare
 22-46 incluso
 """
 
+def reformat_date(date):
+    return(datetime.datetime.strptime(date, '%Y%m%d').date())
 
 def add_language(path):
     diz = {}
@@ -71,18 +73,32 @@ def geography_to_csv(path):
         file_continent.close()
 
 def preprocessing_match(dict, file):
-    #tourney_id + match_num
-    dict["match_id"] = dict["match_num"]
-    del dict["match_num"]
+    #match_num + tourney_id
+    dict["match_id"] = dict.pop("match_num")
 
-    dict["tourney_id"] = dict["tourney_id"] + "-" + dict["match_id"]
+    dict["match_id"] = dict["match_id"] + "-" + dict["tourney_id"]
     #file.write(','.join(dict.values()) + "\n")
     file.writerow(dict)
 
 def preprocessing_tournament(dict, file):
+    dict["date_id"] = dict.pop("tourney_date")
     file.writerow(dict)
 
-def preprocessing_player(dict_winner, dict_loser, file):
+def year_of_birth(date, age):
+    date = reformat_date(date)
+    year = date.year
+    fist_gen = str(date.year) + "01" + "01"
+    first_gen_next_year = str(date.year + 1) + "01" + "01"
+    startOfThisYear = reformat_date(fist_gen)
+    startOfNextYear = reformat_date(first_gen_next_year)
+    delta = date - startOfThisYear
+    yearDuration = startOfNextYear - startOfThisYear
+    fraction = delta/yearDuration
+    date_fraction = (date.year) + fraction
+    birth = date_fraction - float(age)
+    #return(int(birth))
+
+def preprocessing_player(dict_winner, dict_loser, file, winner_year_of_birth, loser_year_of_birth):
     dict_winner["player_id"] = dict_winner.pop("winner_id")
     dict_winner["country_id"] = dict_winner.pop("winner_ioc")
     dict_winner["name"] = dict_winner.pop("winner_name")
@@ -95,11 +111,22 @@ def preprocessing_player(dict_winner, dict_loser, file):
     dict_loser["hand"] = dict_loser.pop("loser_hand")
     dict_loser["ht"] = dict_loser.pop("loser_ht")
 
+    dict_winner["byear_of_birth"] = winner_year_of_birth
+    dict_winner["byear_of_birth"] = loser_year_of_birth
+
     file.writerow(dict_winner)
     file.writerow(dict_loser)
 
-def reformat_date(date):
-    return(datetime.datetime.strptime(date, '%Y%m%d').date())
+
+def preprocessing_date(file, date):
+    tourney_date = reformat_date(date)
+    dict = {}
+    dict["date_id"] = date
+    dict["day"] = tourney_date.day
+    dict["month"] = tourney_date.month
+    dict["year"] = tourney_date.year
+    dict["quarter"] = (tourney_date.month - 1) // 3 + 1
+    file.writerow(dict)
 
 #print(add_language("data2021/country_list.csv"))
 #print(geography_to_csv("data2021/countries.csv"))
@@ -112,10 +139,10 @@ print(header)
 
 headers = {}
 headers["match"] = [header[0]] + header[6:8] + [header[14]] + header[21:47]
-headers["tournament"] = header[0:5] + header[47:49]
+headers["tournament"] = header[0:6] + header[47:49]
 headers["winner_player"] = [header[7]] + header[9:13]
 headers["loser_player"] = [header[14]] + header[16:20]
-
+headers["date"] = [header[5]]
 print(headers)
 
 match_file = open("output/match.csv", "w")
@@ -125,15 +152,22 @@ match_writer.writeheader()
 
 tournament_file = open("output/tournament.csv", "w")
 tournament_header = headers["tournament"]
-print(tournament_header)
+tournament_header = [str.replace('tourney_date','date_id') for str in headers["tournament"]]
+tournament_header.insert(1, tournament_header.pop(5))
 tournament_writer = csv.DictWriter(tournament_file, fieldnames=tournament_header, lineterminator = '\n')
 tournament_writer.writeheader()
 
 player_file = open("output/player.csv", "w")
 player_header = [str.replace("winner_id" , "player_id").replace("winner_name" , "name").replace("winner_hand" , "hand").replace("winner_ht" , "ht").replace("winner_ioc", "country_id") for str in headers["winner_player"]]
 player_header.insert(1, player_header.pop(-1))
+player_header.append("byear_of_birth")
 player_writer = csv.DictWriter(player_file, fieldnames=player_header, lineterminator = '\n')
 player_writer.writeheader()
+
+date_file = open("output/date.csv", "w")
+date_header = ["date_id","day","month","year","quarter"]
+date_writer = csv.DictWriter(date_file, fieldnames=date_header, lineterminator = '\n')
+date_writer.writeheader()
 
 
 
@@ -153,8 +187,15 @@ for row in reader:
             line_loser_player[attr] = val
     preprocessing_match(line_match, match_writer)
     preprocessing_tournament(line_tournament, tournament_writer)
-    preprocessing_player(line_winner_player, line_loser_player, player_writer)
+    if row["winner_age"] != "":
+        winner_year_of_birth = year_of_birth(row["tourney_date"], row["winner_age"])
+    if row["loser_age"] != "":
+        loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
+        
+    #loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
 
+    preprocessing_player(line_winner_player, line_loser_player, player_writer, winner_year_of_birth, loser_year_of_birth)
+    preprocessing_date(date_writer, row["tourney_date"])
 
 
 tournament_file.close()
