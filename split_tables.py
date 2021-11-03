@@ -98,24 +98,23 @@ def year_of_birth(date, age):
     birth = date_fraction - float(age)
     return(int(birth))
 
-def preprocessing_player(dict_winner, dict_loser, file, winner_year_of_birth, loser_year_of_birth):
-    dict_winner["player_id"] = dict_winner.pop("winner_id")
-    dict_winner["country_id"] = dict_winner.pop("winner_ioc")
-    dict_winner["name"] = dict_winner.pop("winner_name")
-    dict_winner["hand"] = dict_winner.pop("winner_hand")
-    dict_winner["ht"] = dict_winner.pop("winner_ht")
+def preprocessing_player(dict, file, year_of_birth):
+    dict_player = {}
+    for key,val in dict.items():
+        if key == "winner_id" or key == "loser_id":
+            dict_player["player_id"] = dict[key]
+        if key == "winner_name" or key == "loser_name":
+            dict_player["name"] = dict[key]
+        if key == "winner_hand" or key == "loser_hand":
+            dict_player["hand"] = dict[key]
+        if key == "winner_ht" or key == "loser_ht":
+            dict_player["ht"] = dict[key]
+        if key == "winner_ioc" or key == "loser_ioc":
+            dict_player["country_id"] = dict[key]
 
-    dict_loser["player_id"] = dict_loser.pop("loser_id")
-    dict_loser["country_id"] = dict_loser.pop("loser_ioc")
-    dict_loser["name"] = dict_loser.pop("loser_name")
-    dict_loser["hand"] = dict_loser.pop("loser_hand")
-    dict_loser["ht"] = dict_loser.pop("loser_ht")
+    dict_player["year_of_birth"] = year_of_birth
 
-    dict_winner["byear_of_birth"] = winner_year_of_birth
-    dict_loser["byear_of_birth"] = loser_year_of_birth
-
-    file.writerow(dict_winner)
-    file.writerow(dict_loser)
+    file.writerow(dict_player)
 
 
 def preprocessing_date(file, date):
@@ -160,7 +159,7 @@ tournament_writer.writeheader()
 player_file = open("output/player.csv", "w")
 player_header = [str.replace("winner_id" , "player_id").replace("winner_name" , "name").replace("winner_hand" , "hand").replace("winner_ht" , "ht").replace("winner_ioc", "country_id") for str in headers["winner_player"]]
 player_header.insert(1, player_header.pop(-1))
-player_header.append("byear_of_birth")
+player_header.append("year_of_birth")
 player_writer = csv.DictWriter(player_file, fieldnames=player_header, lineterminator = '\n')
 player_writer.writeheader()
 
@@ -169,14 +168,20 @@ date_header = ["date_id","day","month","year","quarter"]
 date_writer = csv.DictWriter(date_file, fieldnames=date_header, lineterminator = '\n')
 date_writer.writeheader()
 
-
+set_id_tournament = set()
+set_id_player = set()
+set_id_date = set()
 
 for row in reader:
     line_match = {}
     line_tournament = {}
     line_winner_player = {}
     line_loser_player = {}
+    curr_date = {}
+
     for attr, val in row.items():
+        if attr == "tourney_date":
+            curr_date[attr] = val
         if attr in headers["match"]:
             line_match[attr] = val
         if attr in headers["tournament"]:
@@ -185,18 +190,27 @@ for row in reader:
             line_winner_player[attr] = val
         if attr in headers["loser_player"]:
             line_loser_player[attr] = val
+
     preprocessing_match(line_match, match_writer)
-    preprocessing_tournament(line_tournament, tournament_writer)
-    if row["winner_age"] != "":
-        winner_year_of_birth = year_of_birth(row["tourney_date"], row["winner_age"])
-    if row["loser_age"] != "":
-        loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
-        
-    #loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
 
-    preprocessing_player(line_winner_player, line_loser_player, player_writer, winner_year_of_birth, loser_year_of_birth)
-    preprocessing_date(date_writer, row["tourney_date"])
+    if line_tournament["tourney_id"] not in set_id_tournament:
+        set_id_tournament.add(line_tournament["tourney_id"])
+        preprocessing_tournament(line_tournament, tournament_writer)
 
+    if line_winner_player["winner_id"] not in set_id_player:
+        set_id_player.add(line_winner_player["winner_id"])
+        if row["winner_age"] != "":
+            winner_year_of_birth = year_of_birth(row["tourney_date"], row["winner_age"])
+        preprocessing_player(line_winner_player, player_writer, winner_year_of_birth)
+    if line_loser_player["loser_id"] not in set_id_player:
+        set_id_player.add(line_loser_player["loser_id"])
+        if row["loser_age"] != "":
+            loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
+        preprocessing_player(line_loser_player, player_writer, loser_year_of_birth)
+
+    if curr_date["tourney_date"] not in set_id_date:
+        set_id_date.add(curr_date["tourney_date"])
+        preprocessing_date(date_writer, row["tourney_date"])
 
 tournament_file.close()
 player_file.close()
