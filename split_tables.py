@@ -25,54 +25,6 @@ match id (match num+tourney id) <- creare
 def reformat_date(date):
     return(datetime.datetime.strptime(date, '%Y%m%d').date())
 
-def add_language(path):
-    diz = {}
-    with open(path, "r") as f:
-        header = f.readline()
-        tokens_header = header.strip().split(',')
-        for ind, token in enumerate(tokens_header):
-            if token == "country_name":
-                ind_country = ind
-            if token == "lang_name":
-                ind_lang = ind
-        first = True
-        for line in f:
-            if first:
-                first = False
-            else:
-                tokens = line.strip().split(',')
-                diz[tokens[ind_country]] = tokens[ind_lang]
-        return(diz)
-
-def geography_to_csv(path):
-    with open(path, "r") as f:
-        header = f.readline()
-        tokens_header = header.strip().split(',')
-        for ind, token in enumerate(tokens_header):
-            if token == "country_code":
-                ind_code = ind
-            if token == "country_name":
-                ind_country = ind
-            if token == "continent":
-                ind_continent = ind
-        first = True
-        file_continent = open("geography____dd.csv", mode='a')
-        file_continent.write("coutry_loc,continent,language")
-        for line in f:
-            if first:
-                first = False
-            else:
-                tokens = line.strip().split(',')
-                diz_language = add_language("data2021/country_list.csv")
-                row = []
-                row.append(tokens[ind_code])
-                row.append(tokens[ind_continent])
-                row.append(diz_language[tokens[ind_country]])
-                print(row)
-                #todo write row in the file
-
-        file_continent.close()
-
 def preprocessing_match(dict, file):
     #match_num + tourney_id
     dict["match_id"] = dict.pop("match_num")
@@ -99,7 +51,7 @@ def year_of_birth(date, age):
     birth = date_fraction - float(age)
     return(int(birth))
 
-def preprocessing_player(dict, file, year_of_birth):
+def preprocessing_player(dict, file, year_of_birth, sex):
     dict_player = {}
     for key,val in dict.items():
         if key == "winner_id" or key == "loser_id":
@@ -114,9 +66,24 @@ def preprocessing_player(dict, file, year_of_birth):
             dict_player["country_id"] = dict[key]
 
     dict_player["year_of_birth"] = year_of_birth
-
+    dict_player["sex"] = sex
     file.writerow(dict_player)
 
+def create_gender_sets():
+    male_file = open("data2021/male_players.csv", "r")
+    reader_male = csv.DictReader(male_file)
+    female_file = open("data2021/female_players.csv", "r")
+    reader_female = csv.DictReader(female_file)
+    players = (reader_male, reader_female)
+    dict_set = {"male": set(), "female": set()}
+    for player_gender in players:
+        for row in player_gender:
+            if player_gender == reader_male:
+                dict_set["male"].add(row["name"] + row["surname"])
+            else:
+                dict_set["female"].add(row["name"] + row["surname"])
+
+    return(dict_set)
 
 def preprocessing_date(file, date):
     tourney_date = reformat_date(date)
@@ -160,6 +127,7 @@ tournament_writer.writeheader()
 player_file = open("output/player.csv", "w")
 player_header = [str.replace("winner_id" , "player_id").replace("winner_name" , "name").replace("winner_hand" , "hand").replace("winner_ht" , "ht").replace("winner_ioc", "country_id") for str in headers["winner_player"]]
 player_header.insert(1, player_header.pop(-1))
+player_header.insert(3, "sex")
 player_header.append("year_of_birth")
 player_writer = csv.DictWriter(player_file, fieldnames=player_header, lineterminator = '\n')
 player_writer.writeheader()
@@ -198,16 +166,30 @@ for row in reader:
         set_id_tournament.add(line_tournament["tourney_id"])
         preprocessing_tournament(line_tournament, tournament_writer)
 
+    sets_player_gender = create_gender_sets()
+
     if line_winner_player["winner_id"] not in set_id_player:
         set_id_player.add(line_winner_player["winner_id"])
         if row["winner_age"] != "":
             winner_year_of_birth = year_of_birth(row["tourney_date"], row["winner_age"])
-        preprocessing_player(line_winner_player, player_writer, winner_year_of_birth)
+        if row["winner_name"] in sets_player_gender["male"]:
+            sex_winner_player = "M"
+        elif row["winner_name"] in sets_player_gender["female"]:
+            sex_winner_player = "F"
+        else:
+            sex_winner_player = ""
+        preprocessing_player(line_winner_player, player_writer, winner_year_of_birth, sex_winner_player)
     if line_loser_player["loser_id"] not in set_id_player:
         set_id_player.add(line_loser_player["loser_id"])
         if row["loser_age"] != "":
             loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
-        preprocessing_player(line_loser_player, player_writer, loser_year_of_birth)
+        if row["loser_name"] in sets_player_gender["male"]:
+            sex_loser_player = "M"
+        elif row["loser_name"] in sets_player_gender["female"]:
+            sex_loser_player = "F"
+        else:
+            sex_loser_player = ""
+        preprocessing_player(line_loser_player, player_writer, loser_year_of_birth, sex_loser_player)
 
     if curr_date["tourney_date"] not in set_id_date:
         set_id_date.add(curr_date["tourney_date"])
@@ -220,3 +202,4 @@ tennis_file.close()
 
 
 
+create_gender_sets()
