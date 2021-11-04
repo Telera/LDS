@@ -56,7 +56,7 @@ def geography_to_csv(path):
             if token == "continent":
                 ind_continent = ind
         first = True
-        file_continent = open("geography.csv", mode='a')
+        file_continent = open("geography____dd.csv", mode='a')
         file_continent.write("coutry_loc,continent,language")
         for line in f:
             if first:
@@ -164,10 +164,7 @@ player_header.append("year_of_birth")
 player_writer = csv.DictWriter(player_file, fieldnames=player_header, lineterminator = '\n')
 player_writer.writeheader()
 
-date_file = open("output/date.csv", "w")
-date_header = ["date_id","day","month","year","quarter"]
-date_writer = csv.DictWriter(date_file, fieldnames=date_header, lineterminator = '\n')
-date_writer.writeheader()
+
 
 set_id_tournament = set()
 set_id_player = set()
