@@ -164,7 +164,10 @@ player_header.append("year_of_birth")
 player_writer = csv.DictWriter(player_file, fieldnames=player_header, lineterminator = '\n')
 player_writer.writeheader()
 
-
+date_file = open("output/date.csv", "w")
+date_header = ["date_id", "day", "month","year" , "quarter"]
+date_writer = csv.DictWriter(date_file, fieldnames=date_header, lineterminator = '\n')
+date_writer.writeheader()
 
 set_id_tournament = set()
 set_id_player = set()
