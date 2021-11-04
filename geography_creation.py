@@ -27,10 +27,21 @@ def geography_to_csv(path):
     geography_writer = csv.DictWriter(geography_file, fieldnames=geography_header, lineterminator='\n')
     geography_writer.writeheader()
 
-
+    corrections = {'BUL': 'BGR',
+                   'SUI': 'CHE',
+                   'CHI' : 'CHL',
+                   'GER' : 'DEU',
+                   'RSA' : 'ZAF',
+                   'CRO' : 'HRV',
+                   'LAT' : 'LVA',
+                   'POR' : 'PRT',
+                   'GRE' : 'GRC',
+                   'URU' : 'URY'}
     for row in countries_reader:
-        dict_language[row["country_code"]]
-
+        if row["country_code"] in corrections.keys():
+            print(corrections[row["country_code"]])
+        else:
+            print(dict_language[row["country_code"]])
 
 
 
