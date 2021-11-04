@@ -1,6 +1,7 @@
 import csv
 import re
 import datetime
+
 """
 # tournament
 date id <- da creare
