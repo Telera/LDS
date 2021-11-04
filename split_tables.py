@@ -79,10 +79,12 @@ def create_gender_sets():
     for player_gender in players:
         for row in player_gender:
             if player_gender == reader_male:
-                dict_set["male"].add(row["name"] + row["surname"])
+                dict_set["male"].add(row["name"].replace("Mr ", "").replace("Mr", "").lower() + " " + row["surname"].lower())
             else:
-                dict_set["female"].add(row["name"] + row["surname"])
-
+                dict_set["female"].add(row["name"].replace("Mrs ", "").replace("Mrs", "").lower() + " " +  row["surname"].lower())
+    print(dict_set["male"])
+    male_file.close()
+    female_file.close()
     return(dict_set)
 
 def preprocessing_date(file, date):
@@ -141,6 +143,8 @@ set_id_tournament = set()
 set_id_player = set()
 set_id_date = set()
 
+sets_player_gender = create_gender_sets()
+
 for row in reader:
     line_match = {}
     line_tournament = {}
@@ -166,26 +170,28 @@ for row in reader:
         set_id_tournament.add(line_tournament["tourney_id"])
         preprocessing_tournament(line_tournament, tournament_writer)
 
-    sets_player_gender = create_gender_sets()
 
     if line_winner_player["winner_id"] not in set_id_player:
         set_id_player.add(line_winner_player["winner_id"])
         if row["winner_age"] != "":
             winner_year_of_birth = year_of_birth(row["tourney_date"], row["winner_age"])
-        if row["winner_name"] in sets_player_gender["male"]:
+        winner_name = row["winner_name"].replace("-", " ").replace("'", "").lower()
+        if winner_name in sets_player_gender["male"]:
             sex_winner_player = "M"
-        elif row["winner_name"] in sets_player_gender["female"]:
+        elif winner_name in sets_player_gender["female"]:
             sex_winner_player = "F"
         else:
             sex_winner_player = ""
         preprocessing_player(line_winner_player, player_writer, winner_year_of_birth, sex_winner_player)
+
     if line_loser_player["loser_id"] not in set_id_player:
         set_id_player.add(line_loser_player["loser_id"])
         if row["loser_age"] != "":
             loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
-        if row["loser_name"] in sets_player_gender["male"]:
+        loser_name = row["loser_name"].replace("-", " ").replace("'", "").lower()
+        if loser_name in sets_player_gender["male"]:
             sex_loser_player = "M"
-        elif row["loser_name"] in sets_player_gender["female"]:
+        elif loser_name in sets_player_gender["female"]:
             sex_loser_player = "F"
         else:
             sex_loser_player = ""
