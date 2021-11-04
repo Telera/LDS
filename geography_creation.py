@@ -1,9 +1,10 @@
 import csv
 
 def add_language(path):
+    num_commented_rows = 50
     file_language = open(path, "r")
     r = csv.reader(file_language, delimiter="\t")
-    for skip in range(50):
+    for skip in range(num_commented_rows):
         next(r)
     header = file_language.readline()
     tokens_header = header.strip().split('\t')
@@ -16,10 +17,23 @@ def add_language(path):
     return(languages)
 
 def geography_to_csv(path):
-    dict_language = add_language("language.txt")
-
+    dict_language = add_language("languages.txt")
     file_continent = open(path, "r")
-    continent_reader = csv.DictReader(file_continent)
+    countries_reader = csv.DictReader(file_continent)
+    header = countries_reader.fieldnames
+
+    geography_file = open("output/geography.csv", "w")
+    geography_header = ["country_ioc", "continent", "language"]
+    geography_writer = csv.DictWriter(geography_file, fieldnames=geography_header, lineterminator='\n')
+    geography_writer.writeheader()
+
+
+    for row in countries_reader:
+        dict_language[row["country_code"]]
+
+
+
+
     for ind, token in enumerate(tokens_header):
         if token == "country_code":
             ind_code = ind
@@ -56,5 +70,5 @@ def download_file(url,local_file, force=False):
         print(local_file,'already downloaded')
 
 
-download_file("http://download.geonames.org/export/dump/countryInfo.txt", "languages.txt")
+#download_file("http://download.geonames.org/export/dump/countryInfo.txt", "languages.txt")
 geography_to_csv("data2021/countries.csv")
