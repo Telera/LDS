@@ -1,6 +1,8 @@
 import csv
 
 def add_language(path):
+    country_attribute_ind = 4
+    language_attribute_ind = 15
     num_commented_rows = 50
     file_language = open(path, "r")
     r = csv.reader(file_language, delimiter="\t")
@@ -11,7 +13,7 @@ def add_language(path):
     print(tokens_header)
     languages = {}
     for line in r:
-        languages[line[1]] = line[15][:2]
+        languages[line[country_attribute_ind]] = line[language_attribute_ind][:2]
 
     file_language.close()
     return(languages)
@@ -26,46 +28,27 @@ def geography_to_csv(path):
     geography_header = ["country_ioc", "continent", "language"]
     geography_writer = csv.DictWriter(geography_file, fieldnames=geography_header, lineterminator='\n')
     geography_writer.writeheader()
-
-    corrections = {'BUL': 'BGR',
-                   'SUI': 'CHE',
-                   'CHI' : 'CHL',
-                   'GER' : 'DEU',
-                   'RSA' : 'ZAF',
-                   'CRO' : 'HRV',
-                   'LAT' : 'LVA',
-                   'POR' : 'PRT',
-                   'GRE' : 'GRC',
-                   'URU' : 'URY'}
+    geography_dict = {}
+    corrections = {'Great Britain' : 'United Kingdom',
+                   'United States of America' : 'United States',
+                   'New Zeland' : 'New Zealand',
+                   'Urugay' : 'Uruguay',
+                   'North Macedonia' : 'Macedonia',
+                   'Unknown' : 'Malaysia'
+                   }
     for row in countries_reader:
-        if row["country_code"] in corrections.keys():
-            print(corrections[row["country_code"]])
+        geography_dict["country_ioc"] = row["country_code"]
+
+        if row["continent"] == "Unknown":
+            geography_dict["continent"] = "Oceania"
         else:
-            print(dict_language[row["country_code"]])
+            geography_dict["continent"] = row["continent"]
 
-
-
-    for ind, token in enumerate(tokens_header):
-        if token == "country_code":
-            ind_code = ind
-        if token == "continent":
-            ind_continent = ind
-    first = True
-    file_continent = open("geography.csv", mode='a')
-    file_continent.write("country_ioc,continent,language")
-    for line in f:
-        if first:
-            first = False
+        if row["country_name"] in corrections.keys():
+            geography_dict["language"] = dict_language[corrections[row["country_name"]]]
         else:
-            tokens = line.strip().split(',')
-            diz_language = add_language("data2021/country_list.csv")
-            row = []
-            row.append(tokens[ind_code])
-            row.append(tokens[ind_continent])
-            row.append(dict_language[tokens[ind_country]])
-            print(row)
-            #todo write row in the file
-
+            geography_dict["language"] = dict_language[row["country_name"]]
+        geography_writer.writerow(geography_dict)
     file_continent.close()
 
 import urllib.request
