@@ -852,7 +852,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 105688,MEX,Manuel Sanchez,M,R,,1991
 137018,PAR,Ayed Zatar,M,R,,1996
 134677,PAR,Juan Borba,M,R,,1996
-209226,PAR,Adolfo Daniel Vallejo,M,R,,1996
+209226,PAR,Adolfo Daniel Vallejo,M,R,,
 122669,PER,Juan Pablo Varillas,,R,,1995
 108763,ESA,Alberto Emmanuel Alvarado Larin,M,U,,1994
 126190,PER,Nicolas Alvarez,M,R,,1996
@@ -860,7 +860,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 207134,INA,Fitriadi M Rifqi,M,R,,1999
 144650,GBR,Rhett Purcell,M,R,,1996
 105812,INA,David Agung Susanto,M,U,,1991
-209188,INA,Ari Fahresi,M,U,,1996
+209188,INA,Ari Fahresi,M,U,,
 207139,THA,Palaphoom Kovapitukted,M,R,,1999
 106150,PHI,Jeson Patrombon,M,R,,1993
 106397,THA,Wishaya Trongcharoenchaikul,M,R,,1995
@@ -1013,9 +1013,9 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 134114,TPE,Jad Ballout,M,U,,1996
 207176,INA,Muhammad Althaf Dhaifullah,M,R,,2000
 200045,INA,Anthony Susanto,M,R,,1997
-200620,PUR,Ignacio Garcia,M,,,1997
+200620,PUR,Ignacio Garcia,M,,,
 200274,PUR,Alex Diaz,M,,,1997
-200619,PUR,Sebastian Arcila,M,,,1997
+200619,PUR,Sebastian Arcila,M,,,
 111167,LUX,Ugo Nastasi,M,R,,1993
 126102,ROU,Nicolae Frunza,M,R,,1997
 144776,LUX,Christophe Tholl,M,,,1994
@@ -1865,7 +1865,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 212053,RUS,Anastasia Pribylova,F,U,,1996
 211266,RUS,Yulia Kulikova,F,U,,1989
 220460,CZE,Alexandra Silna,F,R,,2002
-215869,LTU,Paulina Bakaite,F,U,,2002
+215869,LTU,Paulina Bakaite,F,U,,
 215712,SUI,Nicole Gadient,F,U,,1998
 210062,CZE,Dagmar Dudlakova,F,R,,1990
 206145,CZE,Diana Sumova,F,U,,1994
@@ -1981,13 +1981,13 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 211529,EGY,Sandra Samir,F,R,,1997
 210848,ITA,Valeria Prosperi,F,U,,1995
 214259,RUS,Valeriya Denisenko,F,U,,1999
-216296,GER,Karolina Kowall,F,U,,1999
+216296,GER,Karolina Kowall,F,U,,
 211722,HUN,Szabina Szlavikovics,F,R,,1995
 220045,USA,Natasha Yonan,F,R,,1992
 214843,JPN,Kanako Osafune,F,L,,1997
 203195,JPN,Tomoko Dokei,F,U,,1981
 202231,JPN,Shiho Hisamatsu,F,R,,1979
-220240,EGY,Farah Khalil,F,U,,1979
+220240,EGY,Farah Khalil,F,U,,
 212054,GER,Amelie Intert,F,U,,1996
 204301,SRB,Barbara Bonic,F,R,,1992
 206187,RUS,Varvara Kuznetsova,F,R,,1992
@@ -2112,7 +2112,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 215619,POL,Klaudia Wira,F,U,,1997
 214340,RUS,Maria Zotova,F,U,,1996
 215242,EGY,Nermeen Shawky,F,R,,1999
-215760,SLO,Nina Kolar,F,U,,1996
+215760,SLO,Nina Kolar,F,U,,
 214125,ROU,Andreia Beberechi,F,U,,1997
 220509,IND,Krishnali Bhonsle,F,R,,1991
 220672,RUS,Milana Zhabrailova,F,U,,2003
@@ -2144,7 +2144,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 214878,FRA,Sophie Muntean,F,U,,2000
 220471,GBR,Dominique Chante Mclean,F,R,,1993
 214330,CHN,Zi Yi Wang,F,U,,1998
-220260,RUS,Anastasiya Khrustaleva,F,U,,1998
+220260,RUS,Anastasiya Khrustaleva,F,U,,
 215898,GER,Jule Niemeier,F,R,178.0,1999
 204415,USA,Alexandra Riley,F,U,,1991
 214014,MDA,Adriana Sosnovschi,F,R,,1998
@@ -2500,13 +2500,13 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 220800,SRB,Dejana Milenkovic,F,U,,2001
 205954,CRO,Ivana Klepic,F,R,,1991
 211720,JPN,Ai Kamiyoshihara,F,U,,1991
-220019,HKG,Venia Yeung,F,U,,1991
+220019,HKG,Venia Yeung,F,U,,
 215315,TPE,Yi Tsen Cho,F,U,,2001
 214989,HKG,Yan Tung Ki,F,R,,1991
 215318,JPN,Nagisa Morimoto,F,U,,1997
 210694,JPN,Sari Baba,F,R,,1994
 219543,CHN,Chunxi Xin,F,U,,2000
-219835,HKG,Hei Ching Claudia Ng,F,U,,2000
+219835,HKG,Hei Ching Claudia Ng,F,U,,
 202608,JPN,Akari Inoue,F,U,,1988
 214229,HKG,Man Ying Maggie Ng,F,R,,1996
 214589,TPE,I Hsuan Cho,F,U,,2000
@@ -2819,7 +2819,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 220774,LBN,Anna Maria Hayek,F,U,,2003
 216007,SRB,Draginja Vukovic,F,R,,2000
 220775,RUS,Sofia Sharonova,F,U,,2000
-220257,LIB,Nour Dib,F,U,,2000
+220257,LIB,Nour Dib,F,U,,
 220776,RUS,Eva Kovaleva,F,L,,2002
 216371,RUS,Daria Solovyeva,F,U,,2000
 220777,POL,Daria Walczak,F,R,,1999
@@ -3002,7 +3002,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 215372,RUS,Ksenia Laskutova,F,R,,1996
 220590,RUS,Avelina Sayfetdinova,F,U,,2002
 216299,RUS,Ekaterina Vishnevskaya,F,R,,1999
-215758,NGR,Loveth Donatus,F,U,,1999
+215758,NGR,Loveth Donatus,F,U,,
 215406,USA,Teresia Londol,F,U,,1999
 205492,IND,Ashmitha Easwaramurthi,F,R,,1989
 214087,NGR,Aminat Quadri,F,U,,1994
@@ -3156,7 +3156,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 220277,BUL,Berna Yahe,F,U,,2002
 220278,SRB,Nikolina Dzunov,F,U,,2000
 215953,UKR,Aza Petrova,F,U,,1999
-215602,BUL,Simona Borisova,F,U,,2000
+215602,BUL,Simona Borisova,F,U,,
 220279,TUR,Tuana Tinaztepe,F,U,,2002
 215076,TUR,Seven Oral,F,U,,1992
 206227,TUR,Cemre Anil,F,R,,1993
@@ -3174,7 +3174,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 213817,TUR,Muazzez Demirci,F,U,,1999
 215439,TUR,Azradeniz Comlek,F,U,,2001
 204255,SWE,Paulina Milosavljevic,F,U,,1991
-220242,TUR,Lidya Yargovan,F,U,,1991
+220242,TUR,Lidya Yargovan,F,U,,
 213727,ISR,Inbar Cohen,F,U,,1999
 203534,TUR,Melis Sezer,F,R,,1993
 214000,TUR,Inci Ogut,F,U,,1999
@@ -3183,7 +3183,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 216423,TUR,Zeynep Erman,F,U,,2001
 215342,TUR,Ebru Zeynep Yazgan,F,R,,2001
 216148,UKR,Anna Laguza,F,U,,2001
-220241,RUS,Anastasiia Chesnokova,F,R,,2001
+220241,RUS,Anastasiia Chesnokova,F,R,,
 216136,RUS,Anastasia Kharitonova,F,U,,2000
 220259,RUS,Daria Nazarkina,F,U,,1999
 211689,TUR,Deniz Paykoc,F,R,,1998
@@ -3360,7 +3360,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 202395,ARG,Maria Irigoyen,F,L,,1987
 220856,USA,Kirsten Pierce,F,U,,1993
 214067,USA,Idia Amen,F,R,,1993
-216312,USA,Maia Sosa,F,U,,1993
+216312,USA,Maia Sosa,F,U,,
 214566,USA,Alexis Thoma,F,U,,1995
 220857,USA,Amanda Vos,F,U,,1995
 210719,USA,Rachel Janssen,F,R,,1984
@@ -3478,7 +3478,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 110539,USA,Wil Spencer,M,U,,1989
 102864,GER,Frank Moser,M,R,193.0,1976
 204342,CHN,Nan Nan Zhang,F,R,,1992
-216588,JPN,Kaoru Okamoto,F,U,,1992
+216588,JPN,Kaoru Okamoto,F,U,,
 205616,CHN,Xin Wen,F,R,,1992
 202634,CHN,Chen Liang,F,R,,1989
 201428,FRA,Mathilde Johansson,F,R,173.0,1985
@@ -3568,14 +3568,14 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 211302,BEL,Eugenie Chapelle,F,U,,1995
 215575,TUR,Selin Ovunc,F,R,,2001
 216206,BEL,Phonexay Chitdara,F,U,,1998
-220243,BOL,Isabella Caballero,F,U,,1998
-220244,BOL,Paola Cortez Vargas,F,U,,1998
+220243,BOL,Isabella Caballero,F,U,,
+220244,BOL,Paola Cortez Vargas,F,U,,
 215303,ARG,Daniela Cozzi,F,R,,1998
-220245,BOL,Liria Loria Pereyra,F,U,,1998
+220245,BOL,Liria Loria Pereyra,F,U,,
 215672,BOL,Daniela Alejandra La Fuente Strassburger,F,U,,1999
 216307,USA,Ryan Peus,F,U,,1999
 219369,BOL,Lucia Gutierrez,F,U,,1998
-220246,RUS,Daria Lukyanova,F,R,,1998
+220246,RUS,Daria Lukyanova,F,R,,
 215665,BOL,Catalina Bloch,F,U,,1999
 214832,BOL,Carolina Torrico,F,U,,1999
 215666,BOL,Flavia Gutierrez,F,U,,1999
@@ -3615,7 +3615,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 215283,USA,Taylor Gruber,F,U,,1999
 215840,USA,Haley Giavara,F,R,,2000
 215274,USA,Bess Waldram,F,U,,1997
-215844,USA,Jenna Friedel,F,U,,1997
+215844,USA,Jenna Friedel,F,U,,
 216024,USA,Paiton Wagner,F,U,,1998
 216023,CAN,Louise Kwong,F,U,,1995
 214577,CAN,Stacey Fung,F,U,,1997
@@ -3691,10 +3691,10 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 216223,DEN,Vanessa Timm,F,U,,1997
 211332,SVK,Ivana Kopsova,F,U,,1993
 206222,GER,Madeline Bosnjak,F,U,,1995
-220248,KEN,Katarina Karanja,F,R,,1995
+220248,KEN,Katarina Karanja,F,R,,
 211252,IND,Tanisha Rohira,F,R,,1991
-220249,KEN,Paige Wanjiku Mbugua,F,U,,1991
-220247,KEN,Shufaa Changawa Ruwa,F,R,,1991
+220249,KEN,Paige Wanjiku Mbugua,F,U,,
+220247,KEN,Shufaa Changawa Ruwa,F,R,,
 211023,IND,Purnima Shakaalya,F,R,,1984
 220120,GHA,Yvonne Bruce Tagoe,F,R,,1996
 215774,EGY,Salma Abdel Rahim,F,R,,2000
@@ -3723,9 +3723,9 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 211825,RUS,Anastasiya Saitova,F,U,,1995
 214435,POL,Agata Jadwiga Bienkowska,F,U,,1996
 215116,RUS,Melissa Ishuan Ifidzhen,F,U,,1998
-215828,GER,Fabienne Schmidt,F,U,,1998
-215829,USA,Delisha Guttikonda,F,U,,1998
-215851,USA,Hoda Habib,F,U,,1998
+215828,GER,Fabienne Schmidt,F,U,,
+215829,USA,Delisha Guttikonda,F,U,,
+215851,USA,Hoda Habib,F,U,,
 213717,BIH,Emilija Ceranic,F,U,,1994
 214823,GER,Ribana Roth,F,U,,1997
 215896,IND,Niditra Rajmohan,F,U,,1999
@@ -3781,7 +3781,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 215005,UKR,Vlada Filinskaya,F,U,,1998
 214429,UKR,Diana Bakuta,F,U,,1999
 220172,BDI,Athalis Dimitra Kratouni,F,R,,1997
-220239,IND,Meenal Maharwal,F,R,,1997
+220239,IND,Meenal Maharwal,F,R,,
 216396,GBR,Isabella Nunez,F,L,,2002
 209418,ROU,Diana Popescu,F,U,,1988
 204428,ESP,Miriam Civera Lima,F,U,,1995
@@ -4066,7 +4066,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 215841,MEX,Imperia Martinez Mora,F,U,,1999
 215842,MEX,Maria Jose Hernandez Magro Quiroz,F,U,,2000
 204360,MEX,Carolina Betancourt,F,R,,1993
-215843,MEX,Claudia Cecilia Rosas Garcia,F,U,,1993
+215843,MEX,Claudia Cecilia Rosas Garcia,F,U,,
 215358,MEX,Erandi Xanat Martinez Hernandez,F,U,,1998
 215845,MEX,Samanta Villegas,F,U,,2000
 206373,MEX,Regina Clark,F,U,,1996
@@ -4077,7 +4077,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 216309,MEX,Amanda Miguel Perez Franco,F,R,,1996
 216310,MEX,Abigail Cazarez Gonzalez,F,U,,2000
 216311,MEX,Ingrid Carolina Millan,F,U,,2001
-216313,MEX,Haina Franco,F,U,,2001
+216313,MEX,Haina Franco,F,U,,
 216314,MEX,Claudia Paulina Lopez,F,U,,1997
 215102,SRB,Nina Nikitovic,F,U,,1998
 215564,IND,Simran Kejriwal,F,U,,2000
@@ -4210,7 +4210,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 215677,CAN,Anne Sophie Courteau,F,U,,1998
 215952,SRB,Kristina Kostic,F,U,,1997
 214190,CAN,Nicole Baloescu,F,U,,1997
-215756,SVK,Eva Kolarovska,F,U,,1997
+215756,SVK,Eva Kolarovska,F,U,,
 215734,FRA,Julie Renson Miquel,F,U,,1997
 210542,TUN,Mouna Jebri,F,R,,1995
 216239,ITA,Magdalena Santer,F,U,,2000
@@ -4351,7 +4351,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 211388,USA,Sydney Campbell,F,U,,1995
 214287,USA,Jeannez Daniel,F,U,,1996
 216568,USA,Allison Bojczuk,F,U,,1998
-223126,RUS,Ekaterina Makarova,F,U,,1998
+223126,RUS,Ekaterina Makarova,F,U,,
 201508,CZE,Petra Cetkovska,F,R,172.0,1985
 216246,FRA,Esther Thebault,F,U,,1998
 216339,MEX,Karla De La Luz Montalvo,F,U,,1998
@@ -4436,22 +4436,22 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 105443,ESP,Georgi Rumenov Payakov,M,U,,1989
 111156,USA,Nathan Pasha,M,U,,1992
 103780,USA,Eric Butorac,M,L,190.0,1981
-206863,USA,Nikita Girey Demir,M,U,,1981
+206863,USA,Nikita Girey Demir,M,U,,
 103822,USA,Scott Lipsky,M,R,185.0,1981
-206862,USA,Leon Vessels,M,U,,1981
+206862,USA,Leon Vessels,M,U,,
 105674,BRA,Carlos Eduardo Severino,M,U,,1990
 126197,BRA,Orlando Luz,M,R,,1998
 208364,URU,Franco Roncadelli,M,L,,2000
 126612,MDA,Alexander Cozbinov,M,R,,1995
 200390,POL,Kacper Zuk,M,R,,1999
 133018,CYP,Michail Pervolarakis,M,R,,1996
-209327,QAT,Rashed Nawaf,M,R,,1996
+209327,QAT,Rashed Nawaf,M,R,,
 144915,BLR,Mikalai Haliak,M,R,,1998
 200039,AUS,Matthew Christopher Romios,M,U,,1999
 126573,AUS,Thomas Fancutt,M,R,,1995
 221761,AUS,Charlotte Kempenaers Pocz,F,U,,2004
 220904,AUS,Amber Marshall,F,U,,2001
-222675,GBR,Amarni Banks,F,R,,2001
+222675,GBR,Amarni Banks,F,R,,
 105810,JPN,Shuichi Sekiguchi,M,R,,1991
 208485,NZL,Kiranpal Pannu,M,R,,1997
 106057,ARG,Facundo Mena,M,R,,1992
@@ -4503,7 +4503,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 132374,CAN,Jesse Flores,M,R,,1995
 209869,CRC,Rodrigo Crespo Piedra,M,R,,2001
 144687,USA,Quinton Vega,M,R,,1992
-209080,USA,Blaise Bicknell,M,R,,2000
+209080,USA,Blaise Bicknell,M,R,,
 202120,JAM,Rowland Phillips,M,R,,1994
 104901,EST,Vladimir Ivanov,M,R,,1987
 144932,EST,Kristjan Tamm,M,U,,1998
@@ -4519,9 +4519,9 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 209871,EGY,Amr Elsayed Abdou Ahmed Mohamed,M,U,,1999
 122533,VIE,Nam Hoang Ly,M,R,,1997
 202300,VIE,Phuong Van Nguyen,M,R,,2001
-209119,MAR,Aissa Benchakroun,M,U,,1999
+209119,MAR,Aissa Benchakroun,M,U,,
 144775,VIE,Linh Giang Trinh,M,,,1997
-209225,PAR,Martin Antonio Vergara Del Puerto,M,U,,1999
+209225,PAR,Martin Antonio Vergara Del Puerto,M,U,,
 209872,SRI,Thehan Sanjaya Wijemanne,M,L,,2003
 209873,PHI,Eric Jr. Olivarez,M,R,,1998
 205695,HKG,Ching Lam,M,R,,1999
@@ -4937,7 +4937,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 126748,ESP,Juan Pablo Canas Garcia,M,U,,1997
 202326,ESP,Ivan Marrero Curbelo,M,U,,1998
 105278,BEN,Alexis Klegou,M,U,,1989
-206192,ESP,Tao Castillo Bernal,M,U,,1997
+206192,ESP,Tao Castillo Bernal,M,U,,
 206887,ESP,Rodrigo Ramos Codes,M,U,,1999
 200469,ESP,Iouri Sant Syromolotov Netrebin,M,R,,1997
 127097,ESP,Leandro Serrano Sanz,M,U,,1994
@@ -4972,7 +4972,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 109590,MEX,Alfredo Moreno,M,R,,1991
 122487,MEX,Carlos Ramirez Utermann,M,U,,1995
 104431,MEX,Antonio Ruiz Rosales,M,R,,1984
-206826,MEX,Andres Rosales Pacheco,M,U,,1995
+206826,MEX,Andres Rosales Pacheco,M,U,,
 122578,MEX,Andres Alvarez Cerdan,M,U,,1995
 126473,SLO,Aljaz Radinski,M,R,,1995
 126169,RUS,Ilya Vasilyev,M,U,,1996
@@ -5006,9 +5006,9 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 104070,USA,Jesse Witten,M,R,178.0,1982
 126886,ITA,Daniele Spinnato,M,U,,1992
 190030,ITA,Enrico Becuzzi,M,R,,1973
-128021,ITA,Paride Mangiaterra,M,U,,1973
+128021,ITA,Paride Mangiaterra,M,U,,
 105296,ITA,Lorenzo Frigerio,M,R,,1989
-127068,ITA,Edoardo Castagna,M,U,,1989
+127068,ITA,Edoardo Castagna,M,U,,
 123858,ITA,Antonio Massara,M,R,,1995
 109686,ITA,Riccardo Bonadio,M,U,,1993
 128056,ITA,Paolo Dagnino,M,U,,1997
@@ -5056,7 +5056,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 126449,ITA,Marco Mosciatti,M,U,,1997
 126201,ITA,Francesco Bessire,M,R,,1994
 105130,UKR,Vladimir Uzhylovsky,M,R,183.0,1988
-206836,ITA,Gianmarco De Santis,M,,,1994
+206836,ITA,Gianmarco De Santis,M,,,
 127089,ITA,Lorenzo Abbruciati,M,U,,1990
 126141,ITA,Filippo Giorgetti,M,R,,1993
 126946,ITA,Lorenzo Camilli,M,U,,1997
@@ -5066,7 +5066,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 105264,AUS,Isaac Frost,M,R,,1989
 104288,AUS,Leon Frost,M,R,,1984
 206812,FRA,Romain Bousquet,M,U,,1989
-109246,FRA,Nicolas Ngodrela,M,U,,1989
+109246,FRA,Nicolas Ngodrela,M,U,,
 106156,FRA,Sebastien Boltz,M,R,,1993
 126512,FRA,Fabien Reboul,M,U,,1995
 130550,FRA,Victor Ouvrard,M,U,,1992
@@ -5138,7 +5138,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 123835,GER,Leon Schutt,M,U,,1993
 105388,NED,Lennert Van Der Linden,M,R,,1989
 206858,GBR,Joshua Oxley,M,R,,1990
-206857,ITA,Vittorio Angeli,M,U,,1990
+206857,ITA,Vittorio Angeli,M,U,,
 127555,ITA,Andrea Baldoni,M,U,,1993
 206856,ITA,Andrea Militi Ribaldi,M,U,,1999
 121816,ITA,Gianluca Di Nicola,M,U,,1995
@@ -5236,7 +5236,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 144815,RUS,Alexander Boborykin,M,U,,1996
 106040,GER,Peter Heller,M,R,,1992
 121777,GER,Nils Brinkman,M,R,,1992
-206855,ERI,Beruk Tsegai,M,,,1992
+206855,ERI,Beruk Tsegai,M,,,
 206928,ITA,Michael Kerschbaumer,M,U,,1997
 121584,ITA,Luca Pancaldi,M,R,,1993
 128140,ITA,Patric Prinoth,M,U,,1996
@@ -5253,7 +5253,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 125855,USA,Michael Grant Gd13,M,U,,1992
 206830,FRA,Alexandre Belmonte,M,U,,1999
 206829,FRA,Wilhem Labrador,M,L,,2000
-201899,FRA,Aurelien Marne,M,U,,2000
+201899,FRA,Aurelien Marne,M,U,,
 127108,BRA,Igor Ribeiro Marcondes,M,U,,1997
 206767,COL,Jose Rene Mejia,M,U,,1998
 104535,MEX,Daniel Garza,M,R,,1985
@@ -5274,7 +5274,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 111796,BRA,Eduardo Russi,M,R,,1995
 105996,BRA,Alex Blumenberg,M,U,,1992
 202183,BRA,Gabriel Decamps,M,U,,1999
-206901,BRA,Joao Vitor Prado Festa,M,U,,1999
+206901,BRA,Joao Vitor Prado Festa,M,U,,
 206902,BRA,Giovane Bueres,M,U,,1999
 105498,BRA,Rafael Camilo,M,U,,1990
 144704,BRA,Gustavo De Oliveira Cruz Cruz,M,U,,1997
@@ -5306,7 +5306,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 138233,CHN,Hantao Liu,M,U,,1997
 110763,CHN,Aoxiong Wang,M,R,,1995
 122018,CHN,Jun Nan Tao,M,R,,1994
-200055,CHN,Rui Xuan Wang,M,U,,1994
+200055,CHN,Rui Xuan Wang,M,U,,
 206914,PER,Mateo Vereau Melendez,M,U,,2001
 110760,PER,Sergio Monges,M,U,,1992
 135730,MEX,Javier Rodriguez,M,U,,1991
@@ -5370,7 +5370,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 105672,USA,Jarmere Jenkins,M,R,,1990
 124050,AUS,Darren K Polkinghorne,M,U,,1993
 109554,ITA,Savino Lapalombella,M,U,,1979
-206834,ITA,Giuseppe Tresca,M,,,1979
+206834,ITA,Giuseppe Tresca,M,,,
 105439,GBR,Neal Skupski,M,R,,1989
 125823,ITA,Andrea Grazioso,M,R,,1993
 144833,ARG,Andres Gabriel Ciurletti,M,U,,1998
@@ -5394,7 +5394,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 106168,IND,Sidharth Rawat,M,U,,1993
 106240,IND,Mohit Mayur Jayaprakash,M,R,,1993
 200681,IND,Adil Kalyanpur,M,R,,2000
-145018,MEX,Fabian Lara,M,U,,2000
+145018,MEX,Fabian Lara,M,U,,
 105330,MEX,Raul Isaias Rosas Zarur,M,R,,1989
 206820,MEX,Rodrigo Chavez,M,U,,1998
 121996,MEX,Adrian Fernandez,M,R,,1993
@@ -5430,7 +5430,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 106260,ITA,Pietro Rondoni,M,U,,1993
 105789,ESP,Marc Giner,M,R,,1991
 105875,FRA,Thomas Giraudeau,M,U,,1991
-206840,ITA,Filippo Moggian,M,,,1991
+206840,ITA,Filippo Moggian,M,,,
 132278,ITA,Giovanni Orsoni,M,U,,1995
 206839,ITF,Filippo Piranomonte,M,U,,2001
 202431,MAR,Driss Lbahy,M,U,,2000
@@ -5560,7 +5560,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 134545,GBR,Alexis Canter,M,U,,1998
 202108,USA,Tyler Mercier,M,R,,1991
 200332,ARG,Felipe Martinez Sarrasague,M,U,,1997
-206892,USA,Michael Ogden,M,,,1997
+206892,USA,Michael Ogden,M,,,
 111570,USA,Ronnie Schneider,M,U,,1994
 126598,MNE,Igor Saveljic,M,R,,1995
 200338,USA,Robert Levine,M,U,,1997
@@ -5667,7 +5667,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 105257,GBR,David Rice,M,R,,1989
 111179,THA,Teeradon Tortrakul,M,U,,1996
 201904,THA,Jatuporn Nalamphun,M,U,,1993
-127151,THA,Jirayu Limpathum,M,U,,1993
+127151,THA,Jirayu Limpathum,M,U,,
 122537,ARG,Manuel Barros,M,R,,1994
 121604,ARG,Luciano Doria,M,U,,1993
 121771,ARG,Brian Orradre,M,L,,1992
@@ -5679,9 +5679,9 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 109331,CHN,Xiao Gong,M,U,,1992
 108717,PHI,Francis Casey Alcantara,M,U,,1992
 206818,BRA,Christian Oliveira,M,U,,1999
-206817,BRA,Joao Luiz Carvalho,M,U,,1999
+206817,BRA,Joao Luiz Carvalho,M,U,,
 206816,BRA,Felipe Lima,M,U,,1999
-127128,BRA,Enzo Kohn,M,U,,1999
+127128,BRA,Enzo Kohn,M,U,,
 206815,BRA,Lucas Lobao,M,U,,1997
 206814,BRA,Joao Gabriel Velloso,M,U,,1999
 206874,MEX,Juan Ignacio Batalla Diez,M,L,,1999
@@ -5727,7 +5727,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 206881,THA,Chanon Phunsawat,M,U,,2000
 106339,BRA,Felipe Assuncao Garla,M,R,,1994
 206784,BRA,Enrico Dos Santos Lima,M,U,,1998
-206882,BRA,Lucas Agra,M,U,,1998
+206882,BRA,Lucas Agra,M,U,,
 105981,HUN,Levente Godry,M,R,,1992
 102737,HUN,Gergely Kisgyorgy,M,R,,1976
 111567,USA,Matthew Kandath,M,U,,1991
@@ -5745,7 +5745,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 127553,ITA,Manuel Ribeca,M,U,,1985
 127554,ITA,Mattia Mannocci,M,U,,1991
 128065,ITA,Stefano Baldoni,M,U,,1997
-206851,ITA,Giulio Giulioli,M,U,,1997
+206851,ITA,Giulio Giulioli,M,U,,
 105054,SVK,Michal Pazicky,M,R,,1987
 206852,SVK,Peter Samosi,M,U,,1998
 123869,SRB,Petar Conkic,M,U,,1996
@@ -5813,7 +5813,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 125848,NED,Niels Lootsma,M,U,,1994
 207409,GER,Jason Jeremy Hildebrandt,M,U,,1999
 126388,CAN,Raheel Manji,M,R,,1997
-207276,CRO,Rocco Savin,M,U,,1997
+207276,CRO,Rocco Savin,M,U,,
 105926,GBR,Tom Farquharson,M,U,,1992
 202226,SVK,David Juras,M,R,,1999
 207671,SVK,Martin Fekiac,M,U,,1999
@@ -5908,7 +5908,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 207173,KAZ,Timur Maulenov,M,R,,2000
 133835,NED,Gijs Brouwer,M,L,,1996
 105128,ESP,Guillermo Olaso,M,U,,1988
-207142,NED,Guy Stokman,M,R,,1996
+207142,NED,Guy Stokman,M,R,,
 133925,GER,Leonard Von Hindte,M,R,,1994
 126320,ITA,Lorenzo Santini,M,R,,1994
 127010,ITA,Federico Cecconi,M,U,,1996
@@ -5961,7 +5961,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 133149,JPN,Nasa Hatakeyama,M,U,,1997
 137214,KOR,Sung Min Han,M,U,,1995
 134089,SRB,Igor Kolaric,M,U,,1997
-201949,GER,Felix Albert,M,U,,1997
+201949,GER,Felix Albert,M,U,,
 132345,ESP,Juan Erro,M,U,,1998
 126808,CZE,Filip Dolezel,M,U,,1993
 122410,FRA,Victor Girat Magin,M,U,,1993
@@ -6021,7 +6021,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 206785,CHI,Nicolas Acevedo,M,U,,1999
 123929,GER,Luca Gelhardt,M,U,,1994
 106230,GBR,Oliver Hudson,M,R,,1993
-201994,CHI,Carlos  Cuevas,M,U,,1993
+201994,CHI,Carlos  Cuevas,M,U,,
 144884,MEX,Cesar Antonio Gomez Diaz,M,R,,1998
 207156,POL,David Argasinski,M,U,,2000
 105440,SRB,Arsenije Zlatanovic,M,R,193.0,1989
@@ -6048,7 +6048,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 105743,KOR,Dae Hee Lee,M,U,,1991
 122116,KOR,Dong Hak Sin,M,U,,1992
 132917,KOR,Jun Sang Park,M,U,,1995
-127947,ITA,Domenico Scelzi,M,U,,1995
+127947,ITA,Domenico Scelzi,M,U,,
 133764,ITA,Kevin Portmann,M,R,,1993
 202345,SWE,Arvid Nordquist,M,U,,1998
 126732,SWE,Eric Ahren Moonga,M,R,,1995
@@ -6235,12 +6235,12 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 133794,IND,S D Prajwal Dev,M,R,,1996
 207210,IND,Nikshep Ballekere Ravikumar,M,R,,1998
 105836,FRA,Jules Marie,M,R,,1991
-209855,GBR,James Hopper,M,U,,1991
+209855,GBR,James Hopper,M,U,,
 207460,USA,Nico Mostardi,M,U,,1998
 208353,ITA,Francesco Maestrelli,M,U,,2002
 121497,ROU,Mircea Alexandru Jecan,M,L,,1988
 200170,MEX,Alonso Alejandro Delgado,M,U,,1994
-209062,CAN,Kamen Damov,M,U,,1994
+209062,CAN,Kamen Damov,M,U,,
 208654,CAN,Ilya Tiraspolsky,M,U,,2002
 208073,CAN,Razvan Baiant,M,R,,2000
 124069,USA,Korey Lovett,M,R,,1996
@@ -6250,7 +6250,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 207993,CAN,Justin Boulais,M,U,,2001
 132573,SUI,Luca Castelnuovo,M,U,,1997
 144701,FRA,Mathieu Perchicot,M,U,,1992
-208927,USA,Milledge Cossu,M,R,,1992
+208927,USA,Milledge Cossu,M,R,,
 126758,SWE,Simon Freund,M,U,,1996
 106160,BLR,Aliaksandr Bulitski,M,R,,1993
 208458,KAZ,Bekzat Usipbekov,M,U,,2001
@@ -6265,7 +6265,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 209880,RSA,Carl Roothman,M,U,,2003
 139052,ZIM,Muzingaye Dickson Andile Sibanda,M,U,,1997
 206776,RSA,Pierre Malan,M,U,,2001
-209288,RSA,Chrisjan Van Wyk,M,R,,2001
+209288,RSA,Chrisjan Van Wyk,M,R,,
 209278,RSA,Alec Beckley,M,U,,2001
 132456,RSA,Vasilios Caripi,M,U,,1991
 207813,RSA,Robbie Arends,M,U,,2001
@@ -6279,7 +6279,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 208457,ROU,Radu Mihai Papoe,M,R,,2002
 206471,ROU,Matei Adrian Georgescu,M,U,,2001
 200329,SUI,Remy Bertola,M,R,,1998
-209343,ITA,Gabriele Felline,M,U,,1998
+209343,ITA,Gabriele Felline,M,U,,
 208286,GBR,Matteo Arnaldi,M,R,183.0,2001
 207546,ESP,Pol Martin Tiffon,M,U,,1999
 209128,ESP,Diego Augusto Barreto Sanchez,M,U,,2002
@@ -6289,11 +6289,11 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 208328,GER,Max Wiskandt,M,R,,2002
 200595,ITA,Lorenzo Bocchi,M,R,,1997
 202159,USA,Brian Cernoch,M,U,,1999
-209176,ECU,Angel Diaz Jalil,M,R,,1999
+209176,ECU,Angel Diaz Jalil,M,R,,
 209180,ECU,Alexander Zederbauer,M,U,,2001
 102093,USA,Martin Damm,M,L,,2003
 138485,PER,Conner Huertas Del Pino,M,U,,1995
-209108,PER,Gianluca Ballotta,M,U,,1995
+209108,PER,Gianluca Ballotta,M,U,,
 208320,PER,Christopher Li,M,R,,2003
 207799,BRA,Matheus Pucinelli De Almeida,M,U,,2001
 206307,BRA,Joao Lucas Reis Da Silva,M,R,,2000
@@ -6332,8 +6332,8 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 208426,POR,Tiago Torres,M,U,,2002
 202247,BEL,Simon Beaupain,M,U,,1999
 208757,POR,Miguel Gomes,M,U,,2003
-209890,CRO,Mili Poljicak ,M,U,,2003
-209041,CRO,Bozo Barun,M,R,,2003
+209890,CRO,Mili Poljicak ,M,U,,
+209041,CRO,Bozo Barun,M,R,,
 200197,SRB,Boris Butulija,M,U,,1999
 210026,ECU,Juan Diego Rojas,M,U,,2003
 210027,ECU,Omar Suarez,M,U,,2004
@@ -6375,22 +6375,22 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 210008,KAZ,Islam Orynbasar,M,U,,2004
 207517,ITA,Alessio De Bernardis,M,U,,2000
 210097,USA,Ben Shelton,M,L,,2002
-210022,KAZ,Kirill Kolganov,M,U,,2002
+210022,KAZ,Kirill Kolganov,M,U,,
 132744,ESP,Alberto Barroso Campos,M,R,,1996
 208213,ESP,Blas Ruiz Romero,M,U,,2003
 208540,ESP,Inaki Montes De La Torre,M,U,,2002
-209204,FIN,Iiro Vasa,M,U,,2002
+209204,FIN,Iiro Vasa,M,U,,
 208688,FIN,Roni Rikkonen,M,U,,2000
 207969,USA,Stefan Dostanic,M,R,,2001
 207686,RUS,Alexander Shevchenko,M,U,,2000
-209974,POL,Aleksander Orlikowski,M,U,,2000
+209974,POL,Aleksander Orlikowski,M,U,,
 207457,POL,Wojciech Marek,M,R,,2001
-209212,POL,Marcel Politowicz,M,U,,2001
+209212,POL,Marcel Politowicz,M,U,,
 134457,ESP,Nicolas Moreno De Alboran,M,U,,1997
 208279,ESP,Alejandro Moro Canas,M,U,,2000
 208809,ESP,Nicolas Herrero Cuesta,M,U,,2002
 210042,ITA,Gabriele Piraino,M,L,,2003
-210054,CZE,Matthew William Donald,M,U,,2003
+210054,CZE,Matthew William Donald,M,U,,
 202161,NED,Bart Stevens,M,R,,1998
 208115,CZE,Krystof Zapsky,M,U,,2001
 207601,ITA,Manuel Mazza,M,U,,1999
@@ -6401,7 +6401,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 209191,UKR,Oleksandr Ovcharenko,M,R,,2001
 206797,CZE,Jiri Jenicek,M,R,,1999
 209910,POL,Szymon Kielan,M,U,,2002
-210155,POL,Jasza Szajrych,M,U,,2002
+210155,POL,Jasza Szajrych,M,U,,
 201364,FRA,Tatiana Golovin,F,R,175.0,1988
 221404,AUT,Emily Meyer,F,U,,2001
 220502,CAN,Ariana Arseneault,F,U,,2002
@@ -6435,7 +6435,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 222258,CZE,Linda Fruhvirtova,F,R,,2005
 223253,PHL,Alexandra Eala,F,U,,2005
 222037,USA,Rachel Gailis,F,R,,2004
-223318,USA,Whitley Pate,F,U,,2004
+223318,USA,Whitley Pate,F,U,,
 222032,USA,Gabriella Price,F,R,,2003
 223360,CZE,Nikola Bartunkova,F,R,,2006
 221190,GER,Julia Middendorf,F,U,,2003
@@ -6545,7 +6545,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 202124,JPN,Kousuke Ogura,M,U,,1996
 208736,JPN,Yasunori Hashikawa,M,U,,1998
 124051,JPN,Yuya Ito,M,U,,1997
-208389,JPN,James Trotter,M,U,,1997
+208389,JPN,James Trotter,M,U,,
 111739,USA,Maksim Tikhomirov,M,U,,1990
 207901,USA,Robert Cash,M,U,,2001
 207790,GER,Osman Torski,M,U,,2001
@@ -6672,7 +6672,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 202322,AUS,Erik Holt Crossman,M,U,,1997
 132859,AUS,Jason Taylor,M,U,,1994
 132128,AUS,Radomir Jovanovic,M,R,,1993
-130109,GBR,Adam Taylor,M,R,,1993
+130109,GBR,Adam Taylor,M,R,,
 207728,AUS,Moerani Bouzige,M,R,,1999
 205869,MEX,Isaac Arturo Arevalo,M,U,,2000
 133621,FRA,Vincent Verpeaux,M,U,,1991
@@ -6746,12 +6746,12 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221332,PER,Daianne Hayashida,F,U,,2003
 222305,PER,Romina Ccuno,F,R,,2002
 221836,PER,Camila Soares,F,U,,2003
-222145,INA,Janice Tjen,F,U,,2003
+222145,INA,Janice Tjen,F,U,,
 222390,TPE,Ya Yi Yang,F,L,,2004
 221187,INA,Priska Madelyn Nugroho,F,R,,2003
 221102,UZB,Setora Normurodova,F,U,,2002
 221257,AUT,Sinja Kraus,F,U,,2002
-222137,GRE,Dimitra Pavlou,F,R,,2002
+222137,GRE,Dimitra Pavlou,F,R,,
 223129,GRE,Michaela Laki,F,U,,2005
 223130,MGL,Bolor Enkhbayar,F,U,,1997
 223131,MGL,Erdenesuren Erdenebat,F,U,,1994
@@ -6763,7 +6763,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 223135,PHI,Shaira Hope Rivera,F,U,,1999
 223136,TKM,Rozhan Karajayeva,F,U,,2005
 223137,TKM,Arzuv Klycheva,F,U,,1999
-223005,THA,Anchisa Chanta,F,U,,1999
+223005,THA,Anchisa Chanta,F,U,,
 223138,TKM,Bahar Toymyradova,F,U,,2003
 223140,MGL,Shinejargal Battur,F,U,,1999
 205499,USA,Pamela Montez,F,R,,1990
@@ -6788,7 +6788,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221026,AUS,Zara Brankovic,F,U,,2001
 220905,AUS,Tayla Whitehouse,F,R,,2001
 221028,AUS,Isabelle Papazyan,F,U,,2002
-222754,AUS,Kirijana Petreski,F,R,,2002
+222754,AUS,Kirijana Petreski,F,R,,
 213541,AUS,Alexandra Osborne,F,U,,1995
 221203,RUS,Alexandra Vasilyeva,F,U,,2001
 221008,POL,Magdalena Zajda,F,U,,1999
@@ -7228,7 +7228,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221255,NED,Nynke Hamburg,F,U,,2001
 211888,NGR,Osariemen Airhunmwunde,F,U,,1986
 221360,USA,Adesuwa Osabuohien,F,R,,1994
-215761,NGR,Aanu Ayegbusi,F,U,,1994
+215761,NGR,Aanu Ayegbusi,F,U,,
 220955,NOR,Emely Kahrs,F,U,,2001
 221200,NOR,Lene Mari Bolkesjo Hovda,F,U,,2000
 215689,NOR,Mina Adelin Pedersen,F,U,,1999
@@ -7275,7 +7275,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221451,RSA,Maretha Burger,F,R,,2002
 221452,GBR,Annunciata De Souza,F,U,,1999
 211135,RSA,Amy Olivier,F,R,,1995
-215742,RSA,Corin De Waal,F,U,,1995
+215742,RSA,Corin De Waal,F,U,,
 221475,RSA,Paige Wise,F,U,,2002
 221476,RSA,Marne Dercksen,F,U,,2001
 221477,RSA,Tamsin Hart,F,U,,2001
@@ -7431,7 +7431,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221520,ESP,Maria Penalver Aguilo,F,U,,2002
 221537,ESP,Paloma Perez Bota,F,R,,2002
 221515,RUS,Maria Andrienko,F,U,,2004
-223229,ESP,Alba Ferreres Fernandez,F,U,,2004
+223229,ESP,Alba Ferreres Fernandez,F,U,,
 202545,LAT,Irina Kuzmina,F,R,,1986
 221521,FIN,Emilia Hartman,F,U,,2003
 221645,UNK,Trinite Klamadji,F,R,,1997
@@ -7441,48 +7441,48 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221511,USA,Ruth Marsh,F,U,,2001
 221633,USA,Sophie Williams,F,U,,2004
 221509,USA,Ava Hrastar,F,U,,2002
-222266,USA,Scout Mathews,F,U,,2004
+222266,USA,Scout Mathews,F,U,,
 221745,TPE,Kuan Yi Lee,M,R,,2002
 221903,CHN,Meng Yi Chen,F,U,,2003
-222640,ARG,Lucero Noeli Monsalvo,F,U,,2002
-222639,ARG,Emma Jazmin Seo,F,U,,2003
-222641,CHI,Martina Macarena Torrales Tebes,F,R,,2003
-222642,ARG,Renata Gregorutti,F,U,,2002
-222643,ARG,Aldana Dominguez,F,U,,2003
-222644,ARG,Sol Faga,F,U,,2002
-222645,ARG,Chiara Fiorenza,F,U,,2003
-222647,ARG,Daiana Postay,F,U,,2002
-222646,ARG,Emilse Lujan Ruiz,F,U,,2003
+222640,ARG,Lucero Noeli Monsalvo,F,U,,
+222639,ARG,Emma Jazmin Seo,F,U,,
+222641,CHI,Martina Macarena Torrales Tebes,F,R,,
+222642,ARG,Renata Gregorutti,F,U,,
+222643,ARG,Aldana Dominguez,F,U,,
+222644,ARG,Sol Faga,F,U,,
+222645,ARG,Chiara Fiorenza,F,U,,
+222647,ARG,Daiana Postay,F,U,,
+222646,ARG,Emilse Lujan Ruiz,F,U,,
 219403,ARG,Ornella Marcela Spinetta,F,U,,1994
-222648,USA,Krystal Blanch,F,U,,2003
-222649,ARG,Martina Maria Bovio,F,U,,1994
-222650,ARG,Coral Scherb,F,U,,2003
-222652,ARG,Sofia Magaly Sanchez,F,U,,1994
-222651,ARG,Maria Tiziana Ferrante,F,U,,2003
-222262,USA,Jamilah Snells,F,U,,2003
-222653,GUA,Valeria Porras Buezo,F,U,,2003
-222654,ARG,Paula Maria Curci Micieli,F,U,,2003
-222607,ARG,Betina Buris,F,U,,1994
-222655,ARG,Maria Victoria Marchesini,F,U,,2003
+222648,USA,Krystal Blanch,F,U,,
+222649,ARG,Martina Maria Bovio,F,U,,
+222650,ARG,Coral Scherb,F,U,,
+222652,ARG,Sofia Magaly Sanchez,F,U,,
+222651,ARG,Maria Tiziana Ferrante,F,U,,
+222262,USA,Jamilah Snells,F,U,,
+222653,GUA,Valeria Porras Buezo,F,U,,
+222654,ARG,Paula Maria Curci Micieli,F,U,,
+222607,ARG,Betina Buris,F,U,,
+222655,ARG,Maria Victoria Marchesini,F,U,,
 220926,ARG,Lara Rosario De Faveri,F,U,,2001
-222656,ARG,Valentina Domenicone,F,U,,2001
-222300,ARG,Camila Antonella Neyra,F,U,,2001
+222656,ARG,Valentina Domenicone,F,U,,
+222300,ARG,Camila Antonella Neyra,F,U,,
 221932,BRA,Julia Klimovicz,F,R,,2003
-222657,ARG,Malena Canon,F,U,,2001
+222657,ARG,Malena Canon,F,U,,
 220928,ARG,Sofia Nahiara Garcia,F,U,,2003
 220047,ARG,Sol Maria Terracina,F,U,,1999
 210256,ARG,Maria Daniela Frascini,F,R,,1992
-222658,ARG,Noelia Belen Acosta,F,U,,1999
-222659,ARG,Luciana Blatter,F,U,,1999
-222340,NED,Reza Timmerman,F,U,,1992
-222688,ARG,Sofia Constanza Karlau,F,U,,1999
-222689,ARG,Tiziana Rossini,F,U,,1999
-222838,ARG,Sol Rabin,F,U,,1999
-222839,ARG,Valentina Mutilba,F,U,,1992
-222840,ARG,Natalia Aruj,F,U,,1992
+222658,ARG,Noelia Belen Acosta,F,U,,
+222659,ARG,Luciana Blatter,F,U,,
+222340,NED,Reza Timmerman,F,U,,
+222688,ARG,Sofia Constanza Karlau,F,U,,
+222689,ARG,Tiziana Rossini,F,U,,
+222838,ARG,Sol Rabin,F,U,,
+222839,ARG,Valentina Mutilba,F,U,,
+222840,ARG,Natalia Aruj,F,U,,
 220925,ARG,Constanza Cruz,F,R,,2001
 221676,ARG,Ludmila Magali Alvez,F,R,,2001
-222841,ARG,Magnolia Rodriguez,F,U,,1999
+222841,ARG,Magnolia Rodriguez,F,U,,
 219740,AUS,Madison Frahn,F,U,,1996
 221762,AUS,Olivia Ley,F,R,,1997
 221740,FRA,Helena Stevic,F,R,,2002
@@ -7529,306 +7529,306 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221895,AUS,Casey Tay,F,U,,2002
 221896,AUS,Rachel Mellor,F,U,,2002
 221929,AUS,Ashleigh Simes,F,U,,2003
-222680,AUS,Darcy Parke,F,U,,2004
-222681,AUS,Nessa Pratt,F,U,,2003
-222682,AUS,Sarah Prescott,F,U,,2004
-222683,AUS,Lauren Djani,F,U,,2003
-222667,NZL,Monique Barry,F,U,,2004
-222684,AUS,Sasha Nelson,F,U,,2004
-222685,AUS,Shante Lai,F,U,,2003
-222696,AUS,Roopa Bains,F,U,,2003
-222752,AUS,Charmaine Enculescu,F,U,,2004
-222753,AUS,Raiyah Omar,F,R,,2003
-222755,AUS,Elodie Foster,F,U,,2003
+222680,AUS,Darcy Parke,F,U,,
+222681,AUS,Nessa Pratt,F,U,,
+222682,AUS,Sarah Prescott,F,U,,
+222683,AUS,Lauren Djani,F,U,,
+222667,NZL,Monique Barry,F,U,,
+222684,AUS,Sasha Nelson,F,U,,
+222685,AUS,Shante Lai,F,U,,
+222696,AUS,Roopa Bains,F,U,,
+222752,AUS,Charmaine Enculescu,F,U,,
+222753,AUS,Raiyah Omar,F,R,,
+222755,AUS,Elodie Foster,F,U,,
 222756,AUS,Gillian Collins,F,U,,1990
-222848,AUS,Helena Spiridis,F,U,,1990
-222849,AUS,Emily Tinker,F,U,,1990
-222850,GBR,Kiana Mokhtari,F,R,,1990
-222851,AUS,Leann Serna,F,U,,1990
-222887,AUS,Jessica Glavas,F,U,,1990
-222888,AUS,Madison Schwarz,F,U,,1990
-222538,AUT,Anna Gross,F,R,,2004
-222537,AUT,Katarina Sopkova,F,U,,1990
+222848,AUS,Helena Spiridis,F,U,,
+222849,AUS,Emily Tinker,F,U,,
+222850,GBR,Kiana Mokhtari,F,R,,
+222851,AUS,Leann Serna,F,U,,
+222887,AUS,Jessica Glavas,F,U,,
+222888,AUS,Madison Schwarz,F,U,,
+222538,AUT,Anna Gross,F,R,,
+222537,AUT,Katarina Sopkova,F,U,,
 221685,AUT,Lara Kaiser,F,U,,2001
-222539,RUS,Mariam Karadzhaeva,F,U,,2001
+222539,RUS,Mariam Karadzhaeva,F,U,,
 221516,CZE,Aneta Kulhankova,F,R,,1998
 221704,AUT,Liz Keller,F,U,,2000
-222496,RUS,Alena Kasatkina,F,U,,2000
-222540,SVK,Michaela Koricinova,F,U,,2000
-222541,AUT,Irina Dshandshgava,F,U,,2004
+222496,RUS,Alena Kasatkina,F,U,,
+222540,SVK,Michaela Koricinova,F,U,,
+222541,AUT,Irina Dshandshgava,F,U,,
 214714,SRB,Natasa Kosanin,F,U,,1997
 209273,CZE,Michaela Kucharova,F,U,,1989
-222220,GUA,Janika Kusy Alzugaray,F,R,,2004
-222619,SLO,Anali Kocevar,F,U,,1989
-222558,AUT,Stefanie Auer,F,U,,1989
+222220,GUA,Janika Kusy Alzugaray,F,R,,
+222619,SLO,Anali Kocevar,F,U,,
+222558,AUT,Stefanie Auer,F,U,,
 220011,CRO,Anamarija Spoljaric,F,U,,1998
-222620,SVK,Martina Marusinova,F,U,,1989
-222621,SVK,Emma Hubekova,F,U,,1998
-222622,AUT,Jasmin Perina,F,U,,1989
+222620,SVK,Martina Marusinova,F,U,,
+222621,SVK,Emma Hubekova,F,U,,
+222622,AUT,Jasmin Perina,F,U,,
 222225,LIE,Sylvie Zund,F,L,,2001
-222544,SVK,Barbora Cibakova,F,U,,2001
+222544,SVK,Barbora Cibakova,F,U,,
 220100,HUN,Nikoletta Muller,F,U,,2000
 222156,GER,Silvia Ambrosio,F,R,,1997
-221965,BEL,Morgane Van Den Bergh,F,R,,1997
-222443,BEL,Beau Deleu,F,U,,2001
+221965,BEL,Morgane Van Den Bergh,F,R,,
+222443,BEL,Beau Deleu,F,U,,
 221759,BEL,Maria Lemonakis,F,U,,2002
-222444,NED,Zoe Gubbels,F,U,,2002
+222444,NED,Zoe Gubbels,F,U,,
 221549,FRA,Mathilde Dury,F,U,,1998
-222478,USA,Layla Bryant,F,U,,2002
-222479,BEL,Emeline De Witte,F,R,,2002
-222552,FRA,Diane Flament,F,U,,2002
-222501,BEL,Marte Lambrecht,F,U,,2002
-222568,RUS,Dariia Monakhova,F,U,,2002
-222160,SUI,Sara Paunovic,F,U,,2002
+222478,USA,Layla Bryant,F,U,,
+222479,BEL,Emeline De Witte,F,R,,
+222552,FRA,Diane Flament,F,U,,
+222501,BEL,Marte Lambrecht,F,U,,
+222568,RUS,Dariia Monakhova,F,U,,
+222160,SUI,Sara Paunovic,F,U,,
 221684,BIH,Irma Ustavdic,F,R,,2000
-222176,CRO,Katarina Jelusic,F,R,,2000
-222071,CRO,Marina Pavkovic,F,U,,2000
-222177,BIH,Sara Mikaca,F,U,,2000
-222178,NZL,Mia Vukica Milojevic,F,L,,2000
-222179,CAN,Marina Blagojevic,F,U,,2000
-222183,BLR,Hanna Vinahradava,F,U,,2000
+222176,CRO,Katarina Jelusic,F,R,,
+222071,CRO,Marina Pavkovic,F,U,,
+222177,BIH,Sara Mikaca,F,U,,
+222178,NZL,Mia Vukica Milojevic,F,L,,
+222179,CAN,Marina Blagojevic,F,U,,
+222183,BLR,Hanna Vinahradava,F,U,,
 222184,BLR,Evialina Laskevich,F,U,,2004
-222944,BLR,Daria Khomutsianskaya,F,U,,2004
+222944,BLR,Daria Khomutsianskaya,F,U,,
 211925,RUS,Yana Mogilnitskaya,F,R,,1996
-222459,BOL,Masha Alexandra Vrsalovic Gimenez,F,U,,1996
-222460,BOL,Camila Moira Taborga Rollano,F,U,,1996
+222459,BOL,Masha Alexandra Vrsalovic Gimenez,F,U,,
+222460,BOL,Camila Moira Taborga Rollano,F,U,,
 214831,BOL,Lucia Montano,F,U,,1998
-222461,BOL,Valentina Ascarrunz,F,U,,1998
-222462,BOL,Fiorella Duran Montano,F,U,,1998
+222461,BOL,Valentina Ascarrunz,F,U,,
+222462,BOL,Fiorella Duran Montano,F,U,,
 221842,BOL,Sofia Cristina Taborga Rollano,F,U,,2003
-222463,BOL,Maria Alejandra Sandoval Espinoza,F,U,,2003
+222463,BOL,Maria Alejandra Sandoval Espinoza,F,U,,
 221931,BRA,Maria Eduarda Mauad,F,U,,2004
 220987,BRA,Vitoria De Brito Francisco,F,R,,2002
-222264,USA,Zora Hudson,F,U,,2002
-222765,BRA,Nicolly Ferreira,F,U,,2002
+222264,USA,Zora Hudson,F,U,,
+222765,BRA,Nicolly Ferreira,F,U,,
 211947,PAR,Camila Recalde,F,U,,1998
-222718,BRA,Isabelle Oikawa Torres,F,R,,2002
-222766,BRA,Bianca Leao,F,U,,2002
-222494,USA,Sierra Stone,F,U,,1998
-222719,BRA,Isadora Fernanda Muller,F,U,,2002
-222767,BRA,Maria Helena Sodre,F,U,,2002
-222260,USA,Althea Hudson,F,U,,1998
-222768,BRA,Gabriela Yamate Almeida,F,U,,2002
-222769,BRA,Laiza Sicatto Da Silva,F,U,,2002
-222720,BRA,Thais Maciel,F,U,,2002
-222721,BRA,Thamyrys Nicolle Costa Araujo,F,U,,2002
+222718,BRA,Isabelle Oikawa Torres,F,R,,
+222766,BRA,Bianca Leao,F,U,,
+222494,USA,Sierra Stone,F,U,,
+222719,BRA,Isadora Fernanda Muller,F,U,,
+222767,BRA,Maria Helena Sodre,F,U,,
+222260,USA,Althea Hudson,F,U,,
+222768,BRA,Gabriela Yamate Almeida,F,U,,
+222769,BRA,Laiza Sicatto Da Silva,F,U,,
+222720,BRA,Thais Maciel,F,U,,
+222721,BRA,Thamyrys Nicolle Costa Araujo,F,U,,
 205138,POL,Anna Powaska,F,U,,1985
-222163,POL,Aleksandra Julia Jelen,F,R,,2002
+222163,POL,Aleksandra Julia Jelen,F,R,,
 222703,ROU,Ioana Zvonaru,F,R,,2004
 221714,ROU,Stefana Lazar,F,U,,2002
-222707,BUL,Nikol Ruseva,F,U,,2002
-222603,ROU,Alexandra Raluca Botin,F,U,,2004
-222041,SWE,Maja Radenkovic,F,U,,2004
-222704,BUL,Mirela Shkumbova,F,U,,2004
-222745,ROU,Silvia Maria Costache,F,U,,2004
+222707,BUL,Nikol Ruseva,F,U,,
+222603,ROU,Alexandra Raluca Botin,F,U,,
+222041,SWE,Maja Radenkovic,F,U,,
+222704,BUL,Mirela Shkumbova,F,U,,
+222745,ROU,Silvia Maria Costache,F,U,,
 222705,SVK,Michaela Kadleckova,F,R,,2001
-222706,BUL,Beloslava Veleva,F,U,,2004
+222706,BUL,Beloslava Veleva,F,U,,
 222289,CAN,Sarah Maude Fortin,F,R,,2002
-222306,CAN,Anya Chavez,F,U,,2004
-222883,CAN,Elle Goranskaya,F,R,,2004
-222233,CAN,Marina Stakusic,F,U,,2004
+222306,CAN,Anya Chavez,F,U,,
+222883,CAN,Elle Goranskaya,F,R,,
+222233,CAN,Marina Stakusic,F,U,,
 219924,CAN,Milana Drca,F,U,,1996
-222884,CAN,Susanna Pshevorskiy,F,R,,1996
-222376,CAN,Annabelle Xu,F,U,,1996
-222096,USA,Isabelle Kouzmanov,F,U,,2002
+222884,CAN,Susanna Pshevorskiy,F,R,,
+222376,CAN,Annabelle Xu,F,U,,
+222096,USA,Isabelle Kouzmanov,F,U,,
 221510,CAN,Savanna Ly Nguyen,F,R,,2000
-222143,USA,Kriti Williams,F,U,,2002
+222143,USA,Kriti Williams,F,U,,
 213562,USA,Ty Ana Williams,F,R,,1997
-222846,CAN,Matea Roki,F,U,,1997
+222846,CAN,Matea Roki,F,U,,
 220017,CAN,Tereza Susen,F,U,,1995
 220982,CHI,Francisca Araneda Orellana,F,U,,2001
-222727,CHI,Florencia Araya,F,U,,2001
+222727,CHI,Florencia Araya,F,U,,
 220983,CHI,Constanza Millas,F,U,,2002
 222772,GER,Sara Mannschott,F,U,,1996
-222774,CHI,Constanza Arancibia,F,U,,2002
-222773,CHI,Macarena Cannoni Miranda,F,U,,1996
+222774,CHI,Constanza Arancibia,F,U,,
+222773,CHI,Macarena Cannoni Miranda,F,U,,
 210365,ARG,Tatiana Carpio,F,R,,1990
 215739,CHI,Sanja Fabijancic,F,U,,1999
-222775,CHI,Alessandra Caceres,F,U,,1990
-222776,CHI,Paloma Goldsmith Weinreich,F,U,,1999
+222775,CHI,Alessandra Caceres,F,U,,
+222776,CHI,Paloma Goldsmith Weinreich,F,U,,
 210994,CHI,Magdalena Cordero,F,U,,1994
-222726,CHI,Josefa Rosario Fernandez,F,U,,1994
-222777,CHI,Martina Alcaino Vergara,F,U,,1994
+222726,CHI,Josefa Rosario Fernandez,F,U,,
+222777,CHI,Martina Alcaino Vergara,F,U,,
 221899,CHN,Yueliang Cao,F,U,,2000
 221885,CHN,Fangran Tian,F,R,,2003
 221698,UNK,Qian Yang,F,U,,2000
 221930,CHN,Yilin Zheng,F,U,,2001
-222103,CHN,Zi Xin Xu,F,U,,2001
-222104,CHN,Teng Fei,F,U,,2001
-222082,CHN,Jin Zhang,F,U,,2001
-222105,CHN,Yile Cheng,F,U,,2001
-222106,CHN,Xinyi Chen,F,U,,2001
-222107,CHN,Xin Yi,F,U,,2001
-222108,CHN,Rouli Ye,F,U,,2003
-222121,HKG,Ho Ka Henrietta Wong,F,U,,2001
+222103,CHN,Zi Xin Xu,F,U,,
+222104,CHN,Teng Fei,F,U,,
+222082,CHN,Jin Zhang,F,U,,
+222105,CHN,Yile Cheng,F,U,,
+222106,CHN,Xinyi Chen,F,U,,
+222107,CHN,Xin Yi,F,U,,
+222108,CHN,Rouli Ye,F,U,,
+222121,HKG,Ho Ka Henrietta Wong,F,U,,
 221678,UNK,Le Yi Liu,F,U,,2003
-222181,CHN,Xiaochuan Nie,F,U,,2003
-222193,CHN,Zixuan Zeng,F,U,,2003
+222181,CHN,Xiaochuan Nie,F,U,,
+222193,CHN,Zixuan Zeng,F,U,,
 219869,CHN,Xue Cao,F,U,,2001
-222329,CHN,Mengtong Zhao,F,U,,2001
-222330,CHN,Yiming Dang,F,U,,2001
-222370,CHN,Xinyi Nong,F,U,,2001
-222348,CHN,Yehua Zhou,F,U,,2003
-222371,CHN,Yang Qu,F,U,,2003
-222372,CHN,Min Zhang,F,U,,2001
-222373,CHN,Yifei He,F,U,,2001
-222374,CHN,Xiaotong Zhao,F,U,,2001
-222375,CHN,Yuxuan Li,F,U,,2001
-222349,CHN,Cong Ying Zhao,F,U,,2001
+222329,CHN,Mengtong Zhao,F,U,,
+222330,CHN,Yiming Dang,F,U,,
+222370,CHN,Xinyi Nong,F,U,,
+222348,CHN,Yehua Zhou,F,U,,
+222371,CHN,Yang Qu,F,U,,
+222372,CHN,Min Zhang,F,U,,
+222373,CHN,Yifei He,F,U,,
+222374,CHN,Xiaotong Zhao,F,U,,
+222375,CHN,Yuxuan Li,F,U,,
+222349,CHN,Cong Ying Zhao,F,U,,
 221796,CHN,Xingchen Liu,F,U,,2000
-222559,CHN,Han Shi,F,U,,2000
-222628,CHN,Jia Yi Dong,F,U,,2003
-222627,CHN,Mengxin Zhai,F,U,,2000
-222629,CHN,Ling Su,F,U,,2000
-222630,CHN,Shuoran Wang,F,U,,2000
-222605,CHN,Chu Ni Wang,F,U,,2000
-222631,CHN,Yitong Zhang,F,U,,2000
-222632,CHN,Ziyu Zhang,M,U,,2000
-222633,CHN,Yuxuan Luo,F,U,,2000
-222634,CHN,Mingfang Zhu,F,U,,2000
-222606,CHN,Jiayu Xu,F,U,,2000
-222101,JPN,Ai Yamaguchi,F,U,,2000
-221999,COL,Garbiela Carvajal Melendez,F,U,,2003
-222014,COL,Manu Ramirez,F,R,,2000
-222011,COL,Valeria Ruiz Buitrago,F,U,,2000
-221998,COL,Shaloom Delgado Forero,F,U,,2000
-222012,COL,Jacqueline Alape Morales,F,U,,2000
+222559,CHN,Han Shi,F,U,,
+222628,CHN,Jia Yi Dong,F,U,,
+222627,CHN,Mengxin Zhai,F,U,,
+222629,CHN,Ling Su,F,U,,
+222630,CHN,Shuoran Wang,F,U,,
+222605,CHN,Chu Ni Wang,F,U,,
+222631,CHN,Yitong Zhang,F,U,,
+222632,CHN,Ziyu Zhang,M,U,,
+222633,CHN,Yuxuan Luo,F,U,,
+222634,CHN,Mingfang Zhu,F,U,,
+222606,CHN,Jiayu Xu,F,U,,
+222101,JPN,Ai Yamaguchi,F,U,,
+221999,COL,Garbiela Carvajal Melendez,F,U,,
+222014,COL,Manu Ramirez,F,R,,
+222011,COL,Valeria Ruiz Buitrago,F,U,,
+221998,COL,Shaloom Delgado Forero,F,U,,
+222012,COL,Jacqueline Alape Morales,F,U,,
 221631,COL,Ana Maria Gomez,F,U,,2003
-222013,COL,Isabella Herrera Pilonieta,F,R,,2003
-222002,COL,Sofia Cardenas Galvis,F,U,,2003
-222001,COL,Maria Fernanda Padilla Jaimes,F,U,,2003
+222013,COL,Isabella Herrera Pilonieta,F,R,,
+222002,COL,Sofia Cardenas Galvis,F,U,,
+222001,COL,Maria Fernanda Padilla Jaimes,F,U,,
 222000,COL,Maria Camila Torres Murcia,F,L,,2002
-222867,COL,Sofia Giraldo Jimenez,F,R,,2002
-222868,COL,Isabella Rivera Ortiz,F,R,,2003
-222869,COL,Ana Paula Cetina,F,U,,2002
-222870,VEN,Andrea Ocampo,F,U,,2002
-222871,COL,Daniela Zambrano,F,R,,2002
-222872,COL,Maria Paula Rodriguez Ovalle,F,U,,2003
-222341,USA,Aditi Sinha,F,U,,2002
-222844,COL,Valeria Carreno,F,U,,2002
-222879,COL,Kelly Loana Vargas Gonzalez,F,R,,2002
-222898,COL,Ivana Perez Luengas,F,U,,2002
-222882,COL,Laura Sofia Ruiz Ramirez,F,U,,2003
-222899,COL,Maria Paz Pineda Arias,F,U,,2002
-222881,COL,Sofia Franco Salcedo,F,U,,2003
-222880,COL,Carol Vanesa Mora Camacho,F,U,,2002
-222900,COL,Carolina Burgos,F,R,,2002
-222901,COL,Valeria Montano,F,U,,2002
-222902,COL,Marianna Murcia Barona,F,U,,2002
-222047,COL,Mariana Jimenez Bustillo,F,U,,2002
-222903,COL,Maraia Paula Manrique,F,R,,2003
-222491,RUS,Iana Snezhkina,F,U,,2002
-222897,COL,Danna Katalina Quintero Cubillos,F,U,,2002
-222044,RUS,Victoria Borodulina,F,R,,2003
-222068,CRO,Leticia Heintz,F,L,,2002
+222867,COL,Sofia Giraldo Jimenez,F,R,,
+222868,COL,Isabella Rivera Ortiz,F,R,,
+222869,COL,Ana Paula Cetina,F,U,,
+222870,VEN,Andrea Ocampo,F,U,,
+222871,COL,Daniela Zambrano,F,R,,
+222872,COL,Maria Paula Rodriguez Ovalle,F,U,,
+222341,USA,Aditi Sinha,F,U,,
+222844,COL,Valeria Carreno,F,U,,
+222879,COL,Kelly Loana Vargas Gonzalez,F,R,,
+222898,COL,Ivana Perez Luengas,F,U,,
+222882,COL,Laura Sofia Ruiz Ramirez,F,U,,
+222899,COL,Maria Paz Pineda Arias,F,U,,
+222881,COL,Sofia Franco Salcedo,F,U,,
+222880,COL,Carol Vanesa Mora Camacho,F,U,,
+222900,COL,Carolina Burgos,F,R,,
+222901,COL,Valeria Montano,F,U,,
+222902,COL,Marianna Murcia Barona,F,U,,
+222047,COL,Mariana Jimenez Bustillo,F,U,,
+222903,COL,Maraia Paula Manrique,F,R,,
+222491,RUS,Iana Snezhkina,F,U,,
+222897,COL,Danna Katalina Quintero Cubillos,F,U,,
+222044,RUS,Victoria Borodulina,F,R,,
+222068,CRO,Leticia Heintz,F,L,,
 219723,CRO,Neli Sunjic,F,R,,2000
-222069,AUT,Anita Gavran,F,U,,2003
-222070,CRO,Maja Seravic,F,R,,2000
+222069,AUT,Anita Gavran,F,U,,
+222070,CRO,Maja Seravic,F,R,,
 222045,CRO,Antonia Ruzic,F,R,,2003
-222046,ITA,Greta Carbone,F,U,,2000
+222046,ITA,Greta Carbone,F,U,,
 220065,CRO,Ana Sirovina,F,U,,1996
-222528,CRO,Ana Mukic,F,L,,1996
-222529,CRO,Monika Dedaj,F,U,,2003
-222221,CZE,Sabina Brichackova,F,U,,1996
-222222,CZE,Sabina Richtrova,F,R,,1996
-222415,CZE,Zuzana Bohatova,F,U,,1996
+222528,CRO,Ana Mukic,F,L,,
+222529,CRO,Monika Dedaj,F,U,,
+222221,CZE,Sabina Brichackova,F,U,,
+222222,CZE,Sabina Richtrova,F,R,,
+222415,CZE,Zuzana Bohatova,F,U,,
 220912,SRB,Natasa Luzajic,F,R,,1998
-222474,CZE,Darina Precechtelova,F,U,,2003
+222474,CZE,Darina Precechtelova,F,U,,
 221557,RUS,Taisya Pachkaleva,F,U,,2001
 221795,POL,Magdalena Hedrzak,F,U,,2001
 222458,SLO,Pia Lovric,F,R,,2002
-222475,CZE,Lucie Ivanova,F,U,,2001
-222072,CZE,Kristyna Bedrnova,F,U,,2001
-222535,CZE,Anna Marie Kopecka,F,U,,2001
+222475,CZE,Lucie Ivanova,F,U,,
+222072,CZE,Kristyna Bedrnova,F,U,,
+222535,CZE,Anna Marie Kopecka,F,U,,
 220102,CZE,Valentina Cvackova,F,U,,2000
 203545,SVK,Monika Stanikova,F,R,,1996
-222536,CZE,Sylvie Kalouskova,F,U,,1996
-222567,CZE,Tereza Vajsejtlova,F,U,,1996
-222500,CZE,Andrea Nova,F,U,,1996
-222616,CZE,Nella Chiara Ondrouskova,F,U,,2002
-222617,CZE,Laura Kubacakova,F,U,,1996
+222536,CZE,Sylvie Kalouskova,F,U,,
+222567,CZE,Tereza Vajsejtlova,F,U,,
+222500,CZE,Andrea Nova,F,U,,
+222616,CZE,Nella Chiara Ondrouskova,F,U,,
+222617,CZE,Laura Kubacakova,F,U,,
 220526,POL,Natalia Pietras,F,U,,2000
-222618,CZE,Tereza Krenkova,F,U,,2000
+222618,CZE,Tereza Krenkova,F,U,,
 221856,RUS,Darya Lavrichenko,F,R,,2003
-222737,CZE,Vivien Charvatova,F,R,,2002
-222967,CZE,Kristyna Tomajkova,F,U,,2002
-222637,SVK,Anika Jaskova,F,R,,2003
-222982,CZE,Lenka Munzarova,F,U,,2002
-222991,CZE,Liliana Gajdosova,F,U,,2003
-222992,CZE,Petra Horakova,F,U,,2002
-222993,CZE,Terezie Pluharova,F,U,,2003
-221987,VEN,Ane Ibarra,F,R,,2003
+222737,CZE,Vivien Charvatova,F,R,,
+222967,CZE,Kristyna Tomajkova,F,U,,
+222637,SVK,Anika Jaskova,F,R,,
+222982,CZE,Lenka Munzarova,F,U,,
+222991,CZE,Liliana Gajdosova,F,U,,
+222992,CZE,Petra Horakova,F,U,,
+222993,CZE,Terezie Pluharova,F,U,,
+221987,VEN,Ane Ibarra,F,R,,
 221988,CAN,Bianca Jolie Fernandez,F,R,,2004
 217993,GBR,Alicia Robinson,F,R,,1993
-221989,CAN,Valery Senka,F,U,,2004
-221990,ECU,Monica Andrade Solarte,F,R,,2004
+221989,CAN,Valery Senka,F,U,,
+221990,ECU,Monica Andrade Solarte,F,R,,
 214369,PER,Leslie Espinoza,F,U,,1995
 208930,ECU,Tania Varela Alvarado,F,R,,1987
-222492,ECU,Arianna Castellanos Calderon,F,U,,2004
-221944,USA,Jacqueline Payne,F,R,,1987
-222493,ECU,Lizbeth Gencon Sucre,F,U,,2004
+222492,ECU,Arianna Castellanos Calderon,F,U,,
+221944,USA,Jacqueline Payne,F,R,,
+222493,ECU,Lizbeth Gencon Sucre,F,U,,
 212305,ECU,Joselyn Margarita Treyes Albarracan,F,U,,1997
-222591,ECU,Hanna Vasconez Teran,F,U,,1997
+222591,ECU,Hanna Vasconez Teran,F,U,,
 221798,EGY,Ritage Faizy,F,R,,2003
 221777,TUN,Feryel Ben Hassen,F,R,,2004
 221864,ITA,Federica Sacco,F,R,,2002
 205783,NED,Michelle De Groot,F,U,,1991
 210158,LTU,Iveta Dapkute,F,R,,1993
 221901,BLR,Darya Shauha,F,U,,2003
-221992,EGY,Mariam Samy,F,U,,1991
+221992,EGY,Mariam Samy,F,U,,
 220612,RUS,Anna Khudoley,F,U,,2000
-221993,EGY,Caroline Fawzy,F,U,,2000
+221993,EGY,Caroline Fawzy,F,U,,
 221598,EGY,Norhan Hesham,F,U,,2002
-222009,ITA,Valentina Urelli Rinaldi,F,R,,2002
+222009,ITA,Valentina Urelli Rinaldi,F,R,,
 220376,SWE,Therese Ekdahl,F,U,,2000
-221997,IND,Rekha Boyalapalli,F,U,,2000
+221997,IND,Rekha Boyalapalli,F,U,,
 221629,EGY,Hla El Sakka,F,R,,2003
 221703,EGY,Maria Charl,F,U,,2003
-222028,EGY,Nada Fouad,F,U,,2003
-222027,EGY,Zeina Shaaban,F,U,,2003
+222028,EGY,Nada Fouad,F,U,,
+222027,EGY,Zeina Shaaban,F,U,,
 205907,EGY,Rana Sherif Ahmed,F,U,,1994
-222612,ITA,Martina Peretti,F,U,,1994
+222612,ITA,Martina Peretti,F,U,,
 222599,RUS,Angelika Shapovalova,F,R,,1998
-222613,ITA,Caterina Odorizzi,F,U,,1994
-222615,IND,Sharannya Gaware,F,L,,1998
-222614,EGY,Nathalie Mokhtar,F,U,,1994
-222600,EGY,Kenzy Ramy,F,R,,1994
-222316,RUS,Irina Shchetinina,F,R,,1994
-222672,IND,Aalyka Ebrahim,F,U,,1994
-222292,SRB,Jelena Kovac,F,U,,1998
-222673,IND,Aaliya Ebrahim,F,R,,1994
-222697,EGY,Dareen Elleithy,F,U,,1998
-222698,EGY,Farida Sabra,F,U,,1998
-222150,GBR,Anoushka Wooller,F,U,,1994
-222730,EGY,Hana Ayman Elsherif,F,U,,1994
-222699,EGY,Hana El Deeb,F,R,,1998
-222731,EGY,Hla Saber,F,U,,1994
-222994,IND,Malvika Shukla,F,U,,1994
-222983,ITA,Emma Belluomini,F,U,,1998
-222995,SRB,Andriana Simovic,F,U,,1994
-222972,POL,Wiktoria Czerny,F,U,,1994
+222613,ITA,Caterina Odorizzi,F,U,,
+222615,IND,Sharannya Gaware,F,L,,
+222614,EGY,Nathalie Mokhtar,F,U,,
+222600,EGY,Kenzy Ramy,F,R,,
+222316,RUS,Irina Shchetinina,F,R,,
+222672,IND,Aalyka Ebrahim,F,U,,
+222292,SRB,Jelena Kovac,F,U,,
+222673,IND,Aaliya Ebrahim,F,R,,
+222697,EGY,Dareen Elleithy,F,U,,
+222698,EGY,Farida Sabra,F,U,,
+222150,GBR,Anoushka Wooller,F,U,,
+222730,EGY,Hana Ayman Elsherif,F,U,,
+222699,EGY,Hana El Deeb,F,R,,
+222731,EGY,Hla Saber,F,U,,
+222994,IND,Malvika Shukla,F,U,,
+222983,ITA,Emma Belluomini,F,U,,
+222995,SRB,Andriana Simovic,F,U,,
+222972,POL,Wiktoria Czerny,F,U,,
 220322,SWE,Julia Keranovic,F,U,,1998
 223179,ITA,Marion Viertler,F,R,,2001
-222996,EGY,Roaa Elatrebi,F,U,,1998
-222997,EGY,Lana Kamel,F,U,,1998
-222998,EGY,Mariam Abd El Salam,F,U,,1998
-222999,EGY,Mariam Mahmoud,F,U,,1998
-222700,ITA,Sonia Cassani,F,U,,1998
-222511,USA,Taylor Cataldi,F,R,,2001
-222508,POL,Urszula Nebelska,F,U,,1998
+222996,EGY,Roaa Elatrebi,F,U,,
+222997,EGY,Lana Kamel,F,U,,
+222998,EGY,Mariam Abd El Salam,F,U,,
+222999,EGY,Mariam Mahmoud,F,U,,
+222700,ITA,Sonia Cassani,F,U,,
+222511,USA,Taylor Cataldi,F,R,,
+222508,POL,Urszula Nebelska,F,U,,
 215000,USA,Paige Cline,F,U,,1997
-222395,ITA,Anita Bertoloni,F,R,,1997
+222395,ITA,Anita Bertoloni,F,R,,
 221994,NED,Demi Tran,F,R,,2000
-222847,ROU,Vanessa Ioana Georgiana Popa Teiusanu,F,U,,2001
-222885,FRA,Brigitte Manceau,F,R,,2000
-222886,UKR,Sabina Zeynalova,F,U,,2000
+222847,ROU,Vanessa Ioana Georgiana Popa Teiusanu,F,U,,
+222885,FRA,Brigitte Manceau,F,R,,
+222886,UKR,Sabina Zeynalova,F,U,,
 222276,NED,Jasmijn Gimbrere,F,R,,2001
-222911,GER,Katharina Rothacker,F,U,,2001
-222829,RUS,Mayya Gorbunova,F,R,,2001
-222925,AUT,Viktoria Kurz,F,R,,2001
-222211,GER,Lilly Dueffert,F,U,,2001
+222911,GER,Katharina Rothacker,F,U,,
+222829,RUS,Mayya Gorbunova,F,R,,
+222925,AUT,Viktoria Kurz,F,R,,
+222211,GER,Lilly Dueffert,F,U,,
 217988,UZB,Larisa Bekmetova,F,U,,1986
-222569,ROU,Andreea Scurtu,F,U,,2001
+222569,ROU,Andreea Scurtu,F,U,,
 221591,RUS,Dinara Alloyarova,F,U,,2003
 220294,SRB,Tara Gancev,F,U,,2002
 221784,USA,Isabella Tabb Hartman,F,U,,2001
@@ -7839,95 +7839,95 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221098,ESP,Alejandra Ferrer Rodriguez,F,U,,2002
 221711,SUI,Lea Aiche,F,U,,1998
 220108,ESP,Alicia Alegre,F,R,,2000
-222196,ESP,Lucia Santos Sanchez,F,U,,2000
-222062,ESP,Andrea Palazon,F,U,,2000
-222063,ESP,Ana Lardies Vilarrubi,F,U,,2000
-222064,ESP,Claudia Borbon Roca,F,U,,2000
-222168,ESP,Raquel Ducet Teixeira,F,R,,2000
-222169,ESP,Gemma Negre Sanchez,F,U,,2000
-222170,ESP,Laia Giralt,F,U,,2000
+222196,ESP,Lucia Santos Sanchez,F,U,,
+222062,ESP,Andrea Palazon,F,U,,
+222063,ESP,Ana Lardies Vilarrubi,F,U,,
+222064,ESP,Claudia Borbon Roca,F,U,,
+222168,ESP,Raquel Ducet Teixeira,F,R,,
+222169,ESP,Gemma Negre Sanchez,F,U,,
+222170,ESP,Laia Giralt,F,U,,
 222171,FRA,Nahia Berecoechea,F,R,,2004
 221749,ESP,Marta Buendia,F,U,,2001
-222237,ESP,Alexandra Dodashev Enbert,F,R,,2001
-222238,ESP,Alba Retortillo Soiras,F,U,,2001
+222237,ESP,Alexandra Dodashev Enbert,F,R,,
+222238,ESP,Alba Retortillo Soiras,F,U,,
 220107,ESP,Alexia Witthaus Vine,F,U,,2001
-222239,ESP,Carmen Gallardo Guevara,F,U,,2001
+222239,ESP,Carmen Gallardo Guevara,F,U,,
 219953,ESP,Yulia Almiron Solano,F,U,,1999
 219746,ESP,Sofia Blanco Andrade,F,U,,2000
 219858,FRA,Philippine Picard,F,R,,1999
-222312,ESP,Carolina Gomez,F,R,,1999
-222313,ESP,Irati Urbaneja Salazar,F,R,,1999
-222361,ESP,Maria Pena,F,U,,1999
+222312,ESP,Carolina Gomez,F,R,,
+222313,ESP,Irati Urbaneja Salazar,F,R,,
+222361,ESP,Maria Pena,F,U,,
 221675,POR,Carolina Azadinho,F,U,,2003
 221144,ESP,Andrea Redondo Gutierrez,F,U,,2003
-222344,POR,Alexandra Silva,F,U,,2003
-222362,ESP,Alba Guijo,F,U,,2003
-222364,ESP,Marta Calvo Larraz,F,U,,2003
-222363,USA,Rachel Leighton,F,U,,2003
-222365,ESP,Isabel Cabrerizo Martinez,F,R,,2003
-222366,ESP,Lidia Gomez Carrera,F,U,,2003
-222345,ESP,Blanca Cortijo Parreno,F,U,,2003
-222281,ESP,Amanda Montes Khaghani,F,U,,2003
-222282,ESP,Maria Picazo Martin,F,U,,2003
-222283,ESP,Ana Utrilla Benito,F,U,,2003
+222344,POR,Alexandra Silva,F,U,,
+222362,ESP,Alba Guijo,F,U,,
+222364,ESP,Marta Calvo Larraz,F,U,,
+222363,USA,Rachel Leighton,F,U,,
+222365,ESP,Isabel Cabrerizo Martinez,F,R,,
+222366,ESP,Lidia Gomez Carrera,F,U,,
+222345,ESP,Blanca Cortijo Parreno,F,U,,
+222281,ESP,Amanda Montes Khaghani,F,U,,
+222282,ESP,Maria Picazo Martin,F,U,,
+222283,ESP,Ana Utrilla Benito,F,U,,
 221580,ESP,Marta Falceto Font,F,U,,2001
 221321,FRA,Karen Marthiens,F,U,,2004
-222428,GBR,Nadine Martinez,F,U,,2001
-222430,ESP,Laura Munoz Baroja Orallo,F,U,,2004
-222429,ESP,Ariadna Perez Lertxundi,F,U,,2001
-222431,ESP,Marta Garcia,F,U,,2001
-222398,ESP,Raquel Villan Pereira,F,R,,2001
-222434,ESP,Eva Arranz,F,U,,2004
-222476,ESP,Andrea Perez Bordon,F,U,,2001
-222477,ESP,Lola Estevez Varrenti,F,U,,2001
-222065,RUS,Sofiia Likhacheva,F,U,,2001
+222428,GBR,Nadine Martinez,F,U,,
+222430,ESP,Laura Munoz Baroja Orallo,F,U,,
+222429,ESP,Ariadna Perez Lertxundi,F,U,,
+222431,ESP,Marta Garcia,F,U,,
+222398,ESP,Raquel Villan Pereira,F,R,,
+222434,ESP,Eva Arranz,F,U,,
+222476,ESP,Andrea Perez Bordon,F,U,,
+222477,ESP,Lola Estevez Varrenti,F,U,,
+222065,RUS,Sofiia Likhacheva,F,U,,
 221614,ESP,Emma Sanchez,F,U,,2004
-222560,GER,Sara Yigin,F,U,,2004
+222560,GER,Sara Yigin,F,U,,
 221610,ESP,Ana Heredia,F,U,,1999
-222562,SVK,Tereza Zelinova,F,R,,1999
-222563,RUS,Anait Arutyunyan,F,U,,1999
+222562,SVK,Tereza Zelinova,F,R,,
+222563,RUS,Anait Arutyunyan,F,U,,
 213705,ESP,Natividad Lopez Diaz,F,R,,1997
-222564,ESP,Ainhoa Meili Fernandez Del Moral Perier,F,U,,1997
-222565,MAR,Sara Rhallab,F,U,,1999
+222564,ESP,Ainhoa Meili Fernandez Del Moral Perier,F,U,,
+222565,MAR,Sara Rhallab,F,U,,
 213630,ESP,Valeria Koussenkova,F,R,,1995
-222566,SWE,Otilia Chamizo,F,U,,1999
-222561,GER,Raja Szyszkowitz,F,U,,1999
-222556,RUS,Aleksandra Evdokimova,F,U,,1999
+222566,SWE,Otilia Chamizo,F,U,,
+222561,GER,Raja Szyszkowitz,F,U,,
+222556,RUS,Aleksandra Evdokimova,F,U,,
 221583,GER,Helena Sophie Engels,F,U,,2002
-222662,ESP,Meritxell Boix Molla,F,R,,2002
-222663,ESP,Carmen Garcia Lavado,F,U,,2002
-222664,ESP,Laura Mulero Parraga,F,U,,2002
-222665,ESP,Judith Hernandez Miranda,F,U,,2002
-222824,ESP,Maria Dolores Lopez Martinez,F,U,,2002
-222796,ESP,Irene Artigas,F,R,,2002
+222662,ESP,Meritxell Boix Molla,F,R,,
+222663,ESP,Carmen Garcia Lavado,F,U,,
+222664,ESP,Laura Mulero Parraga,F,U,,
+222665,ESP,Judith Hernandez Miranda,F,U,,
+222824,ESP,Maria Dolores Lopez Martinez,F,U,,
+222796,ESP,Irene Artigas,F,R,,
 221721,RUS,Elizaveta Kuznetsova,F,U,,2000
 221578,LAT,Jekaterina Sagejeva,F,U,,2002
 221726,RUS,Dasha Borodatova,F,R,,1993
-222378,EST,Viktoria Kleer Kliimand,F,U,,1993
-222093,FIN,Eveliina Koivupuisto,F,R,,1993
-222350,EST,Lissi Kubre,F,U,,2000
+222378,EST,Viktoria Kleer Kliimand,F,U,,
+222093,FIN,Eveliina Koivupuisto,F,R,,
+222350,EST,Lissi Kubre,F,U,,
 221985,LAT,Darja Semenistaja,F,R,,2002
-222379,EST,Polina Ramenskaja,F,U,,2002
-222380,LAT,Darta Dalecka,F,R,,1993
-222381,EST,Anet Angelika Koskel,F,U,,1993
+222379,EST,Polina Ramenskaja,F,U,,
+222380,LAT,Darta Dalecka,F,R,,
+222381,EST,Anet Angelika Koskel,F,U,,
 219640,RUS,Maria Mikhaylova,F,U,,1999
-222382,EST,Aurelia Riga,F,U,,1999
+222382,EST,Aurelia Riga,F,U,,
 214339,RUS,Arina Petrova,F,U,,1998
-222914,EST,Liisa Varul,F,U,,1998
+222914,EST,Liisa Varul,F,U,,
 221729,USA,Anna Borovinskaya,F,U,,2003
-222915,EST,Liisa Varul,F,U,,2003
-222916,LAT,Marija Semenistaja,F,U,,2003
-222917,EST,Diandra Suitso,F,U,,2003
-222857,EST,Lauren Elisabeth Lind,F,R,,2003
+222915,EST,Liisa Varul,F,U,,
+222916,LAT,Marija Semenistaja,F,U,,
+222917,EST,Diandra Suitso,F,U,,
+222857,EST,Lauren Elisabeth Lind,F,R,,
 222669,LAT,Patricija Spaka,F,L,,2002
-222918,EST,Andrea Roots,F,U,,2003
+222918,EST,Andrea Roots,F,U,,
 222919,RUS,Julia Avdeeva,F,R,,2002
 220618,FIN,Lotta Heiskanen,F,U,,2002
 214169,FIN,Johanna Ranta Aho,F,U,,1995
 221757,FIN,Martina Minetti,F,U,,2001
-222426,RUS,Polina Bezklubnaia,F,U,,1995
-222427,FIN,Stella Remander,F,U,,2001
-222397,FIN,Laura Hietaranta,F,U,,2001
+222426,RUS,Polina Bezklubnaia,F,U,,
+222427,FIN,Stella Remander,F,U,,
+222397,FIN,Laura Hietaranta,F,U,,
 221782,FRA,Justine Clouvel,F,U,,2002
 221765,FRA,Audrey Moutama,F,U,,2004
 221769,DEN,Ida Hasselbalch,F,R,,2001
@@ -7944,271 +7944,271 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 201431,FRA,Aravane Rezai,F,R,165.0,1987
 215528,FRA,Anna Maria Jovanovic,F,R,,2000
 221552,FRA,Naia Mercadier,F,U,,1998
-222355,FRA,Rose Alix Vidal,F,U,,1998
-222356,FRA,Luna Lesage,F,U,,1998
+222355,FRA,Rose Alix Vidal,F,U,,
+222356,FRA,Luna Lesage,F,U,,
 222343,FRA,Emma Renard,F,R,,2002
-222151,FRA,Angele Devaux,F,R,,2002
-221963,FRA,Alice Battesti,F,U,,2002
-221964,FRA,Lelia Castola,F,U,,2002
-222690,FRA,Lucy Furness,F,R,,2002
-222272,FRA,Alicia Martial,F,U,,2002
+222151,FRA,Angele Devaux,F,R,,
+221963,FRA,Alice Battesti,F,U,,
+221964,FRA,Lelia Castola,F,U,,
+222690,FRA,Lucy Furness,F,R,,
+222272,FRA,Alicia Martial,F,U,,
 221996,RSA,Isabella Kruger,F,R,,2005
 222224,FRA,Valentine Vigne,F,R,,1991
 219293,ESP,Dominique Ibarra Gomez,F,U,,1997
-222367,GBR,Angelica Blake,F,U,,1997
-222346,FRA,Laia Petretic,F,U,,1997
-222347,FRA,Marine Szostak,F,U,,1996
-222392,FRA,Lou Anne Guerbert,F,U,,1996
+222367,GBR,Angelica Blake,F,U,,
+222346,FRA,Laia Petretic,F,U,,
+222347,FRA,Marine Szostak,F,U,,
+222392,FRA,Lou Anne Guerbert,F,U,,
 221713,ROU,Tania Munteanu,F,U,,2002
-222417,DEN,Charlotte Mosbaek Ellegaard,F,U,,2002
+222417,DEN,Charlotte Mosbaek Ellegaard,F,U,,
 222393,FRA,Celia Belle Mohr,F,R,,2002
-222418,FRA,Tara Zoppas,F,U,,2002
+222418,FRA,Tara Zoppas,F,U,,
 222602,FRA,Nina Radovanovic,F,U,,2003
-222623,GER,Pia Praefke,F,U,,2002
+222623,GER,Pia Praefke,F,U,,
 220140,GBR,Ellie Tsimbilakis,F,U,,1999
-222624,FRA,Carla Galmiche,F,U,,1999
-222735,FRA,Justine Lespes,F,R,,2002
-222736,SUI,Maria Michaela Fiacan,F,U,,1999
+222624,FRA,Carla Galmiche,F,U,,
+222735,FRA,Justine Lespes,F,R,,
+222736,SUI,Maria Michaela Fiacan,F,U,,
 221596,FRA,Emma Aucagne,F,U,,2003
-222757,FRA,Savine Erler,F,L,,2002
-222758,FRA,Emma Semenenko,F,U,,2003
-222759,FRA,Elisa Rigazio,F,U,,2003
-222674,GBR,Tamara Malazonia,F,U,,2003
-222661,GBR,Sonay Kartal,F,U,,2002
+222757,FRA,Savine Erler,F,L,,
+222758,FRA,Emma Semenenko,F,U,,
+222759,FRA,Elisa Rigazio,F,U,,
+222674,GBR,Tamara Malazonia,F,U,,
+222661,GBR,Sonay Kartal,F,U,,
 202615,RSA,Natasha Fourouclas,F,R,,1994
-221960,GBR,Grace Piper,F,R,,1994
-221945,GBR,Amelia Rajecki,F,U,,1994
-222470,GBR,Amelia Bissett,F,U,,2003
+221960,GBR,Grace Piper,F,R,,
+221945,GBR,Amelia Rajecki,F,U,,
+222470,GBR,Amelia Bissett,F,U,,
 221691,GBR,Jizel Matos Sequeira Fernandes,F,U,,2001
-222676,GBR,Tiegan Aitken,F,U,,2001
-221959,GBR,Esther Adeshina,F,R,,2001
-221961,GBR,Katie Morton,F,U,,2001
+222676,GBR,Tiegan Aitken,F,U,,
+221959,GBR,Esther Adeshina,F,R,,
+221961,GBR,Katie Morton,F,U,,
 215430,GBR,Holly Hutchinson,F,R,,1997
-222203,GBR,Scarlett Hutchinson,F,U,,1997
-222228,GBR,Holly Fischer,F,U,,1997
+222203,GBR,Scarlett Hutchinson,F,U,,
+222228,GBR,Holly Fischer,F,U,,
 221716,GBR,Iman Garshong,F,U,,1999
-222419,GBR,Worthy Goldman,F,U,,1999
+222419,GBR,Worthy Goldman,F,U,,
 219784,GBR,Camille Verden Anderson,F,U,,1999
-222420,GBR,Katie Morris,F,U,,1999
-222421,GBR,Indianna Spink,F,U,,1999
+222420,GBR,Katie Morris,F,U,,
+222421,GBR,Indianna Spink,F,U,,
 221649,GBR,Elisa Van Meeteren,F,U,,2001
 220634,GBR,Martina Paladini Jennings,F,U,,2000
-222422,GBR,Aleksandra Topalovic,F,R,,2000
-222471,GBR,Veronika Hughes,F,U,,2000
-222472,GBR,Abigail Amos,F,U,,1999
-222473,GBR,Morgan Cross,F,U,,1999
-222018,RUS,Sofia Plotnikova,F,R,,2000
-222023,ISR,Eliya Cohen,F,U,,2000
-222024,ARM,Evelina Martirosyan,F,U,,2000
+222422,GBR,Aleksandra Topalovic,F,R,,
+222471,GBR,Veronika Hughes,F,U,,
+222472,GBR,Abigail Amos,F,U,,
+222473,GBR,Morgan Cross,F,U,,
+222018,RUS,Sofia Plotnikova,F,R,,
+222023,ISR,Eliya Cohen,F,U,,
+222024,ARM,Evelina Martirosyan,F,U,,
 206288,GEO,Tamari Chalaganidze,F,U,,1995
 220610,RUS,Adelina Doguzova,F,R,,2001
-222019,GEO,Nino Natsvlishvili,F,U,,2001
+222019,GEO,Nino Natsvlishvili,F,U,,
 222507,GEO,Tamari Gagoshidze,F,U,,2003
-222592,UKR,Inga Strelchuk,F,U,,2003
+222592,UKR,Inga Strelchuk,F,U,,
 221553,ROU,Iulia Maria Farcas,F,U,,1999
-222778,RUS,Olga Lesnikova,F,L,,1999
-222779,RUS,Elizaveta Shebekina,F,R,,1999
-222424,USA,Kyrin Pollock,F,U,,1999
+222778,RUS,Olga Lesnikova,F,L,,
+222779,RUS,Elizaveta Shebekina,F,R,,
+222424,USA,Kyrin Pollock,F,U,,
 222155,RUS,Ekaterina Nikiforova,F,R,,2002
-222795,RUS,Alina Lebedeva,F,R,,1999
-222794,GEO,Anamaria Kurtsikashvili,F,U,,2002
-222827,AZE,Alina Gavrish,F,U,,2002
+222795,RUS,Alina Lebedeva,F,R,,
+222794,GEO,Anamaria Kurtsikashvili,F,U,,
+222827,AZE,Alina Gavrish,F,U,,
 215546,ARM,Arevik Tumanyan,F,U,,1997
-222828,RUS,Alina Kozaeva,F,U,,2002
+222828,RUS,Alina Kozaeva,F,U,,
 221897,GER,Erika Reinhardt,F,U,,2002
-222020,GER,Isabel Neumer,F,U,,2002
-222273,GER,Gina Marie Dittmann,F,U,,2002
-222466,GER,Alessa Maier,F,U,,2002
-222416,GER,Mia Mack,F,U,,2002
+222020,GER,Isabel Neumer,F,U,,
+222273,GER,Gina Marie Dittmann,F,U,,
+222466,GER,Alessa Maier,F,U,,
+222416,GER,Mia Mack,F,U,,
 220479,GER,Anna Schubries,F,U,,1994
-222209,GER,Anna Marie Weissheim,F,R,,1994
-222210,GER,Kim Juliane Auerswald,F,U,,1994
-222212,GER,Sibel Demirbaga,F,U,,1997
+222209,GER,Anna Marie Weissheim,F,R,,
+222210,GER,Kim Juliane Auerswald,F,U,,
+222212,GER,Sibel Demirbaga,F,U,,
 221561,GER,Katharina Huhnholz,F,U,,2000
 220402,GER,Michelle Roth,F,U,,1998
-222310,GER,Vivien Carolin Kutacova,F,U,,1998
-222311,GER,Sophie Julie Zehender,F,U,,1998
-222357,CZE,Tereza Polakova,F,U,,1998
-222358,GER,Luisa Hrda,F,L,,1998
-222359,GER,Jana Vanik,F,U,,1998
-222360,GER,Laura Isabel Putz,F,R,,1997
-222423,GER,Pia Schwarz,F,R,,1997
+222310,GER,Vivien Carolin Kutacova,F,U,,
+222311,GER,Sophie Julie Zehender,F,U,,
+222357,CZE,Tereza Polakova,F,U,,
+222358,GER,Luisa Hrda,F,L,,
+222359,GER,Jana Vanik,F,U,,
+222360,GER,Laura Isabel Putz,F,R,,
+222423,GER,Pia Schwarz,F,R,,
 220053,GER,Luisa Meyer Auf Der Heide,F,U,,2002
 221737,GRE,Kyriaki Mitsou,F,R,,2001
-222073,GRE,Dimitra Daliani,F,U,,2001
-222074,GRE,Maria Kontolaimaki,F,R,,2001
+222073,GRE,Dimitra Daliani,F,U,,
+222074,GRE,Maria Kontolaimaki,F,R,,
 221544,GER,Jonna Schroeder,F,U,,2000
-222123,SVK,Lucia Malinak,F,U,,2000
+222123,SVK,Lucia Malinak,F,U,,
 220162,IRL,Marie Perla Biansumba,F,U,,2000
 222124,GRE,Vasiliki Kalogeropoulou,F,U,,1991
-222125,SVK,Karin Kratochvilova,F,U,,1991
-222126,SVK,Natalia Schwarcova,F,U,,1991
-222092,SVK,Radka Zelnickova,F,R,,1991
+222125,SVK,Karin Kratochvilova,F,U,,
+222126,SVK,Natalia Schwarcova,F,U,,
+222092,SVK,Radka Zelnickova,F,R,,
 210815,GRE,Adreanna Christopoulou,F,U,,1993
-222146,GRE,Lydia Vlachou,F,R,,1993
+222146,GRE,Lydia Vlachou,F,R,,
 219619,GRE,Evgenia Kokkinaki,F,U,,2000
-222165,GRE,Maria Vasileiadi,F,U,,2000
-222061,ITA,Benedetta Ortenzi,F,U,,1997
-222166,GRE,Angeliki Dermitzaki Lambropoulou,F,R,,2000
-222167,GRE,Rafailia Nikoletta Fulop,F,U,,2000
+222165,GRE,Maria Vasileiadi,F,U,,
+222061,ITA,Benedetta Ortenzi,F,U,,
+222166,GRE,Angeliki Dermitzaki Lambropoulou,F,R,,
+222167,GRE,Rafailia Nikoletta Fulop,F,U,,
 220869,ROU,Isabela Ioana Dima,F,U,,2002
-222702,UKR,Anastasiya Skorupska,F,U,,1997
+222702,UKR,Anastasiya Skorupska,F,U,,
 210771,UKR,Olha Romanyshyn,F,U,,1994
-222208,ISR,Roni Lior,F,U,,1994
-222084,BUL,Aleksandra Zlatarova,F,U,,1994
-222922,SVK,Patricia Hlinkova,F,U,,1997
-222923,GRE,Katerina Zafiropoulou,F,R,,1994
-222942,GRE,Eleni Fasoula,F,U,,1994
-222943,KAZ,Eleni Fasoula,F,U,,1997
-222946,GRE,Maria Kallistrou,F,U,,1994
-222574,ROU,Maria Alexandra Medeea Popescu,F,U,,1994
-222083,ITA,Syria La Cerra,F,R,,1994
-222959,GRE,Eleni Kostaki,F,R,,1994
-222960,GRE,Aspasia Katsouda Taka,F,U,,1994
-222961,RUS,Alina Mukhortova,F,U,,1997
-222581,UKR,Anna Laura Hinka,F,U,,1994
+222208,ISR,Roni Lior,F,U,,
+222084,BUL,Aleksandra Zlatarova,F,U,,
+222922,SVK,Patricia Hlinkova,F,U,,
+222923,GRE,Katerina Zafiropoulou,F,R,,
+222942,GRE,Eleni Fasoula,F,U,,
+222943,KAZ,Eleni Fasoula,F,U,,
+222946,GRE,Maria Kallistrou,F,U,,
+222574,ROU,Maria Alexandra Medeea Popescu,F,U,,
+222083,ITA,Syria La Cerra,F,R,,
+222959,GRE,Eleni Kostaki,F,R,,
+222960,GRE,Aspasia Katsouda Taka,F,U,,
+222961,RUS,Alina Mukhortova,F,U,,
+222581,UKR,Anna Laura Hinka,F,U,,
 221568,NED,Madelief Hageman,F,L,,2003
 219462,FRA,Mir Ambaye,F,U,,1998
-222978,CHN,Wanyi Zhang,F,U,,1998
-222979,USA,Ella Leroy,F,R,,1998
-222984,GRE,Chara Meidani,F,U,,1998
-223000,GRE,Maria Georgiadou,F,U,,1998
-222504,ROU,Daria Maria Munteanu,F,R,,1998
+222978,CHN,Wanyi Zhang,F,U,,
+222979,USA,Ella Leroy,F,R,,
+222984,GRE,Chara Meidani,F,U,,
+223000,GRE,Maria Georgiadou,F,U,,
+222504,ROU,Daria Maria Munteanu,F,R,,
 221542,ROU,Simona Ogescu,F,U,,2002
-223001,CYP,Eleni Makride,F,U,,2002
-223002,GRE,Danai Pedaki,F,U,,1998
+223001,CYP,Eleni Makride,F,U,,
+223002,GRE,Danai Pedaki,F,U,,
 217897,RUS,Anna Davydova,F,U,,1995
-222854,SWE,Kseniya Sundin,F,U,,1998
-223003,ITA,Lorenza Cuomo,F,U,,1998
-223004,GRE,Ifigeneia Kafka,F,U,,1998
+222854,SWE,Kseniya Sundin,F,U,,
+223003,ITA,Lorenza Cuomo,F,U,,
+223004,GRE,Ifigeneia Kafka,F,U,,
 219597,HKG,Wing Kiu Jacqueline Lam,F,R,,2000
 221658,UNK,Alicia Yue,F,U,,2000
 219836,HKG,Avril Look,F,U,,2001
 220629,HKG,Wing Ka Lin,F,U,,2002
-221968,HKG,Chui Kei Leung,F,U,,2002
-221969,HKG,Hong Kiu Kwok,F,U,,2002
-222185,HKG,Kit Yi Kaye Au Yeung,F,U,,2002
-222186,HKG,Erica Kanna Hagi,F,R,,2002
-222285,HUN,Reka Kata Matko,F,U,,2002
-222286,HUN,Livia Lukacs,F,U,,2002
-222287,HUN,Reka Pecsi,F,U,,2002
-222288,HUN,Anna Kantor,F,U,,2002
+221968,HKG,Chui Kei Leung,F,U,,
+221969,HKG,Hong Kiu Kwok,F,U,,
+222185,HKG,Kit Yi Kaye Au Yeung,F,U,,
+222186,HKG,Erica Kanna Hagi,F,R,,
+222285,HUN,Reka Kata Matko,F,U,,
+222286,HUN,Livia Lukacs,F,U,,
+222287,HUN,Reka Pecsi,F,U,,
+222288,HUN,Anna Kantor,F,U,,
 219936,HUN,Vivien Abraham,F,U,,1999
 221569,CRO,Lucija Faj,F,R,,2001
-222635,HUN,Laura Szabo,F,U,,2001
-222636,HUN,Aliz Stumpf,F,U,,2001
-222638,HUN,Lilla Plasek,F,U,,1995
-222293,SRB,Andjela Vidovic,F,U,,1995
-222245,INA,Audy Phetricia,F,U,,2001
-222246,INA,Niken Ferlyana Kusumaningtyas,F,U,,2001
-222247,INA,Anggi Dwi Hidayati,F,U,,2001
+222635,HUN,Laura Szabo,F,U,,
+222636,HUN,Aliz Stumpf,F,U,,
+222638,HUN,Lilla Plasek,F,U,,
+222293,SRB,Andjela Vidovic,F,U,,
+222245,INA,Audy Phetricia,F,U,,
+222246,INA,Niken Ferlyana Kusumaningtyas,F,U,,
+222247,INA,Anggi Dwi Hidayati,F,U,,
 215212,INA,Oxi Gravitas Putri,F,R,,2000
-222248,INA,Cartika Wisesha Dewi Larasati,F,R,,2001
-222249,INA,Carrolina Martha Sanjaya,F,U,,2001
-222250,INA,Nur Rosida Mega Hadiati,F,R,,2001
+222248,INA,Cartika Wisesha Dewi Larasati,F,R,,
+222249,INA,Carrolina Martha Sanjaya,F,U,,
+222250,INA,Nur Rosida Mega Hadiati,F,R,,
 221900,JPN,Mio Kozaki,F,U,,2004
 215581,INA,Fadona Titalyana Kusumawati,F,U,,2000
 219693,INA,Putri Sanjungan Insani,F,R,,1999
-222251,INA,Bramila Shofia Nenden,F,U,,2000
-222252,INA,Jessica Christa Wirahadipoernomo,F,U,,2000
+222251,INA,Bramila Shofia Nenden,F,U,,
+222252,INA,Jessica Christa Wirahadipoernomo,F,U,,
 219800,INA,Samantha Nanere,F,R,,2001
-222278,IND,Vibhasree Gowda,F,L,,2000
-222257,USA,Zeba Jamal,F,U,,2000
-222280,USA,Sara Jamal,F,U,,2001
-222279,INA,Angie Bong Jan Thong,F,U,,2000
-222277,AUS,Muskan Sharma,F,U,,2000
+222278,IND,Vibhasree Gowda,F,L,,
+222257,USA,Zeba Jamal,F,U,,
+222280,USA,Sara Jamal,F,U,,
+222279,INA,Angie Bong Jan Thong,F,U,,
+222277,AUS,Muskan Sharma,F,U,,
 219666,IND,Akanksha A Bhan,F,R,,2000
 214496,RSA,Lee Barnard,F,U,,1999
 221791,IND,Anoushka Sharma,F,R,,2004
 221792,IND,Vaidehi Narsinghani,F,L,,2004
 221793,IND,Aayushi Tanwar,F,U,,2000
 221794,IND,Farhat Aleen Qamar,F,U,,2002
-222926,IND,Lakshmi Sahithi Reddy Vutukuru,F,U,,1999
-222927,IND,Ananyaa Bhargava,F,U,,2002
-222928,IND,Vidhi Jani,F,R,,2002
-222929,IND,Leera Raju,F,R,,2002
-222930,IND,Rashi Malviya,F,U,,2002
-222931,IND,Kriti Tomar,F,U,,2002
-222499,IND,Shreya Tatavarthy,F,U,,2002
-223006,IND,Pooja Ingale,F,U,,1999
-223007,IND,Richa Dadasaheb Chougule,F,U,,2002
-223008,IND,Kiara Dsouza,F,U,,2002
-223009,IND,Aanisha Rahul Shewate Aanisha Rahul Shewate,F,U,,2002
-223010,IND,Harshita Bangera,F,U,,2002
-222401,GER,Lola Mireille Glantz,F,U,,1999
-222435,IRL,Breda Brennan,F,U,,2002
-222436,IRL,Ciara O Toole,F,U,,2002
-222399,IRL,Alison Odea,F,U,,1999
-222437,IRL,Emily Odonovan,F,U,,2002
-222438,IRL,Emma Brennan,F,U,,2002
-222439,IRL,Lisa Ryan,F,U,,2002
-222400,IRL,Sarah Oconnor,F,U,,1999
-222440,IRL,Kate Gardiner,F,U,,2002
-222441,IRL,Ella Lynn Browne,F,U,,2002
-222442,IRL,Beatrice Laura Pirtac,F,U,,2002
+222926,IND,Lakshmi Sahithi Reddy Vutukuru,F,U,,
+222927,IND,Ananyaa Bhargava,F,U,,
+222928,IND,Vidhi Jani,F,R,,
+222929,IND,Leera Raju,F,R,,
+222930,IND,Rashi Malviya,F,U,,
+222931,IND,Kriti Tomar,F,U,,
+222499,IND,Shreya Tatavarthy,F,U,,
+223006,IND,Pooja Ingale,F,U,,
+223007,IND,Richa Dadasaheb Chougule,F,U,,
+223008,IND,Kiara Dsouza,F,U,,
+223009,IND,Aanisha Rahul Shewate Aanisha Rahul Shewate,F,U,,
+223010,IND,Harshita Bangera,F,U,,
+222401,GER,Lola Mireille Glantz,F,U,,
+222435,IRL,Breda Brennan,F,U,,
+222436,IRL,Ciara O Toole,F,U,,
+222399,IRL,Alison Odea,F,U,,
+222437,IRL,Emily Odonovan,F,U,,
+222438,IRL,Emma Brennan,F,U,,
+222439,IRL,Lisa Ryan,F,U,,
+222400,IRL,Sarah Oconnor,F,U,,
+222440,IRL,Kate Gardiner,F,U,,
+222441,IRL,Ella Lynn Browne,F,U,,
+222442,IRL,Beatrice Laura Pirtac,F,U,,
 221599,IRL,Juliana Carton,F,U,,2003
 221928,ISR,Sabrina Kalandarov,F,U,,2003
-220254,ISR,Oluchukwu Jennifer Ibeto,F,U,,2002
+220254,ISR,Oluchukwu Jennifer Ibeto,F,U,,
 221763,FRA,Mathilde Robine,F,L,,1996
 221668,ISR,Lorin Tilipman,F,U,,2003
-222206,ISR,Diana Smelansky,F,U,,2003
-222207,ISR,Ofer Kivity,F,U,,2003
+222206,ISR,Diana Smelansky,F,U,,
+222207,ISR,Ofer Kivity,F,U,,
 221546,ISR,Neta Tamir,F,U,,2002
-222240,ISR,Bar Haham,F,U,,2002
-222241,ISR,Yael Knebel,F,U,,2002
+222240,ISR,Bar Haham,F,U,,
+222241,ISR,Yael Knebel,F,U,,
 221708,ISR,Ofek Katz,F,U,,2003
 215646,RUS,Daria Rakitskaya,F,U,,2001
-222226,ISR,Stefani Sandoiu Shtein,F,U,,2003
-222242,ISR,May Baranes,F,U,,2003
+222226,ISR,Stefani Sandoiu Shtein,F,U,,
+222242,ISR,May Baranes,F,U,,
 216322,ISR,Sivan Raizman,F,U,,2001
-222596,ISR,Maya Betzalel,F,U,,2001
-222597,ISR,Maya Keidar,F,U,,2001
-222512,ISR,Tali Malykhin,F,U,,2001
+222596,ISR,Maya Betzalel,F,U,,
+222597,ISR,Maya Keidar,F,U,,
+222512,ISR,Tali Malykhin,F,U,,
 221731,ISR,Tali Krasnopolski,F,R,,2002
-221962,ITA,Alessandra Pezzulla,F,U,,2001
+221962,ITA,Alessandra Pezzulla,F,U,,
 221936,ITA,Irene Garbo,F,U,,2004
 221935,ITA,Ludovica Mazzucchelli,F,U,,2002
 214596,ITA,Susanna Giovanardi,F,U,,1999
-222060,ITA,Federica Marchiani,F,U,,1999
+222060,ITA,Federica Marchiani,F,U,,
 221514,ITA,Flaminia Scara,F,U,,2000
-222133,ITA,Giuseppina Miccio,F,U,,1999
-222134,ITA,Linda Salvi,F,U,,1999
-222147,ITA,Antonia Aragosa,F,R,,1999
+222133,ITA,Giuseppina Miccio,F,U,,
+222134,ITA,Linda Salvi,F,U,,
+222147,ITA,Antonia Aragosa,F,R,,
 220055,ITA,Tasha Cacciato,F,U,,1998
 221548,ITA,Anna Peres,F,U,,2001
 218005,ITA,Federica Colmari,F,U,,1992
 221657,ITA,Camilla Zanolini,F,U,,2003
-222253,ITA,Martina Muzzolon,F,U,,2003
+222253,ITA,Martina Muzzolon,F,U,,
 222284,ITA,Gaia Di Paolo,F,U,,2002
 221572,ITA,Rubina Marta De Ponti,F,U,,2002
-222326,GER,Tea Lukic,F,U,,2002
-222327,ITA,Valentina Campagnolo,F,U,,2002
+222326,GER,Tea Lukic,F,U,,
+222327,ITA,Valentina Campagnolo,F,U,,
 222369,ITA,Arianna Zucchini,F,R,,2003
 215048,ITA,Bianca Vitale,F,R,,1999
 206221,FRA,Magalie Girard,F,U,,1983
 222534,ROU,Andreea Valentina Mondan,F,U,,1998
 205974,ITA,Susanna Ciccone,F,R,,1995
-222695,ITA,Alessia Tripaldelli,F,U,,1995
+222695,ITA,Alessia Tripaldelli,F,U,,
 215533,ITA,Greta Di Majo,F,U,,1995
-222714,GER,Lili Minich,F,R,,1995
+222714,GER,Lili Minich,F,R,,
 221528,ITA,Rachele Elisa Zingale,F,R,,2002
 220343,ITA,Matilde Mariani,F,L,,2002
 222668,GER,Anja Wildgruber,F,U,,2002
-222894,ITA,Alessia Piccoliori,F,U,,2002
-222895,ITA,Lara Pfeifer,F,U,,2002
-222920,ITA,Maria Nuova Covato,F,U,,2002
-222907,ITA,Fabrizia Cambria,F,U,,2002
-222921,ITA,Desideria Damico,F,U,,2002
+222894,ITA,Alessia Piccoliori,F,U,,
+222895,ITA,Lara Pfeifer,F,U,,
+222920,ITA,Maria Nuova Covato,F,U,,
+222907,ITA,Fabrizia Cambria,F,U,,
+222921,ITA,Desideria Damico,F,U,,
 214603,ITA,Silvia Mattiolo,F,U,,1997
-222530,SUI,Tania Pereira,F,U,,2002
+222530,SUI,Tania Pereira,F,U,,
 222198,USA,Emma Davis,F,R,,1997
 221517,ITA,Chiara Gerbino,F,U,,2002
-222826,RUS,Nikol Mishieva,F,U,,2002
-222934,ITA,Marta Giglio,F,U,,2002
-222935,ITA,Noemi La Cagnina,F,U,,2002
-222793,RUS,Arina Atyushova,F,U,,2002
+222826,RUS,Nikol Mishieva,F,U,,
+222934,ITA,Marta Giglio,F,U,,
+222935,ITA,Noemi La Cagnina,F,U,,
+222793,RUS,Arina Atyushova,F,U,,
 222974,ITA,Giulia Martinelli,F,R,,2004
-222003,UKR,Mariia Kostiuk,F,U,,2002
+222003,UKR,Mariia Kostiuk,F,U,,
 220328,JPN,Minori Yonehara,F,U,,1995
 221904,JPN,Kurumi Ueno,F,U,,2000
 221918,JPN,Minori Imada,F,U,,2000
@@ -8225,110 +8225,110 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221938,JPN,Erika Matsuda,F,U,,2003
 221588,JPN,Momoko Nagato,F,U,,2001
 221584,JPN,Shiho Tsukuda,F,R,,2000
-221966,JPN,Kotoe Kamata,F,U,,2000
-222025,JPN,Ayano Toyoshi,F,U,,2000
-222058,JPN,Momo Saitou,F,U,,2000
+221966,JPN,Kotoe Kamata,F,U,,
+222025,JPN,Ayano Toyoshi,F,U,,
+222058,JPN,Momo Saitou,F,U,,
 217643,JPN,Yuka Matsumoto,F,U,,1984
-222102,JPN,Meina Aratake,F,U,,1984
-222139,JPN,Chiharu Kobayashi,F,U,,1984
-222140,JPN,Mua Shigeta,F,U,,1984
-222141,JPN,Shiori Ito,F,U,,2004
-222142,JPN,Satona Yada,F,U,,1984
-222215,KOR,Jiho Shin,F,U,,2004
-222517,JPN,Mizuki Inose,F,U,,1984
-222518,JPN,Sena Takebe,F,U,,1984
+222102,JPN,Meina Aratake,F,U,,
+222139,JPN,Chiharu Kobayashi,F,U,,
+222140,JPN,Mua Shigeta,F,U,,
+222141,JPN,Shiori Ito,F,U,,
+222142,JPN,Satona Yada,F,U,,
+222215,KOR,Jiho Shin,F,U,,
+222517,JPN,Mizuki Inose,F,U,,
+222518,JPN,Sena Takebe,F,U,,
 219899,JPN,Mako Ganaha,F,U,,1999
-222519,JPN,Mao Iseki,F,U,,1984
-222521,JPN,Nanami Saito,F,U,,1999
-222522,JPN,Kaho Hagiwara,F,U,,1984
-222524,JPN,Aoi Kanai,F,U,,1984
-222525,JPN,Anshu Okamura,F,U,,1984
-222520,JPN,Yuna Ohashi,F,U,,1984
-222523,JPN,Riko Ebina,F,U,,1984
+222519,JPN,Mao Iseki,F,U,,
+222521,JPN,Nanami Saito,F,U,,
+222522,JPN,Kaho Hagiwara,F,U,,
+222524,JPN,Aoi Kanai,F,U,,
+222525,JPN,Anshu Okamura,F,U,,
+222520,JPN,Yuna Ohashi,F,U,,
+222523,JPN,Riko Ebina,F,U,,
 222526,JPN,Michiyo Nakamura,F,U,,1971
-222527,JPN,Nalu Himeno,F,U,,1971
-222806,JPN,Nana Owada,F,U,,1971
-222807,JPN,Yuri Serizawa,F,U,,1971
-222808,JPN,Haruka Tominaga,F,R,,1999
-222809,JPN,Mei Koike,F,U,,1971
-222810,JPN,Natsumi Nakadate,F,U,,1971
-222811,JPN,Yui Kondo,F,U,,1971
+222527,JPN,Nalu Himeno,F,U,,
+222806,JPN,Nana Owada,F,U,,
+222807,JPN,Yuri Serizawa,F,U,,
+222808,JPN,Haruka Tominaga,F,R,,
+222809,JPN,Mei Koike,F,U,,
+222810,JPN,Natsumi Nakadate,F,U,,
+222811,JPN,Yui Kondo,F,U,,
 219889,JPN,Minori Natsuka,F,U,,1997
-222244,JPN,Mai Kandori,F,U,,1999
-222812,JPN,Suzura Takaoka,F,U,,1997
-222797,JPN,Haruna Takada,F,U,,1997
+222244,JPN,Mai Kandori,F,U,,
+222812,JPN,Suzura Takaoka,F,U,,
+222797,JPN,Haruna Takada,F,U,,
 219900,JPN,Nao Shimoji,F,U,,1999
-222813,JPN,Satsuki Ito,F,U,,1997
+222813,JPN,Satsuki Ito,F,U,,
 220860,JPN,Mami Mabuchi,F,U,,2002
-222814,JPN,Mai Fujimoto,F,U,,2002
+222814,JPN,Mai Fujimoto,F,U,,
 221877,KAZ,Zhanel Rustemova,F,U,,2004
 221878,KAZ,Diyora Alzhanova,F,U,,2002
 221879,KAZ,Stefanya Shalakhova,F,U,,2004
 221898,KAZ,Jasmina Stoppel,F,R,,2002
-221952,RUS,Ekaterina Maklakova,F,R,,2004
-221954,KAZ,Karina Rizvanova,F,U,,2002
-221951,KAZ,Sofiya Chursina,F,U,,2002
-221955,UZB,Valeriya Bichurina,F,U,,2002
+221952,RUS,Ekaterina Maklakova,F,R,,
+221954,KAZ,Karina Rizvanova,F,U,,
+221951,KAZ,Sofiya Chursina,F,U,,
+221955,UZB,Valeriya Bichurina,F,U,,
 220390,RUS,Nina Rudiukova,F,U,,2000
-221956,KAZ,Adel Ismagulova,F,U,,2002
-222531,RUS,Daria Mikhaylova,F,U,,2002
-222532,KAZ,Aizat Zholdakayeva,F,U,,2002
-222533,USA,Victoria Sasinka,F,U,,2002
+221956,KAZ,Adel Ismagulova,F,U,,
+222531,RUS,Daria Mikhaylova,F,U,,
+222532,KAZ,Aizat Zholdakayeva,F,U,,
+222533,USA,Victoria Sasinka,F,U,,
 221560,RUS,Anna Lytneva,F,R,,2002
-222319,RUS,Darya Gaifullina,F,R,,2000
-222610,BLR,Maryia Novikava,F,U,,2000
-222029,UZB,Kristina Mayer,F,U,,2002
-222611,RUS,Tatiana Ovechkina,F,R,,2002
-222598,RUS,Vladislava Petrovskaia,F,U,,2000
-222660,KAZ,Tatyana Nikolenko,F,U,,2000
-222670,RUS,Valeriia Ivanovskaia,F,U,,2002
-222671,UZB,Kristina Vergazova,F,U,,2002
-222453,KEN,Judith Muraa,F,U,,2000
-222454,KEN,Angella Okutoyi,F,U,,2000
-222455,KEN,Faith Nyabera Omurunga,F,U,,2000
-222456,KEN,Fatiya Shariff,F,U,,2002
-222467,KEN,Roselida Asumwa,F,U,,2002
-222469,KEN,Alicia Owegi,F,U,,2002
-222480,KEN,Cynthia Wanjala,F,U,,2000
-222110,KOR,Hyun Sin Son,F,U,,2002
-222111,KOR,Si On Park,F,U,,2002
+222319,RUS,Darya Gaifullina,F,R,,
+222610,BLR,Maryia Novikava,F,U,,
+222029,UZB,Kristina Mayer,F,U,,
+222611,RUS,Tatiana Ovechkina,F,R,,
+222598,RUS,Vladislava Petrovskaia,F,U,,
+222660,KAZ,Tatyana Nikolenko,F,U,,
+222670,RUS,Valeriia Ivanovskaia,F,U,,
+222671,UZB,Kristina Vergazova,F,U,,
+222453,KEN,Judith Muraa,F,U,,
+222454,KEN,Angella Okutoyi,F,U,,
+222455,KEN,Faith Nyabera Omurunga,F,U,,
+222456,KEN,Fatiya Shariff,F,U,,
+222467,KEN,Roselida Asumwa,F,U,,
+222469,KEN,Alicia Owegi,F,U,,
+222480,KEN,Cynthia Wanjala,F,U,,
+222110,KOR,Hyun Sin Son,F,U,,
+222111,KOR,Si On Park,F,U,,
 221709,UNK,Sandeul Kim,F,U,,2001
 206127,KOR,Gyung Eun Song,F,U,,1996
 221707,UNK,Handeul Kim,F,U,,2002
-222112,KOR,Eunyeong Park,F,U,,2002
-222113,KOR,Da In Nam,F,U,,2002
+222112,KOR,Eunyeong Park,F,U,,
+222113,KOR,Da In Nam,F,U,,
 221671,UNK,Han Gyeol Jeong,F,U,,2002
-222114,KOR,Seonghee Cheon,F,U,,2002
-222115,KOR,Taehee Kim,F,U,,2002
-222116,KOR,Jeong Yeon Choi,F,U,,2002
-222180,KOR,Na Hyun Kang,F,U,,2002
-222190,KOR,Eunseo Kim,F,U,,2002
-222213,KOR,Jeong Moon,F,U,,2002
-222214,KOR,Sihyeong Cho,F,U,,2000
-222216,KOR,Ji Young Seo,F,U,,2002
-222217,KOR,Mi Jin Kim,F,U,,2002
-222191,KOR,Hyeseo Shin,F,U,,2002
-222243,KOR,Choyeon Kang,F,U,,2002
+222114,KOR,Seonghee Cheon,F,U,,
+222115,KOR,Taehee Kim,F,U,,
+222116,KOR,Jeong Yeon Choi,F,U,,
+222180,KOR,Na Hyun Kang,F,U,,
+222190,KOR,Eunseo Kim,F,U,,
+222213,KOR,Jeong Moon,F,U,,
+222214,KOR,Sihyeong Cho,F,U,,
+222216,KOR,Ji Young Seo,F,U,,
+222217,KOR,Mi Jin Kim,F,U,,
+222191,KOR,Hyeseo Shin,F,U,,
+222243,KOR,Choyeon Kang,F,U,,
 221661,UNK,Eunji Oh,F,R,,2001
 220114,KOR,Hyojin Kong,F,U,,1998
 221670,UNK,Jae Young Jo,F,U,,2000
-222497,KOR,Youna Kim,F,U,,2000
-222546,KOR,Eun Ji Lee,F,U,,2000
-222498,KOR,Hee Rae Im,F,U,,2000
-222547,KOR,Nayeon Kim,F,U,,2000
+222497,KOR,Youna Kim,F,U,,
+222546,KOR,Eun Ji Lee,F,U,,
+222498,KOR,Hee Rae Im,F,U,,
+222547,KOR,Nayeon Kim,F,U,,
 221655,UNK,Dohee Yim,F,U,,2002
-222548,KOR,Ji Hyeon Seo,F,U,,2002
+222548,KOR,Ji Hyeon Seo,F,U,,
 221662,UNK,Chae Hyun Sim,F,U,,2001
 221613,UNK,Yeon Soo Park,F,U,,2003
-222549,KOR,Hyeri Kim,F,U,,2000
+222549,KOR,Hyeri Kim,F,U,,
 221787,KOR,Jooyeon Jeong,F,U,,2001
 221602,UNK,Suhyun Lim,F,U,,2002
 210729,LUX,Tatiana Silbereisen,F,R,,1988
 222889,LAT,Kira Golenko,F,U,,1991
-222890,POL,Karina Gustowska,F,U,,1991
+222890,POL,Karina Gustowska,F,U,,
 219283,SWE,Victoria Pahlett,F,R,,1994
 220946,LUX,Marie Weckerle,F,U,,2003
-222666,GER,Sarah Mueller,F,U,,2000
+222666,GER,Sarah Mueller,F,U,,
 220945,LUX,Gina Veyder,F,U,,2000
 221912,USA,Bryn Johnson,F,U,,2003
 221922,MEX,Silvana Rivero,F,R,,2002
@@ -8341,307 +8341,307 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221927,MEX,Maria Fernanda Martinez Hernandez,F,U,,2004
 221587,USA,Gabriela Tevez,F,R,,2000
 221906,USA,Maxi Duncan,F,U,,2002
-221986,MEX,Natalia Cabra Betancourt,F,U,,2000
+221986,MEX,Natalia Cabra Betancourt,F,U,,
 215028,CAN,Sofija Zecevic,F,U,,1999
-221995,MEX,Renata Castillo,F,U,,1999
+221995,MEX,Renata Castillo,F,U,,
 221558,USA,Averie Bowen,F,L,,1996
-222010,MEX,Teresa Hernandez Palencia,F,U,,1996
-221942,USA,Kendra Bunch,F,L,,1996
+222010,MEX,Teresa Hernandez Palencia,F,U,,
+221942,USA,Kendra Bunch,F,L,,
 221754,USA,Rebecca Lynn,F,U,,2004
-222075,MEX,Alejandra Cruz,F,U,,1996
-222049,MEX,Julia Garcia,F,L,,2004
+222075,MEX,Alejandra Cruz,F,U,,
+222049,MEX,Julia Garcia,F,L,,
 218289,BUL,Verginie Tchakarova,F,R,,1994
 210031,CZE,Barbora Vykydalova,F,U,,1989
 211841,BUL,Eleonore Tchakarova,F,R,,1994
-222076,MEX,Sara Alejandra Seivane Torres,F,U,,1989
-222048,MEX,Romary Cardenas Rifka,F,U,,1994
-222077,USA,Alexia Rodriguez,F,U,,1989
-222078,CRC,Ericka Chavarria,F,R,,1989
-222050,USA,Erika Sandor Zur,F,R,,1989
-222051,MEX,Fatima Yareli Gutierrez Martinez,F,U,,1989
-220016,CAN,Alisia Stephanie Manolescu,F,U,,1989
-222138,USA,Alexis Keberle,F,U,,1994
-222172,USA,Jennifer Gadalov,F,U,,1994
-222149,USA,Brianna Tulloch,F,U,,1994
-222095,USA,Shria Atturu,F,U,,1989
-222157,USA,Camille Townsend,F,R,,1989
-222173,USA,Isabella Dilaura,F,U,,1989
-222158,MEX,Amanda Carolina Nava Elkin,F,U,,1989
+222076,MEX,Sara Alejandra Seivane Torres,F,U,,
+222048,MEX,Romary Cardenas Rifka,F,U,,
+222077,USA,Alexia Rodriguez,F,U,,
+222078,CRC,Ericka Chavarria,F,R,,
+222050,USA,Erika Sandor Zur,F,R,,
+222051,MEX,Fatima Yareli Gutierrez Martinez,F,U,,
+220016,CAN,Alisia Stephanie Manolescu,F,U,,
+222138,USA,Alexis Keberle,F,U,,
+222172,USA,Jennifer Gadalov,F,U,,
+222149,USA,Brianna Tulloch,F,U,,
+222095,USA,Shria Atturu,F,U,,
+222157,USA,Camille Townsend,F,R,,
+222173,USA,Isabella Dilaura,F,U,,
+222158,MEX,Amanda Carolina Nava Elkin,F,U,,
 221697,UNK,Yu Chen,F,U,,2000
 214910,USA,Sara Kelly,F,U,,1997
 221146,USA,Alyssa Tobita,F,R,,1996
 222159,USA,Katya Townsend,F,R,,2000
-222174,USA,Julia Jordan,F,U,,2000
+222174,USA,Julia Jordan,F,U,,
 219921,IND,Arushi Gupta,F,U,,2000
-222175,USA,Kennedy Bridgforth,F,R,,2000
+222175,USA,Kennedy Bridgforth,F,R,,
 220357,MEX,Renata Lombera,F,R,,2000
 221120,USA,Gianna Pielet,F,U,,2002
-222205,MEX,Andrea Isabel Perez Morales,F,U,,2000
-222204,USA,Sydney Dorcil,F,U,,2000
+222205,MEX,Andrea Isabel Perez Morales,F,U,,
+222204,USA,Sydney Dorcil,F,U,,
 221688,RUS,Anastasia Sysoeva,F,U,,2003
-222271,MEX,Magdalena Nunez Pureco,F,U,,2003
+222271,MEX,Magdalena Nunez Pureco,F,U,,
 219676,USA,Caitlin Bernard,F,R,,1996
 221585,USA,Lilian Poling,F,U,,1997
 210968,PAR,Natalia Escobar,F,R,,1992
 214400,USA,Rianna Valdes,F,R,,1996
 222331,USA,Anastasia Tkachenko,F,R,,1998
-222297,RUS,Maria Kozyreva,F,U,,1996
-222332,CAN,Rita Colyer,F,U,,1998
+222297,RUS,Maria Kozyreva,F,U,,
+222332,CAN,Rita Colyer,F,U,,
 221554,USA,Diana Tkachenko,F,R,,1998
 218226,USA,Angela Kulikov,F,U,,1998
-222333,JPN,Asuka Kawai,F,U,,1998
+222333,JPN,Asuka Kawai,F,U,,
 222299,USA,Adriana Reami,F,R,,1997
-222298,VEN,Lorelyz Marruffo,F,U,,1997
-222334,JPN,Moka Ito,F,R,,1997
-222189,USA,Anna Sinclair Rogers,F,U,,1997
-222351,MEX,Gala Arangio,F,U,,1998
-222085,USA,Amy Kaplan,F,U,,1998
-222091,USA,Dylan Cline,F,U,,1998
-222383,MEX,Isabella Arana Rios,F,U,,1998
-222261,USA,Jami Marie Burt,F,U,,1998
-222384,MEX,Daniela Carreto,F,R,,1998
-222385,MEX,Quetzali Dafne Vazquez Montesinos,F,R,,1998
+222298,VEN,Lorelyz Marruffo,F,U,,
+222334,JPN,Moka Ito,F,R,,
+222189,USA,Anna Sinclair Rogers,F,U,,
+222351,MEX,Gala Arangio,F,U,,
+222085,USA,Amy Kaplan,F,U,,
+222091,USA,Dylan Cline,F,U,,
+222383,MEX,Isabella Arana Rios,F,U,,
+222261,USA,Jami Marie Burt,F,U,,
+222384,MEX,Daniela Carreto,F,R,,
+222385,MEX,Quetzali Dafne Vazquez Montesinos,F,R,,
 222402,USA,Madison Appel,F,R,,1997
 222403,USA,Jwany Sherif,F,R,,1996
-222445,MEX,Ana Villalvazo,F,U,,1998
+222445,MEX,Ana Villalvazo,F,U,,
 221689,USA,Drew Anderson,F,U,,1995
-222446,USA,Elan Mnatsakanov,F,U,,1995
-222447,COL,Angela Bonilla,F,R,,1996
-222448,USA,Muskan Mahajan,F,R,,1996
-222449,USA,Kristina Hovsepyan,F,U,,1995
-222404,USA,Natalie Johnson,F,U,,1996
+222446,USA,Elan Mnatsakanov,F,U,,
+222447,COL,Angela Bonilla,F,R,,
+222448,USA,Muskan Mahajan,F,R,,
+222449,USA,Kristina Hovsepyan,F,U,,
+222404,USA,Natalie Johnson,F,U,,
 222254,USA,Keisha R Clousing,F,U,,1995
-222486,USA,Myrna Olaya,F,U,,1996
+222486,USA,Myrna Olaya,F,U,,
 216220,USA,Kendal Woodard,F,R,,1994
-222509,USA,Misa Malkin,F,U,,1996
-222593,MEX,Valeria Vigil Escobar,F,U,,1994
-222594,ARG,Camila Keller,F,U,,1994
-222510,ISR,Sapir Sela,F,R,,1994
-222595,MEX,Yone Pereiro,F,U,,1994
+222509,USA,Misa Malkin,F,U,,
+222593,MEX,Valeria Vigil Escobar,F,U,,
+222594,ARG,Camila Keller,F,U,,
+222510,ISR,Sapir Sela,F,R,,
+222595,MEX,Yone Pereiro,F,U,,
 214583,CAN,Arisha Ladhani,F,U,,1996
-222804,MEX,Valentina Loretz,F,U,,1994
-222805,MEX,Paulina Loretz,F,U,,1994
+222804,MEX,Valentina Loretz,F,U,,
+222805,MEX,Paulina Loretz,F,U,,
 214024,CRO,Tea Jandric,F,U,,1996
 221617,USA,Mariana Ossa,F,R,,2002
 214777,USA,Taylor Ng,F,U,,1995
-222135,MEX,Elva Andrea Brindis Sanchez,F,U,,2002
+222135,MEX,Elva Andrea Brindis Sanchez,F,U,,
 211988,COL,Alejandra Gutierrez,F,U,,1997
-222909,USA,Leyden Games,F,U,,1995
-222962,RUS,Sofia Matiushova,F,R,,1995
-222748,NED,Emma Van Poppel,F,U,,1997
+222909,USA,Leyden Games,F,U,,
+222962,RUS,Sofia Matiushova,F,R,,
+222748,NED,Emma Van Poppel,F,U,,
 222033,USA,Vanessa Ong,F,R,,2002
-222837,USA,Malaika Rapolu,F,U,,1997
+222837,USA,Malaika Rapolu,F,U,,
 221702,ARG,Nicole Poj,F,U,,2001
-222691,USA,Emira Stafford,F,U,,2001
+222691,USA,Emira Stafford,F,U,,
 220884,USA,Sophia Hatton,F,U,,2001
-222963,USA,Brooke Thompson,F,U,,2001
-222964,USA,Patience Monroe,F,R,,2001
-222947,USA,Maya Pitts,F,U,,2001
-222985,USA,Misha Berry,F,U,,2001
-222986,JPN,Mio Mushika,F,U,,2001
-222987,CAN,Martyna Ostrzygalo,F,U,,2001
-222988,MEX,Maria Jimena Krite Castellanos,F,U,,2001
-223011,SWE,Klara Jonsson,F,U,,2001
-223012,MEX,Valeria Vigil Leal,F,U,,2001
-222677,MNE,Tea Nikcevic,F,U,,2001
+222963,USA,Brooke Thompson,F,U,,
+222964,USA,Patience Monroe,F,R,,
+222947,USA,Maya Pitts,F,U,,
+222985,USA,Misha Berry,F,U,,
+222986,JPN,Mio Mushika,F,U,,
+222987,CAN,Martyna Ostrzygalo,F,U,,
+222988,MEX,Maria Jimena Krite Castellanos,F,U,,
+223011,SWE,Klara Jonsson,F,U,,
+223012,MEX,Valeria Vigil Leal,F,U,,
+222677,MNE,Tea Nikcevic,F,U,,
 215883,MNE,Andrea Cetkovic,F,U,,2001
-222678,SRB,Senka Deletic,F,R,,2001
-222274,NED,Melissa Boyden,F,R,,2001
+222678,SRB,Senka Deletic,F,R,,
+222274,NED,Melissa Boyden,F,R,,
 221712,SWE,Agnes Gustafsson,F,R,,2001
-222275,NED,Bente Spee,F,U,,2001
+222275,NED,Bente Spee,F,U,,
 222017,NED,Anouk Koevermans,F,R,,2004
-222482,NED,Elysia Pool,F,U,,2001
-222550,NED,Min Chae Kim,F,U,,2004
-222551,NED,Sophie Wagemaker,F,L,,2004
-222553,USA,Maika M Adair,F,U,,2004
+222482,NED,Elysia Pool,F,U,,
+222550,NED,Min Chae Kim,F,U,,
+222551,NED,Sophie Wagemaker,F,L,,
+222553,USA,Maika M Adair,F,U,,
 205898,NGR,Abiodun Oyegoke,F,U,,1986
-222818,NGR,Amala Nwokolo,F,U,,1986
+222818,NGR,Amala Nwokolo,F,U,,
 205192,NGR,Sabath Ibrahim,F,U,,1980
 205356,NGR,Blessing Samuel,F,U,,1990
-222802,NGR,Jumai Muhammed,F,U,,1980
-222799,NGR,Omolade Aderemi,F,U,,1990
+222802,NGR,Jumai Muhammed,F,U,,
+222799,NGR,Omolade Aderemi,F,U,,
 205486,NGR,Blessing Anuna,F,U,,1982
-222800,DEN,Divine Dasam Nweke,F,U,,1982
-222819,NGR,Serena Teluwo,F,U,,1982
-222801,NGR,Ozi Oiza Josephine Yakubu,F,L,,1982
-222821,NGR,Peace P Udoh,F,U,,1982
-222822,NGR,Mariam Alli Balogun,F,R,,1982
-222820,NGR,Amarachi Odoh,F,U,,1982
+222800,DEN,Divine Dasam Nweke,F,U,,
+222819,NGR,Serena Teluwo,F,U,,
+222801,NGR,Ozi Oiza Josephine Yakubu,F,L,,
+222821,NGR,Peace P Udoh,F,U,,
+222822,NGR,Mariam Alli Balogun,F,R,,
+222820,NGR,Amarachi Odoh,F,U,,
 221575,NOR,Beatrice Henriette Faureng,F,U,,2001
-222043,SWE,Victoria Carlsten,F,U,,1982
+222043,SWE,Victoria Carlsten,F,U,,
 222873,NOR,Anna Sofia Haseth,F,R,,2004
 219971,SWE,Matilda Lenngren,F,U,,1999
-222874,NOR,Filippa Vale Frogner,F,U,,2004
-222875,NOR,Anine Wilberg,F,U,,2004
-222876,NOR,Mille Langaas,F,U,,2004
-222845,POL,Matylda Burylo,F,U,,2004
-222877,NED,Annemart Kleijn,F,R,,2004
-222896,PAR,Carlota Maria Pavia Sanchez,F,U,,2004
-222513,PAR,Leyla Fiorella Britez Risso,F,U,,2004
-222301,PER,Valeria Lloclla,F,U,,1999
-222335,PER,Carmen Fernanda Elorrieta Flores,F,R,,2004
+222874,NOR,Filippa Vale Frogner,F,U,,
+222875,NOR,Anine Wilberg,F,U,,
+222876,NOR,Mille Langaas,F,U,,
+222845,POL,Matylda Burylo,F,U,,
+222877,NED,Annemart Kleijn,F,R,,
+222896,PAR,Carlota Maria Pavia Sanchez,F,U,,
+222513,PAR,Leyla Fiorella Britez Risso,F,U,,
+222301,PER,Valeria Lloclla,F,U,,
+222335,PER,Carmen Fernanda Elorrieta Flores,F,R,,
 219469,PER,Samantha Echevarria,F,U,,1996
-222336,PER,Valeria Castro,F,U,,1999
-222337,PER,Roxana Urbina,F,R,,1996
-222304,PER,Alessia Martinez,F,U,,1999
-222302,PER,Micaela Ode,F,U,,1999
-222338,PER,Andrea Quiroz,F,U,,1996
+222336,PER,Valeria Castro,F,U,,
+222337,PER,Roxana Urbina,F,R,,
+222304,PER,Alessia Martinez,F,U,,
+222302,PER,Micaela Ode,F,U,,
+222338,PER,Andrea Quiroz,F,U,,
 215261,NED,Iris Julia Antje Verweij,F,U,,1994
-222339,PER,Patricia Cano,F,U,,1994
-222303,PER,Michela Montori Rodriguez,F,U,,1999
-222342,PER,Manuela Zegarra Ballon,F,U,,1999
+222339,PER,Patricia Cano,F,U,,
+222303,PER,Michela Montori Rodriguez,F,U,,
+222342,PER,Manuela Zegarra Ballon,F,U,,
 214201,NED,Jocelijn Cavero Roeper,F,U,,1997
-222352,PER,Daniela Rubio,F,U,,1999
-222386,PER,Gia Posito,F,U,,1999
-222387,PER,Lara Manzur,F,U,,1997
-222388,PER,Fatima Nemi,F,U,,1997
-222389,PER,Valeria Vinces,F,U,,1999
-222154,POL,Zuzanna Szczepanska,F,R,,1997
+222352,PER,Daniela Rubio,F,U,,
+222386,PER,Gia Posito,F,U,,
+222387,PER,Lara Manzur,F,U,,
+222388,PER,Fatima Nemi,F,U,,
+222389,PER,Valeria Vinces,F,U,,
+222154,POL,Zuzanna Szczepanska,F,R,,
 221710,POL,Emma Zakordoniec,F,U,,2000
 213632,POL,Katarzyna Pyka,F,R,,1996
 220965,SVK,Laura Duhl,F,R,,2002
-222414,POL,Karolina Bartusek,F,U,,2002
-221949,IND,Saisha Khanna,F,U,,2002
+222414,POL,Karolina Bartusek,F,U,,
+221949,IND,Saisha Khanna,F,U,,
 221950,POR,Ines Oliveira,F,R,,2003
-221967,GER,Chiara Calicchia,F,R,,2003
+221967,GER,Chiara Calicchia,F,R,,
 221541,POR,Beatriz Neves,F,U,,2002
-222127,POR,Madalena Andrade,F,U,,2002
+222127,POR,Madalena Andrade,F,U,,
 220968,POR,Madalena Tanqueiro,F,U,,2002
 204536,CHI,Barbara Castro,F,U,,1975
-222219,IND,Amrita Yadav,F,R,,1975
-222192,POR,Mafalda Guedes,F,L,,1975
-222309,IRI,Sana Garakani,F,U,,1975
-222716,GBR,Sashi Kempster,F,R,,1975
-222729,POR,Carolina Caetano Reis,F,U,,1975
-222432,POR,Sofia Pinto,F,U,,1975
-222433,POR,Rosario Louro,F,U,,1975
-222715,GER,Vanessa Langes,F,U,,1975
+222219,IND,Amrita Yadav,F,R,,
+222192,POR,Mafalda Guedes,F,L,,
+222309,IRI,Sana Garakani,F,U,,
+222716,GBR,Sashi Kempster,F,R,,
+222729,POR,Carolina Caetano Reis,F,U,,
+222432,POR,Sofia Pinto,F,U,,
+222433,POR,Rosario Louro,F,U,,
+222715,GER,Vanessa Langes,F,U,,
 221718,POR,Barbara Balancho,F,U,,2002
-222764,POR,Catarina Marcko Ferreira,F,U,,1975
-222763,BRA,Giulia Pereira De Aguiar,F,R,,1975
-222717,POR,Matilde Morais,F,U,,2002
-222852,ESP,Judith Sanchez Calvo,F,U,,1975
-222891,ESP,Maria Martinez Vaquero,F,U,,1975
-222321,AUS,Joya Nicolas,F,U,,1975
-222322,ROU,Alexandra Hincu,F,U,,1975
-222323,ROU,Fatima Ingrid Amartha Keita,F,U,,1975
+222764,POR,Catarina Marcko Ferreira,F,U,,
+222763,BRA,Giulia Pereira De Aguiar,F,R,,
+222717,POR,Matilde Morais,F,U,,
+222852,ESP,Judith Sanchez Calvo,F,U,,
+222891,ESP,Maria Martinez Vaquero,F,U,,
+222321,AUS,Joya Nicolas,F,U,,
+222322,ROU,Alexandra Hincu,F,U,,
+222323,ROU,Fatima Ingrid Amartha Keita,F,U,,
 220067,ROU,Lorena Maria Danaila,F,U,,2002
-222295,ROU,Ramona Matei,F,U,,2002
-222324,ROU,Alessia Maria Meriseanu,F,U,,2002
-222325,ROU,Alisia Alexandra Negoita,F,U,,2002
-222570,ROU,Rebeca Maria Tudose,F,U,,2002
-222571,ROU,Sofia Maria Nicolae,F,R,,2002
-222502,ROU,Maria Daciana Ciubotaru,F,U,,2002
-222503,ROU,Francesca Andrea Feodorov,F,U,,2002
-222572,ROU,Bianca Maria Dascalu,F,U,,2002
-222573,ROU,Beatrice Alexia Duma,F,R,,2002
-222575,ROU,Alexandra Neacsu,F,U,,2002
+222295,ROU,Ramona Matei,F,U,,
+222324,ROU,Alessia Maria Meriseanu,F,U,,
+222325,ROU,Alisia Alexandra Negoita,F,U,,
+222570,ROU,Rebeca Maria Tudose,F,U,,
+222571,ROU,Sofia Maria Nicolae,F,R,,
+222502,ROU,Maria Daciana Ciubotaru,F,U,,
+222503,ROU,Francesca Andrea Feodorov,F,U,,
+222572,ROU,Bianca Maria Dascalu,F,U,,
+222573,ROU,Beatrice Alexia Duma,F,R,,
+222575,ROU,Alexandra Neacsu,F,U,,
 221574,ROU,Daniela Andreea Rosca,F,U,,2003
-222576,ROU,Denisa Elena Plesa,F,U,,2003
-222577,ROU,Oana Cocan,F,R,,2003
+222576,ROU,Denisa Elena Plesa,F,U,,
+222577,ROU,Oana Cocan,F,R,,
 221547,ROU,Ana Maria Gabriela Taranu,F,U,,2001
-222578,ROU,Ioana Dumitrescu,F,U,,2003
-222579,ROU,Andra Cristina Captan,F,U,,2001
+222578,ROU,Ioana Dumitrescu,F,U,,
+222579,ROU,Andra Cristina Captan,F,U,,
 219724,HUN,Klaudia Fedosenkova,F,U,,2000
-222625,SVK,Laura Hrabovska,F,R,,2000
+222625,SVK,Laura Hrabovska,F,R,,
 220084,SRB,Jovana Gvozdenovic,F,U,,1999
-222604,ROU,Delia Macovei,F,U,,1999
+222604,ROU,Delia Macovei,F,U,,
 213716,ROU,Oana Irimescu,F,L,,1996
-222626,ROU,Doris Carolina Isaila,F,U,,1999
-222709,RSA,Ntokozo Zungu,F,U,,1999
-222747,GBR,Rapelang Danielle Sebata,F,R,,1999
-222712,RSA,Mikayla Faure,F,L,,1996
-222749,RSA,Kelly Hope,F,U,,1999
+222626,ROU,Doris Carolina Isaila,F,U,,
+222709,RSA,Ntokozo Zungu,F,U,,
+222747,GBR,Rapelang Danielle Sebata,F,R,,
+222712,RSA,Mikayla Faure,F,L,,
+222749,RSA,Kelly Hope,F,U,,
 219848,USA,Lauren Cooper,F,U,,2001
-222750,RSA,Amy Bloch,F,U,,2001
+222750,RSA,Amy Bloch,F,U,,
 220094,RSA,Jessica Bruyns,F,R,,2000
-222710,GER,Maxima Ellenberg,F,U,,2001
-222751,RSA,Amonette Theron,F,U,,2000
-222711,RSA,Nicole Viljoen,F,U,,2001
-222713,RSA,Isabella Weatherhead,F,U,,2000
-222722,RSA,Cayline Le Grange,F,U,,2000
-222723,RSA,Georgia Kennealy,F,U,,2000
-222770,RSA,Martina Garnevska,F,U,,2000
-222771,RSA,Kagiso Ledwaba,F,U,,2000
-222724,BOT,Tshegofatso Tsiang,F,U,,2000
-222725,RSA,Georgia Hosking,F,R,,2001
+222710,GER,Maxima Ellenberg,F,U,,
+222751,RSA,Amonette Theron,F,U,,
+222711,RSA,Nicole Viljoen,F,U,,
+222713,RSA,Isabella Weatherhead,F,U,,
+222722,RSA,Cayline Le Grange,F,U,,
+222723,RSA,Georgia Kennealy,F,U,,
+222770,RSA,Martina Garnevska,F,U,,
+222771,RSA,Kagiso Ledwaba,F,U,,
+222724,BOT,Tshegofatso Tsiang,F,U,,
+222725,RSA,Georgia Hosking,F,R,,
 221786,RUS,Alena Kubanova,F,U,,2001
-222554,RUS,Ksenia Meshcheryakova,F,U,,2001
-222218,RUS,Daria Kononchuk,F,U,,2001
+222554,RUS,Ksenia Meshcheryakova,F,U,,
+222218,RUS,Daria Kononchuk,F,U,,
 221755,RUS,Maria Shushpanova,F,R,,1999
-222555,RUS,Elizaveta Gurianova,F,U,,1999
+222555,RUS,Elizaveta Gurianova,F,U,,
 221525,RUS,Ksenia Khlynova,F,R,,2002
-222557,RUS,Alina Trynkina,F,U,,1999
-222031,RUS,Iuliia Asanova,F,U,,1999
+222557,RUS,Alina Trynkina,F,U,,
+222031,RUS,Iuliia Asanova,F,U,,
 220544,RUS,Anna TSELYKOVSKAYA,F,R,,2000
 221646,RUS,Daria Soldatova,F,R,,2002
-222481,RUS,Elena Korokozidi,F,U,,2000
+222481,RUS,Elena Korokozidi,F,U,,
 203380,RUS,Julia Valetova,F,R,,1994
-222495,RUS,Kristina Volgapkina,F,U,,1994
+222495,RUS,Kristina Volgapkina,F,U,,
 221778,SGP,Julienne Goh,F,U,,2004
 221779,SGP,Lerr Min Lim,F,U,,2004
 221780,SGP,Joelle Goh,F,U,,2002
 221781,SGP,Deanne Choo,F,U,,2003
-222117,SGP,Michelle Yeo,F,U,,2003
+222117,SGP,Michelle Yeo,F,U,,
 203490,ESP,Beatriz Leon Hernandez,F,U,,1994
-222118,SGP,Claire Chan,F,U,,1994
-222119,SGP,Amber Larraine Richards,F,U,,1994
-222120,SGP,Yh Sara Chen,F,U,,1994
-222294,SRB,Darja Suvirdjonkova,F,U,,1994
+222118,SGP,Claire Chan,F,U,,
+222119,SGP,Amber Larraine Richards,F,U,,
+222120,SGP,Yh Sara Chen,F,U,,
+222294,SRB,Darja Suvirdjonkova,F,U,,
 221934,SRB,Mija Ljubic,F,R,,2000
-222320,SRB,Nikoleta Stankovic,F,R,,2000
-222542,SRB,Iva Divac,F,U,,2000
+222320,SRB,Nikoleta Stankovic,F,R,,
+222542,SRB,Iva Divac,F,U,,
 220131,SRB,Bojana Jovanovic,F,U,,1998
-222543,SRB,Jelena Marjanovic,F,U,,1994
-222545,JPN,Hanna Morikawa,F,U,,1998
-222008,SUI,Karolina Kozakova,F,R,,1998
-222235,MEX,Maria Del Mar Gabriela Sanchez Ramirez,F,U,,1998
+222543,SRB,Jelena Marjanovic,F,U,,
+222545,JPN,Hanna Morikawa,F,U,,
+222008,SUI,Karolina Kozakova,F,R,,
+222235,MEX,Maria Del Mar Gabriela Sanchez Ramirez,F,U,,
 218172,SUI,Martina Gaemperle,F,R,,1990
 221600,SUI,Leandra Vernocchi,F,R,,2001
 219946,SWE,Olivia Alfredsson,F,U,,2000
 220941,SWE,Anna Leijon,F,U,,2001
-222042,SWE,Emma Shasteen,F,R,,2001
-222066,NOR,Matylda Burylo,F,U,,2001
+222042,SWE,Emma Shasteen,F,R,,
+222066,NOR,Matylda Burylo,F,U,,
 219947,SWE,Victoria Saldh,F,U,,1999
-222128,SWE,Felicia Back,F,U,,2001
-222129,SWE,Arta Lika,F,U,,2001
-222130,SWE,Frida Soko,F,U,,2001
+222128,SWE,Felicia Back,F,U,,
+222129,SWE,Arta Lika,F,U,,
+222130,SWE,Frida Soko,F,U,,
 220939,SWE,Othilia Brodin,F,U,,2001
 221565,SWE,Wilma Bergqvist,F,U,,2001
-222131,SWE,Viktoria Leth,F,U,,2001
-222132,SWE,Marta Louise Soederberg,F,U,,2001
-222236,SWE,Sara Dahlstrom,F,U,,2001
+222131,SWE,Viktoria Leth,F,U,,
+222132,SWE,Marta Louise Soederberg,F,U,,
+222236,SWE,Sara Dahlstrom,F,U,,
 221579,SWE,Frida Bostrand,F,U,,2002
-222853,SWE,Linn Svaerd,F,U,,2002
-222842,SWE,Louise Wikander,F,R,,2002
+222853,SWE,Linn Svaerd,F,U,,
+222842,SWE,Louise Wikander,F,R,,
 220943,SWE,Johanna Strom,F,U,,2003
-222855,SWE,Ruya Mavi,F,R,,2003
-222892,SWE,Saga Koch,F,U,,2003
-222152,PHI,Ashley Mckenzie,F,U,,2003
-222182,THA,Roong Sirinuntavitaya,F,R,,2003
-222413,THA,Natasha Sengphrachanh,F,R,,2003
+222855,SWE,Ruya Mavi,F,R,,
+222892,SWE,Saga Koch,F,U,,
+222152,PHI,Ashley Mckenzie,F,U,,
+222182,THA,Roong Sirinuntavitaya,F,R,,
+222413,THA,Natasha Sengphrachanh,F,R,,
 219681,THA,Rada Manataweewat,F,R,,1997
-222968,THA,Piyaphat Jongma,F,U,,1997
+222968,THA,Piyaphat Jongma,F,U,,
 222965,RUS,Erika Andreeva,F,R,,2004
-222969,THA,Vera Deepoem,F,U,,1997
-222788,THA,Kanyanut Sudsaard,F,U,,1997
-222970,FRA,Juliette Daries,F,R,,1997
-222786,RUS,Mariya Polishchuk,F,R,,2004
-222787,RUS,Maria Filimonikhina,F,R,,1997
-223013,JPN,Airi Ohashi,F,U,,1997
-222307,THA,Pichapak Sirikul,F,U,,1997
-222290,THA,Lanlana Tararudee,F,U,,1997
-222308,SVK,Mia Mayerova,F,U,,1997
-222784,CAM,Chhinda Som,F,R,,1997
-222785,RUS,Nadezda Khalturina,F,R,,1997
-222411,TPE,Hsuan Huang,F,U,,1997
-222412,TPE,Ke Syuan Jhang,F,U,,2004
-222086,TTO,Osenyonye Nwokolo,F,U,,1997
-222087,TTO,Keesa Lee Young,F,U,,1997
-222088,TTO,Aalisha Alexis,F,U,,1997
-222089,TTO,Kimberly Sabga,F,U,,1997
-222090,TTO,Shauna Valentine,F,U,,1997
-222136,USA,Danielle Alamo,F,R,,1997
+222969,THA,Vera Deepoem,F,U,,
+222788,THA,Kanyanut Sudsaard,F,U,,
+222970,FRA,Juliette Daries,F,R,,
+222786,RUS,Mariya Polishchuk,F,R,,
+222787,RUS,Maria Filimonikhina,F,R,,
+223013,JPN,Airi Ohashi,F,U,,
+222307,THA,Pichapak Sirikul,F,U,,
+222290,THA,Lanlana Tararudee,F,U,,
+222308,SVK,Mia Mayerova,F,U,,
+222784,CAM,Chhinda Som,F,R,,
+222785,RUS,Nadezda Khalturina,F,R,,
+222411,TPE,Hsuan Huang,F,U,,
+222412,TPE,Ke Syuan Jhang,F,U,,
+222086,TTO,Osenyonye Nwokolo,F,U,,
+222087,TTO,Keesa Lee Young,F,U,,
+222088,TTO,Aalisha Alexis,F,U,,
+222089,TTO,Kimberly Sabga,F,U,,
+222090,TTO,Shauna Valentine,F,U,,
+222136,USA,Danielle Alamo,F,R,,
 207461,TRI,Kaisaran Siewrattan,F,U,,1974
 221776,TUN,Sawssan Bouhlel,F,U,,2003
 221767,TUN,Wiem Boubaker,F,U,,2003
@@ -8652,131 +8652,131 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221902,BLR,Alena Bairasheuskaya,F,U,,2000
 219627,KAZ,Anna Ustinoff,F,U,,1998
 215114,ITA,Teodora Djordjevic,F,R,,1995
-222026,FRA,Vivien Gimla,F,U,,1998
-222059,ITA,Francesca Covi,F,U,,1998
-222040,ITA,Elena Covi,F,U,,1995
-222109,USA,Leila Epstein,F,U,,1995
-221970,TUN,Ines Bergaoui,F,U,,1998
-221971,TUN,Fatma Mathlouthi,F,U,,1998
-221972,TUN,Lilia Mahbouli,F,U,,1998
-221973,TUN,Fatma Mornagui,F,R,,1998
-221974,TUN,Sarah Lisa Aubertin,F,U,,1998
+222026,FRA,Vivien Gimla,F,U,,
+222059,ITA,Francesca Covi,F,U,,
+222040,ITA,Elena Covi,F,U,,
+222109,USA,Leila Epstein,F,U,,
+221970,TUN,Ines Bergaoui,F,U,,
+221971,TUN,Fatma Mathlouthi,F,U,,
+221972,TUN,Lilia Mahbouli,F,U,,
+221973,TUN,Fatma Mornagui,F,R,,
+221974,TUN,Sarah Lisa Aubertin,F,U,,
 220973,GBR,Graziella Barrett,F,U,,2000
-222161,IND,Prathyusha Rachapudi,F,R,,2000
-222314,ROU,Carina Marina Petrosan,F,U,,2000
-222315,GBR,Eleanor Baglow,F,L,,1995
-222291,ITA,Greta Medeghini,F,U,,1995
-222317,RUS,Amalia Azimova,F,U,,2000
-222318,GER,Elena Giovanna Giessler,F,U,,2000
-222368,ITA,Chiara Alesiani,F,U,,2000
+222161,IND,Prathyusha Rachapudi,F,R,,
+222314,ROU,Carina Marina Petrosan,F,U,,
+222315,GBR,Eleanor Baglow,F,L,,
+222291,ITA,Greta Medeghini,F,U,,
+222317,RUS,Amalia Azimova,F,U,,
+222318,GER,Elena Giovanna Giessler,F,U,,
+222368,ITA,Chiara Alesiani,F,U,,
 219540,ITA,Ginevra Peiretti,F,R,,1999
-222394,ITA,Carlotta Gabrielli,F,U,,1995
+222394,ITA,Carlotta Gabrielli,F,U,,
 218103,ESP,Thais Castiglioni,F,U,,1994
-222425,FRA,Alicia Suzzoni,F,U,,1994
+222425,FRA,Alicia Suzzoni,F,U,,
 221681,ITA,Eleonora Canovi,F,U,,2000
-222457,TUN,Ghaida Jeribi,F,U,,1994
-222708,DEN,Karoline Laursen,F,U,,2000
-222746,ITA,Roberta Lodi Pasini,F,U,,2000
+222457,TUN,Ghaida Jeribi,F,U,,
+222708,DEN,Karoline Laursen,F,U,,
+222746,ITA,Roberta Lodi Pasini,F,U,,
 220873,USA,Chanel Scudiero,F,U,,1995
 220082,ITA,Sara Ziodato,F,U,,2002
 211743,ITA,Sveva Mazzari,F,U,,1994
-222823,SUI,Julie Schalch,F,U,,1994
+222823,SUI,Julie Schalch,F,U,,
 221682,FRA,Jenifer Anger,F,U,,2001
-222906,NED,Noesjka Brink,F,U,,2001
-222912,ITA,Linda Canteri,F,R,,1994
-222913,USA,Marika Jones,F,U,,1994
-222932,ITA,Camilla Iervolino,F,U,,1994
-222950,ESP,Maria Verdu Gonzalez,F,U,,1994
-222951,CMR,Stad Fani Fanyi Nformi,F,U,,1994
-222952,BEL,Lena Delfosse,F,U,,2001
-222953,ITA,Pervinca Curci,F,R,,2001
+222906,NED,Noesjka Brink,F,U,,
+222912,ITA,Linda Canteri,F,R,,
+222913,USA,Marika Jones,F,U,,
+222932,ITA,Camilla Iervolino,F,U,,
+222950,ESP,Maria Verdu Gonzalez,F,U,,
+222951,CMR,Stad Fani Fanyi Nformi,F,U,,
+222952,BEL,Lena Delfosse,F,U,,
+222953,ITA,Pervinca Curci,F,R,,
 221636,ITA,Francesca Falleni,F,U,,1999
-222954,ITA,Irene Verzin,F,R,,2001
-223014,LTU,Nika Novikova,F,U,,2001
+222954,ITA,Irene Verzin,F,R,,
+223014,LTU,Nika Novikova,F,U,,
 221524,FRA,Margaux Komano,F,U,,2001
-222990,ITA,Nicole Teodosescu,F,U,,2001
-223015,ITA,Emma Pedretti,F,U,,2001
+222990,ITA,Nicole Teodosescu,F,U,,
+223015,ITA,Emma Pedretti,F,U,,
 221788,TUR,Yanki Arslan,F,U,,2004
 213925,SVK,Natalia Zorgovska,F,U,,1996
-221946,TUR,Nursen Ayan,F,R,,1996
-221947,TUR,Irem Turemisoglu,F,U,,1996
+221946,TUR,Nursen Ayan,F,R,,
+221947,TUR,Irem Turemisoglu,F,U,,
 221538,SWE,Hanna Axelsson,F,U,,2000
-221948,GER,Annika Chiara Rittberger,F,U,,2000
-221953,TUR,Dilara Kinal,F,U,,2000
-221991,SLO,Kim Zizek,F,U,,2000
+221948,GER,Annika Chiara Rittberger,F,U,,
+221953,TUR,Dilara Kinal,F,U,,
+221991,SLO,Kim Zizek,F,U,,
 219996,BLR,Kristina Vasina,F,U,,1999
 221642,RUS,Polina Naumenko,F,U,,2001
 221924,GER,Michelle Korpys,F,U,,2004
-222067,RUS,Teona Urushadze,F,U,,2004
+222067,RUS,Teona Urushadze,F,U,,
 221652,RUS,Ekaterina Oborina,F,U,,2002
-222122,RUS,Ekaterina Cherkasova,F,U,,2002
-222153,RUS,Alyona Anufrenkova,F,U,,2001
+222122,RUS,Ekaterina Cherkasova,F,U,,
+222153,RUS,Alyona Anufrenkova,F,U,,
 211555,RUS,Viktoriya Bogoslovska,F,U,,1996
-222687,RUS,Margarita Ten,F,U,,1996
-222686,RUS,Maria Zolotukhina,F,U,,1996
+222687,RUS,Margarita Ten,F,U,,
+222686,RUS,Maria Zolotukhina,F,U,,
 221735,RUS,Marina Timofeeva,F,U,,1999
 220937,RUS,Alexandra Mironova,F,U,,2000
-222760,GER,Michaela Niedermeier,F,R,,2001
-222761,TUR,Nilda Ikizoglu,F,U,,2000
-222762,TUR,Aysegul Mert,F,L,,2001
-222791,AUT,Anastasia Dimitrijevic,F,U,,2001
-222792,RUS,Olga Petrushina,F,U,,2000
-222790,IND,Shikha Tyagi,F,R,,2000
-222825,GER,Alissa Schmitz,F,U,,2000
+222760,GER,Michaela Niedermeier,F,R,,
+222761,TUR,Nilda Ikizoglu,F,U,,
+222762,TUR,Aysegul Mert,F,L,,
+222791,AUT,Anastasia Dimitrijevic,F,U,,
+222792,RUS,Olga Petrushina,F,U,,
+222790,IND,Shikha Tyagi,F,R,,
+222825,GER,Alissa Schmitz,F,U,,
 222803,TUR,Ozlem Uslu,F,R,,2004
-222856,TUR,Defne Cirpanli,F,R,,2004
+222856,TUR,Defne Cirpanli,F,R,,
 214510,RUS,Greta Mokrousova,F,U,,1996
-222858,SVK,Karin Maria Handiakova,F,U,,1996
-222859,ROU,Maria Sara Popa,F,L,,2004
+222858,SVK,Karin Maria Handiakova,F,U,,
+222859,ROU,Maria Sara Popa,F,L,,
 222878,TUR,Melisa Ercan,F,U,,2005
-222893,TUR,Melisa Senli,F,U,,2004
-222862,TUR,Ozum Kavran,F,U,,2005
-222863,TUR,Duru Yagmur Durgun,F,U,,2005
-222908,ESP,Jordina Cegarra Ramirez,F,U,,2005
-222937,SVK,Diana Mascenikova,F,U,,2004
-222938,TUR,Eda Numanoglu,F,U,,2005
-222940,POL,Zofia Podbiol,F,U,,2005
-222924,RUS,Anna Chekanskaya,F,U,,2004
-222941,RUS,Polina Karelina,F,U,,2005
-222936,ROU,Maria Bianca Andrei,F,U,,2005
-222939,RUS,Olga Evstigneeva,F,U,,2005
-222958,RUS,Milena Guraeva,F,U,,2005
-222957,TUR,Eda Arli,F,U,,2005
-222975,BLR,Maryia Savitskaya,F,U,,2005
-222976,TUR,Senem Ocal,F,U,,2005
-222977,RUS,Dana Shakirova,F,U,,2004
-223016,SVK,Zuzana Pavelekova,F,U,,2004
-223017,TUR,Billur Gonlusen,F,U,,2004
+222893,TUR,Melisa Senli,F,U,,
+222862,TUR,Ozum Kavran,F,U,,
+222863,TUR,Duru Yagmur Durgun,F,U,,
+222908,ESP,Jordina Cegarra Ramirez,F,U,,
+222937,SVK,Diana Mascenikova,F,U,,
+222938,TUR,Eda Numanoglu,F,U,,
+222940,POL,Zofia Podbiol,F,U,,
+222924,RUS,Anna Chekanskaya,F,U,,
+222941,RUS,Polina Karelina,F,U,,
+222936,ROU,Maria Bianca Andrei,F,U,,
+222939,RUS,Olga Evstigneeva,F,U,,
+222958,RUS,Milena Guraeva,F,U,,
+222957,TUR,Eda Arli,F,U,,
+222975,BLR,Maryia Savitskaya,F,U,,
+222976,TUR,Senem Ocal,F,U,,
+222977,RUS,Dana Shakirova,F,U,,
+223016,SVK,Zuzana Pavelekova,F,U,,
+223017,TUR,Billur Gonlusen,F,U,,
 220653,ITA,Martina Girardi,F,U,,1999
-223018,RUS,Anastasia Kovaleva,F,U,,2004
-223019,NED,Ivana Milosevic,F,U,,1999
+223018,RUS,Anastasia Kovaleva,F,U,,
+223019,NED,Ivana Milosevic,F,U,,
 211061,TUR,Gizem Melisa Ates,F,U,,1996
 211963,TUR,Ege Tomey,F,U,,1997
-222738,UKR,Karyna Kachur,F,L,,2004
-222740,UKR,Mariia Hurieva,F,R,,2004
+222738,UKR,Karyna Kachur,F,L,,
+222740,UKR,Mariia Hurieva,F,R,,
 221734,UKR,Hen Plaksiy,F,R,,2001
-222741,UKR,Lolita Gukasyan,F,U,,2004
-222585,UKR,Valeriia Cherfus,F,U,,2004
+222741,UKR,Lolita Gukasyan,F,U,,
+222585,UKR,Valeriia Cherfus,F,U,,
 222506,UKR,Anastasiya Konstantinovna Soboleva,F,U,,2004
-222742,UKR,Ruslana Kovalenko,F,R,,2004
+222742,UKR,Ruslana Kovalenko,F,R,,
 221758,UKR,Iryna Lysykh,F,U,,2003
 221606,UKR,Anastasia Vorobyova,F,U,,2004
-222744,UKR,Oleksandra Kudelska,F,U,,2004
-222589,UKR,Anna Pinaieva,F,R,,2003
-222580,UKR,Mariia Hlahola,F,U,,2003
+222744,UKR,Oleksandra Kudelska,F,U,,
+222589,UKR,Anna Pinaieva,F,R,,
+222580,UKR,Mariia Hlahola,F,U,,
 221534,UKR,Anna Parkhomenko,F,U,,2002
-222590,UKR,Anna Sydorenko,F,U,,2003
-222739,UKR,Anastasiya Zholdakova,F,U,,2003
+222590,UKR,Anna Sydorenko,F,U,,
+222739,UKR,Anastasiya Zholdakova,F,U,,
 221660,UKR,Anna Syrova,F,U,,2002
-222505,UKR,Sonya Kovalenko,F,U,,2003
+222505,UKR,Sonya Kovalenko,F,U,,
 220961,UKR,Valeriia Sheikina,F,U,,2001
-222743,RUS,Vasilisa Belonog,F,U,,2001
-222584,UKR,Alexandra Fedorenko,F,R,,2002
-222583,UKR,Sofiia Vdovychenko,F,R,,2001
-222587,GBR,Madeleine Brooks,F,U,,2002
-222586,UKR,Kateryna Rublevska,F,U,,2001
-222588,UKR,Anastasiia Khriapko,F,U,,2001
-222582,UKR,Maria Strebkova,F,U,,2001
+222743,RUS,Vasilisa Belonog,F,U,,
+222584,UKR,Alexandra Fedorenko,F,R,,
+222583,UKR,Sofiia Vdovychenko,F,R,,
+222587,GBR,Madeleine Brooks,F,U,,
+222586,UKR,Kateryna Rublevska,F,U,,
+222588,UKR,Anastasiia Khriapko,F,U,,
+222582,UKR,Maria Strebkova,F,U,,
 221789,USA,Alexis Blokhina,F,L,,2004
 220887,USA,Elizabeth Coleman,F,U,,2003
 221627,USA,Kimmi Hance,F,R,,2003
@@ -8784,142 +8784,142 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 221910,USA,Anessa Lee,F,U,,2002
 221914,USA,Jenna Defalco,F,U,,2002
 221915,USA,Midori Castillo Meza,F,U,,2003
-221940,UKR,Khrystyna Vozniak,F,R,,2003
-221941,USA,Mckenna Wheatley,F,U,,2003
-221943,USA,Lydia Lee,F,U,,2003
-221957,USA,Nicole Nowak,F,U,,2003
-221958,USA,Margaret Polk,F,U,,2003
-222021,USA,Nicole Hammond,F,R,,2003
-222004,ZAM,Naomi Chileshe,F,U,,2003
-222005,GHA,Elizabeth Kapari Bagerbaseh,F,R,,2003
-222006,USA,Nikki Yanez,F,U,,2003
+221940,UKR,Khrystyna Vozniak,F,R,,
+221941,USA,Mckenna Wheatley,F,U,,
+221943,USA,Lydia Lee,F,U,,
+221957,USA,Nicole Nowak,F,U,,
+221958,USA,Margaret Polk,F,U,,
+222021,USA,Nicole Hammond,F,R,,
+222004,ZAM,Naomi Chileshe,F,U,,
+222005,GHA,Elizabeth Kapari Bagerbaseh,F,R,,
+222006,USA,Nikki Yanez,F,U,,
 221741,MDA,Abigail Rencheli,F,R,,2002
-222007,USA,Sofia Camila Rojas,F,U,,2003
-222022,USA,Shanetta Wilkins,F,U,,2003
-222052,USA,Ashanti Campfield,F,R,,2002
-222053,USA,Soon Seul,F,U,,2003
+222007,USA,Sofia Camila Rojas,F,U,,
+222022,USA,Shanetta Wilkins,F,U,,
+222052,USA,Ashanti Campfield,F,R,,
+222053,USA,Soon Seul,F,U,,
 222054,SWE,Arijana Korac,F,R,,1995
-222035,USA,Jaedan Brown,F,U,,2002
+222035,USA,Jaedan Brown,F,U,,
 222056,CMR,Eugenie Christine Ngo Gwodog,F,U,,1992
 222036,USA,Zoe Howard,F,R,,2001
-222057,USA,Nirvana Hankerson,F,R,,1992
-222039,USA,Mackenzie Clark,F,U,,2001
-222055,USA,Destiny Hankerson,F,R,,1992
+222057,USA,Nirvana Hankerson,F,R,,
+222039,USA,Mackenzie Clark,F,U,,
+222055,USA,Destiny Hankerson,F,R,,
 219954,USA,Emma Allen,F,U,,1994
-222038,USA,Elaine Chervinsky,F,R,,2001
-222094,USA,Kaheaokaleonahenahemaikalani Companion,F,R,,1994
+222038,USA,Elaine Chervinsky,F,R,,
+222094,USA,Kaheaokaleonahenahemaikalani Companion,F,R,,
 221624,USA,Carson Tanguilig,F,U,,2003
 221752,USA,Sonya Macavei,F,U,,2004
-222079,USA,Amber Mcginnis,F,U,,1994
-222097,USA,Casey Cummings,F,U,,1994
+222079,USA,Amber Mcginnis,F,U,,
+222097,USA,Casey Cummings,F,U,,
 219920,USA,Sanyukta Gawande,F,R,,2001
-222098,JPN,Satomi Momose,F,R,,2001
-222080,USA,Hina Inoue,F,R,,2004
-222099,USA,Aleksandra Caricic,F,U,,2001
+222098,JPN,Satomi Momose,F,R,,
+222080,USA,Hina Inoue,F,R,,
+222099,USA,Aleksandra Caricic,F,U,,
 215378,USA,Jerricka Boone,F,U,,1995
-222100,ITA,Greta Langiu,F,L,,2001
-222162,USA,Aubrey Nisbet,F,U,,2001
-222194,USA,Zaina Nait Omar,F,R,,2001
-222195,USA,Julia Sorrells,F,U,,2001
+222100,ITA,Greta Langiu,F,L,,
+222162,USA,Aubrey Nisbet,F,U,,
+222194,USA,Zaina Nait Omar,F,R,,
+222195,USA,Julia Sorrells,F,U,,
 222187,USA,Kenya Jones,F,U,,1998
-222188,USA,Carly Briggs,F,U,,2001
-222263,USA,Alyse Cormier,F,U,,2001
-222227,USA,Gracie Epps,F,U,,1998
-222265,USA,Sumvruta Iyengar,F,R,,2001
-222267,USA,Trishna Parikh,F,U,,2001
-222269,USA,Jessica Legendre,F,R,,2001
-222256,USA,Jeanette Mireles,F,U,,1998
-222270,USA,Anna Katherine Harvey,F,U,,2001
-222255,USA,Kailey Evans,F,U,,2001
-222268,USA,Samantha Vandercreek,F,U,,2001
+222188,USA,Carly Briggs,F,U,,
+222263,USA,Alyse Cormier,F,U,,
+222227,USA,Gracie Epps,F,U,,
+222265,USA,Sumvruta Iyengar,F,R,,
+222267,USA,Trishna Parikh,F,U,,
+222269,USA,Jessica Legendre,F,R,,
+222256,USA,Jeanette Mireles,F,U,,
+222270,USA,Anna Katherine Harvey,F,U,,
+222255,USA,Kailey Evans,F,U,,
+222268,USA,Samantha Vandercreek,F,U,,
 216155,USA,Jada Hart,F,U,,1998
-222353,CAN,Jessica Luisa Alsola,F,U,,1998
-222354,USA,Makenna Thiel,F,U,,1998
-222405,USA,Raven Neely,F,U,,1998
-222406,USA,Julia Fliegner,F,U,,1998
-222407,USA,Ellie Myers,F,U,,1998
-222408,USA,Maria Santilli,F,U,,1998
-222409,USA,Madison Riley,F,U,,1998
-222410,USA,Cambelle Bouchard,F,U,,1998
-222464,USA,Malissa Vos,F,U,,1998
-222465,USA,Elyssa Ducret,F,U,,1998
+222353,CAN,Jessica Luisa Alsola,F,U,,
+222354,USA,Makenna Thiel,F,U,,
+222405,USA,Raven Neely,F,U,,
+222406,USA,Julia Fliegner,F,U,,
+222407,USA,Ellie Myers,F,U,,
+222408,USA,Maria Santilli,F,U,,
+222409,USA,Madison Riley,F,U,,
+222410,USA,Cambelle Bouchard,F,U,,
+222464,USA,Malissa Vos,F,U,,
+222465,USA,Elyssa Ducret,F,U,,
 221519,USA,Kelley Anderson,F,U,,1995
 222452,USA,Kate Paulus,F,U,,1999
 222197,USA,Brooke Biddle,F,U,,1979
-222199,USA,Carolyn Campana,F,U,,1979
+222199,USA,Carolyn Campana,F,U,,
 219555,USA,Morgan Mccray,F,U,,1994
-222200,USA,Alana Wolfberg,F,U,,1998
-222201,USA,Emma Lella,F,U,,1998
-222202,RSA,Gabriella Broadfoot,F,U,,1994
+222200,USA,Alana Wolfberg,F,U,,
+222201,USA,Emma Lella,F,U,,
+222202,RSA,Gabriella Broadfoot,F,U,,
 222223,USA,Karina Miller,F,R,,2002
-222229,NZL,Tabitha Porter,F,R,,1994
-222230,USA,Constance Branstine,F,R,,1994
+222229,NZL,Tabitha Porter,F,R,,
+222230,USA,Constance Branstine,F,R,,
 222231,UKR,Kateryna Nakonechna,F,R,,1994
-222232,USA,Laura Bryan,F,R,,1994
-222234,USA,Anna Riedmiller,F,U,,2002
+222232,USA,Laura Bryan,F,R,,
+222234,USA,Anna Riedmiller,F,U,,
 218133,RUS,Ekaterina Donetskova,F,R,,1994
 220879,USA,Isabelle Bahr,F,U,,2002
-222488,USA,Theresa Papikian,F,U,,2002
-222489,USA,Nastasya Semenovski,F,U,,2002
-222490,GUA,Maria Elena Cabane,F,R,,2002
+222488,USA,Theresa Papikian,F,U,,
+222489,USA,Nastasya Semenovski,F,U,,
+222490,GUA,Maria Elena Cabane,F,R,,
 214215,ESP,Maria Toran Ribes,F,U,,1998
-222608,USA,Calissa Dellabarca,F,U,,1998
-222609,USA,Julia Deming,F,U,,1998
-222692,USA,Hadley Doyle,F,U,,1998
-222693,USA,Jocelyn Massey,F,U,,1998
-222694,USA,Yamilet Castillo,F,U,,1998
-222860,USA,Vivian Ovrootsky,F,U,,1998
-222861,USA,Gabriella Cusano,F,U,,1998
-222782,USA,Ella Faessler,F,U,,2002
-222781,USA,Belle Kuhnert,F,U,,1998
-222783,USA,Emily Ruckno,F,U,,1998
-222780,USA,Elizabeth Stevens,F,U,,1998
-222798,USA,Zoe Cauthen,F,U,,1998
-222815,USA,Tiffany Pyritz,F,U,,1998
-222816,USA,Mckenzie Davis,F,U,,1998
-222728,USA,Abigale Cotuna,F,U,,1998
-222817,USA,Lara Schneider,F,U,,2002
-222910,USA,Mirabelle Brettkelly,F,U,,2002
-222948,USA,Savannah Kahle,F,U,,1998
-222945,CAN,Kirsten Prelle,F,R,,1998
-222949,USA,Kayla Wilkins,F,U,,1998
+222608,USA,Calissa Dellabarca,F,U,,
+222609,USA,Julia Deming,F,U,,
+222692,USA,Hadley Doyle,F,U,,
+222693,USA,Jocelyn Massey,F,U,,
+222694,USA,Yamilet Castillo,F,U,,
+222860,USA,Vivian Ovrootsky,F,U,,
+222861,USA,Gabriella Cusano,F,U,,
+222782,USA,Ella Faessler,F,U,,
+222781,USA,Belle Kuhnert,F,U,,
+222783,USA,Emily Ruckno,F,U,,
+222780,USA,Elizabeth Stevens,F,U,,
+222798,USA,Zoe Cauthen,F,U,,
+222815,USA,Tiffany Pyritz,F,U,,
+222816,USA,Mckenzie Davis,F,U,,
+222728,USA,Abigale Cotuna,F,U,,
+222817,USA,Lara Schneider,F,U,,
+222910,USA,Mirabelle Brettkelly,F,U,,
+222948,USA,Savannah Kahle,F,U,,
+222945,CAN,Kirsten Prelle,F,R,,
+222949,USA,Kayla Wilkins,F,U,,
 213657,GRE,Martha Matoula,F,R,,1997
-222732,USA,Brooke Killingsworth,F,U,,1997
+222732,USA,Brooke Killingsworth,F,U,,
 220898,USA,Macey Miller,F,U,,2001
-222733,USA,Enya Ratkic,F,U,,2001
-222734,USA,Kianah Motosono,F,R,,2001
-222701,USA,Skyler Miller,F,U,,2001
-222933,USA,Mary Jean Brumfield,F,R,,2001
-222830,USA,Camille Kiss,F,U,,2001
-222831,ESP,Cristina Flaquer Fuste,F,U,,2001
-222832,USA,Catherine Allen,F,U,,2001
-222833,SRB,Ema Turudija,F,U,,1997
-222834,USA,Skyler Marie Grace Grishuk,F,U,,1997
-222835,USA,Nevada Apollo,F,R,,2001
-222955,USA,Sarah Hamner,F,U,,2001
+222733,USA,Enya Ratkic,F,U,,
+222734,USA,Kianah Motosono,F,R,,
+222701,USA,Skyler Miller,F,U,,
+222933,USA,Mary Jean Brumfield,F,R,,
+222830,USA,Camille Kiss,F,U,,
+222831,ESP,Cristina Flaquer Fuste,F,U,,
+222832,USA,Catherine Allen,F,U,,
+222833,SRB,Ema Turudija,F,U,,
+222834,USA,Skyler Marie Grace Grishuk,F,U,,
+222835,USA,Nevada Apollo,F,R,,
+222955,USA,Sarah Hamner,F,U,,
 221601,USA,Bridget Stammel,F,U,,2003
-222956,USA,Mary Grace Armistead,F,U,,2001
-222836,USA,Lizanne Boyer,F,U,,2001
-222864,USA,Alana Roth,F,R,,2001
-222843,USA,Emma Shelton,F,U,,2001
-222865,USA,Natalie Block,F,U,,2001
-222866,USA,Katherine Hui,F,U,,2001
-223020,USA,Tiffany Reese,F,U,,2001
-223021,USA,Hediye Karabay Karabay,F,U,,2001
+222956,USA,Mary Grace Armistead,F,U,,
+222836,USA,Lizanne Boyer,F,U,,
+222864,USA,Alana Roth,F,R,,
+222843,USA,Emma Shelton,F,U,,
+222865,USA,Natalie Block,F,U,,
+222866,USA,Katherine Hui,F,U,,
+223020,USA,Tiffany Reese,F,U,,
+223021,USA,Hediye Karabay Karabay,F,U,,
 220864,UZB,Valeriya Vorobyova,F,R,,2000
 220499,UZB,Muslima Akhunova,F,U,,2002
 219873,UZB,Mumtoza Mamadaliyeva,F,U,,2001
-222030,UZB,Nilufar Sultonova,F,U,,2001
-222164,UZB,Marimova Farida,F,U,,2001
-222483,BOL,Camila Cecilia Miranda Jove,F,U,,2001
-222484,BOL,Sabrina Alejandra Solis Encinas,F,U,,2001
-222485,BOL,Maria Olivia Castedo,F,U,,2003
-222904,GUA,Mariajose Hernandez Coronado,F,U,,2003
-222905,ARG,Barbara Maria Montiel,F,U,,2001
-222514,PAR,Lujan Alegre,F,U,,2001
-222515,PAR,Karim Lisset Carreras Lampert,F,U,,2001
-222516,PAR,Paloma Florencia Caceres Villalba,F,U,,2001
-200618,BAR,Adam Hornby,M,,,2001
+222030,UZB,Nilufar Sultonova,F,U,,
+222164,UZB,Marimova Farida,F,U,,
+222483,BOL,Camila Cecilia Miranda Jove,F,U,,
+222484,BOL,Sabrina Alejandra Solis Encinas,F,U,,
+222485,BOL,Maria Olivia Castedo,F,U,,
+222904,GUA,Mariajose Hernandez Coronado,F,U,,
+222905,ARG,Barbara Maria Montiel,F,U,,
+222514,PAR,Lujan Alegre,F,U,,
+222515,PAR,Karim Lisset Carreras Lampert,F,U,,
+222516,PAR,Paloma Florencia Caceres Villalba,F,U,,
+200618,BAR,Adam Hornby,M,,,
 108786,BAR,Seanon Williams,M,R,,1991
 136704,DOM,Manuel Castellanos,M,R,,1996
 108982,PAK,Yasir Khan,M,R,,1989
@@ -8931,7 +8931,7 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 144854,LAT,Rudolfs Mednis,M,U,,1998
 122082,PAR,Francisco Yim Kim,M,R,,1994
 144799,VEN,Miguel Angel Este,M,U,,1998
-200622,PAR,Hernando Jose Escurra Isnardi,M,,,1994
+200622,PAR,Hernando Jose Escurra Isnardi,M,,,
 200525,KUW,Abdulrahman Alawadhi,M,R,,1992
 103600,KUW,Mohammad Ghareeb,M,R,,1980
 121366,KUW,Abdulhamid Mubarak,M,U,,1994
@@ -8974,1102 +8974,1102 @@ player_id,country_id,name,sex,hand,ht,year_of_birth
 105703,VEN,Jesus Bandres,M,U,,1991
 200416,DEN,August Holmgren,M,R,,1998
 207759,BAR,Matthew Foster Estwick,M,,,1997
-236958,ARG,Julia Caffarena,F,U,,1997
-236959,ARG,Martina Sofia Sfilio,F,U,,1997
-236960,ARG,Pilar Becerra,F,U,,1997
-236961,ARG,Lulu Bulballa,F,U,,1997
-224485,ARG,Lucia Peyre,F,U,,1998
-236962,CHN,Zi Yi Gao,F,U,,1997
-236963,ARG,Carolina Coletti,F,U,,1997
-236964,ARG,Tania Sfilio,F,U,,1997
-236965,ARG,Angeles Maria Cueto,F,U,,1998
-236966,ARG,Martina Belen Roldan Santander,F,U,,1997
-236967,ARG,Carla Markus,F,U,,1997
-236968,ARG,Lourdes Ayala,F,U,,1998
-236969,ARG,Valentina Urraco,F,U,,1997
-236970,ARG,Diana Noelia Salas,F,U,,1997
-236971,ARG,Lourdes Belen Luccatto,F,U,,1997
-236972,ARG,Luisina Giovannini,F,U,,1997
-236973,ARG,Lucia Soratti,F,U,,1997
-236974,ARG,Emilse Lujan Ruiz,F,U,,1997
-236975,ARG,Sol Cristiani,F,U,,1997
-236976,ARG,Nadia Abad,F,U,,1997
-223284,BRA,Luana Plaza Araujo,F,U,,1998
-236977,ARG,Sofia Nahiara Garcia,F,U,,1998
-236978,ARG,Pilar Traiber,F,U,,1997
-237454,ARG,Luciana Moyano,F,U,,1997
-237456,ARG,Renata Bucco Paolasso,F,U,,1997
-237457,ARG,Sofia Vivas,F,U,,1998
-237458,ARG,Maria Sofia Madrid Rocca,F,U,,1997
-223343,SRB,Nikol Palecek,F,U,,1997
-244074,AUT,Elena Karner,F,U,,1997
-240996,AUT,Tamara Kostic,F,U,,1997
-225862,JPN,Mei Hasegawa,F,U,,1997
-232443,SVK,Sara Suchankova,F,U,,1998
-239185,AUT,Sophia Desiree Piech,F,U,,1997
-230124,ITA,Adele Burato,F,U,,1998
-236990,GER,Dimitra Tsatsa,F,U,,1997
-244080,AUT,Laura Pasterk,F,U,,1998
-239182,AUT,Sara Erenda,F,U,,1997
-244079,AUT,Anna Lena Ebster,F,U,,1997
-240165,ITA,Elisa Cesarina Vincenti,F,U,,1997
-223097,GER,Sophie Greiner,F,U,,1998
-239427,AUT,Lea Erenda,F,U,,1997
-223406,CZE,Adela Moravcova,F,U,,1997
+236958,ARG,Julia Caffarena,F,U,,
+236959,ARG,Martina Sofia Sfilio,F,U,,
+236960,ARG,Pilar Becerra,F,U,,
+236961,ARG,Lulu Bulballa,F,U,,
+224485,ARG,Lucia Peyre,F,U,,
+236962,CHN,Zi Yi Gao,F,U,,
+236963,ARG,Carolina Coletti,F,U,,
+236964,ARG,Tania Sfilio,F,U,,
+236965,ARG,Angeles Maria Cueto,F,U,,
+236966,ARG,Martina Belen Roldan Santander,F,U,,
+236967,ARG,Carla Markus,F,U,,
+236968,ARG,Lourdes Ayala,F,U,,
+236969,ARG,Valentina Urraco,F,U,,
+236970,ARG,Diana Noelia Salas,F,U,,
+236971,ARG,Lourdes Belen Luccatto,F,U,,
+236972,ARG,Luisina Giovannini,F,U,,
+236973,ARG,Lucia Soratti,F,U,,
+236974,ARG,Emilse Lujan Ruiz,F,U,,
+236975,ARG,Sol Cristiani,F,U,,
+236976,ARG,Nadia Abad,F,U,,
+223284,BRA,Luana Plaza Araujo,F,U,,
+236977,ARG,Sofia Nahiara Garcia,F,U,,
+236978,ARG,Pilar Traiber,F,U,,
+237454,ARG,Luciana Moyano,F,U,,
+237456,ARG,Renata Bucco Paolasso,F,U,,
+237457,ARG,Sofia Vivas,F,U,,
+237458,ARG,Maria Sofia Madrid Rocca,F,U,,
+223343,SRB,Nikol Palecek,F,U,,
+244074,AUT,Elena Karner,F,U,,
+240996,AUT,Tamara Kostic,F,U,,
+225862,JPN,Mei Hasegawa,F,U,,
+232443,SVK,Sara Suchankova,F,U,,
+239185,AUT,Sophia Desiree Piech,F,U,,
+230124,ITA,Adele Burato,F,U,,
+236990,GER,Dimitra Tsatsa,F,U,,
+244080,AUT,Laura Pasterk,F,U,,
+239182,AUT,Sara Erenda,F,U,,
+244079,AUT,Anna Lena Ebster,F,U,,
+240165,ITA,Elisa Cesarina Vincenti,F,U,,
+223097,GER,Sophie Greiner,F,U,,
+239427,AUT,Lea Erenda,F,U,,
+223406,CZE,Adela Moravcova,F,U,,
 228910,BEL,Tilwith Di Girolami,F,R,,2003
 206406,ARG,Berta Bonardi,F,U,,1995
-223402,FRA,Chloe Noel,F,U,,2003
+223402,FRA,Chloe Noel,F,U,,
 223321,BEL,Sofia Costoulas,F,U,,2005
 228909,BEL,Amelie Van Impe,F,R,,2004
-245079,BEL,Romane Longueville,F,U,,2004
-223425,NED,Eloise De Mooij,F,U,,1995
-245080,BEL,Chyara Onia Seke,F,U,,2004
-241732,DEN,Cecilie Wiche,F,U,,1995
-228109,NED,Dilara Okur,F,U,,2004
-239467,NED,Charlotte Wijkamp,F,U,,2004
-241728,DEU,Annemarie Lazar,F,U,,2004
+245079,BEL,Romane Longueville,F,U,,
+223425,NED,Eloise De Mooij,F,U,,
+245080,BEL,Chyara Onia Seke,F,U,,
+241732,DEN,Cecilie Wiche,F,U,,
+228109,NED,Dilara Okur,F,U,,
+239467,NED,Charlotte Wijkamp,F,U,,
+241728,DEU,Annemarie Lazar,F,U,,
 214090,ARG,Maria Jose Zehnder,F,U,,1996
-245081,BEL,Florence Fedeli,F,U,,2004
-234474,FRA,Alyssa Reguer,F,U,,2004
-223437,FRA,Cosima Trinity Calinescu,F,U,,1996
-245082,BEL,Cristine Tchanichev,F,U,,1996
-238331,FRA,Camilia Samel Druz,F,U,,2004
-223418,NED,Klara Veldman,F,U,,1996
-239183,GER,Emma Kette,F,U,,2004
-223422,NED,Annika Barth,F,U,,1996
-223426,NED,Irene Zorg,F,U,,2004
-245083,BEL,Laure Line Monnoyer,F,U,,2004
-243420,BEL,Hanne Vandewinkel,F,U,,2004
-241713,DEU,Chiara Tomasetti,F,U,,2004
+245081,BEL,Florence Fedeli,F,U,,
+234474,FRA,Alyssa Reguer,F,U,,
+223437,FRA,Cosima Trinity Calinescu,F,U,,
+245082,BEL,Cristine Tchanichev,F,U,,
+238331,FRA,Camilia Samel Druz,F,U,,
+223418,NED,Klara Veldman,F,U,,
+239183,GER,Emma Kette,F,U,,
+223422,NED,Annika Barth,F,U,,
+223426,NED,Irene Zorg,F,U,,
+245083,BEL,Laure Line Monnoyer,F,U,,
+243420,BEL,Hanne Vandewinkel,F,U,,
+241713,DEU,Chiara Tomasetti,F,U,,
 233718,RUS,Maria Sholokhova,F,U,,2004
-223285,FRA,Anaelle Leclercq,F,U,,2004
-241721,NED,Gigi Sy A Foek,F,U,,1996
-241722,BEL,Astrid Schmits,F,U,,2004
-241723,BEL,Lucie Rabiot,F,U,,2004
-241724,FIN,Daliyah Hammoud,F,U,,1996
-241725,NED,Laila Ghazouani,F,U,,2004
-241726,FRA,Lena Thomas Iglesias,F,U,,2004
-241727,DEU,Kayleigh Castillo,F,U,,2004
-233740,SWE,Izabelle Persson,F,U,,1996
-224483,RUS,Aglaya Zaynieva,F,U,,2004
-223420,ROU,Nisrin Stoica,F,U,,2004
-241729,BEL,Florence Fohnen,F,U,,1996
-241730,DEU,Leandra Nizetic,F,U,,2004
-223349,ROU,Andreea Alexandra Lila,F,U,,2004
-239432,GER,Emily Castillo,F,U,,2004
-239384,SRB,Fatma Idrizovic,F,U,,2004
-238067,SRB,Anastasija Radojevic,F,U,,2004
-239385,SRB,Doroteja Petrovic,F,U,,2004
-234482,SVK,Yvonna Zuffova,F,U,,1996
-239391,AUT,Jelena Ristic,F,U,,1996
-239392,SRB,Mia Ristic,F,U,,1996
-223064,SUI,Natalia Fehr,F,U,,2004
-239393,ROU,Bianca Elena Barbulescu,F,U,,1996
-239394,SRB,Simona Deletic,F,U,,2004
-239114,CZE,Marie Svozilova,F,U,,1996
-239395,BIH,Amila Jusufbegovic,F,U,,1996
-239396,SRB,Natasa Savic,F,U,,2004
-231632,CZE,Karolina Novakova,F,U,,2004
-223398,GER,Anastasiya Kuparev,F,U,,1996
-239397,AUS,Elena Micic,F,U,,2004
-233746,SRB,Andjela Lopicic,F,U,,1996
-239398,BIH,Anastasija Ignjatic,F,U,,2004
+223285,FRA,Anaelle Leclercq,F,U,,
+241721,NED,Gigi Sy A Foek,F,U,,
+241722,BEL,Astrid Schmits,F,U,,
+241723,BEL,Lucie Rabiot,F,U,,
+241724,FIN,Daliyah Hammoud,F,U,,
+241725,NED,Laila Ghazouani,F,U,,
+241726,FRA,Lena Thomas Iglesias,F,U,,
+241727,DEU,Kayleigh Castillo,F,U,,
+233740,SWE,Izabelle Persson,F,U,,
+224483,RUS,Aglaya Zaynieva,F,U,,
+223420,ROU,Nisrin Stoica,F,U,,
+241729,BEL,Florence Fohnen,F,U,,
+241730,DEU,Leandra Nizetic,F,U,,
+223349,ROU,Andreea Alexandra Lila,F,U,,
+239432,GER,Emily Castillo,F,U,,
+239384,SRB,Fatma Idrizovic,F,U,,
+238067,SRB,Anastasija Radojevic,F,U,,
+239385,SRB,Doroteja Petrovic,F,U,,
+234482,SVK,Yvonna Zuffova,F,U,,
+239391,AUT,Jelena Ristic,F,U,,
+239392,SRB,Mia Ristic,F,U,,
+223064,SUI,Natalia Fehr,F,U,,
+239393,ROU,Bianca Elena Barbulescu,F,U,,
+239394,SRB,Simona Deletic,F,U,,
+239114,CZE,Marie Svozilova,F,U,,
+239395,BIH,Amila Jusufbegovic,F,U,,
+239396,SRB,Natasa Savic,F,U,,
+231632,CZE,Karolina Novakova,F,U,,
+223398,GER,Anastasiya Kuparev,F,U,,
+239397,AUS,Elena Micic,F,U,,
+233746,SRB,Andjela Lopicic,F,U,,
+239398,BIH,Anastasija Ignjatic,F,U,,
 238075,CRO,Petra Marcinko,F,U,,2005
 223087,CRO,Tara Wurth,F,U,,2002
-238076,AUS,Ana Prso,F,U,,2004
-238077,CRO,Iva Bozic,F,U,,2004
-238078,CRO,Katarina Zuzul,F,U,,2004
-238079,CRO,Klara Mujagic,F,U,,2004
-239102,CRO,Sara Svetac,F,U,,2004
-223436,POL,Xenia Lipiec,F,U,,2002
-239105,POL,Olga Golas,F,U,,2004
-223355,CRO,Klara Vukicevic,F,U,,2004
-239106,CRO,Nora Zuvela,F,U,,2004
-239107,CRO,Ema Bubalo,F,U,,2002
-239108,CRO,Lucia Saric,F,U,,2004
-239109,CAN,Yochana Benchetrit,F,U,,2004
-239110,GER,Isabel Blazevic,F,U,,2004
-239111,CRO,Angela Marnika,F,U,,2004
-233719,CZE,Denise Hrdinkova,F,U,,2004
-239112,SVK,Lucia Pinkova,F,U,,2002
-239113,CRO,Liv Sumak,F,U,,2004
-239115,AUT,Anja Pfister,F,U,,2004
-239156,CRO,Lucija Ciric Bagaric,F,U,,2002
-236983,SVK,Natalia Slaba,F,U,,2004
-230122,CZE,Nelly Knezkova,F,U,,2002
+238076,AUS,Ana Prso,F,U,,
+238077,CRO,Iva Bozic,F,U,,
+238078,CRO,Katarina Zuzul,F,U,,
+238079,CRO,Klara Mujagic,F,U,,
+239102,CRO,Sara Svetac,F,U,,
+223436,POL,Xenia Lipiec,F,U,,
+239105,POL,Olga Golas,F,U,,
+223355,CRO,Klara Vukicevic,F,U,,
+239106,CRO,Nora Zuvela,F,U,,
+239107,CRO,Ema Bubalo,F,U,,
+239108,CRO,Lucia Saric,F,U,,
+239109,CAN,Yochana Benchetrit,F,U,,
+239110,GER,Isabel Blazevic,F,U,,
+239111,CRO,Angela Marnika,F,U,,
+233719,CZE,Denise Hrdinkova,F,U,,
+239112,SVK,Lucia Pinkova,F,U,,
+239113,CRO,Liv Sumak,F,U,,
+239115,AUT,Anja Pfister,F,U,,
+239156,CRO,Lucija Ciric Bagaric,F,U,,
+236983,SVK,Natalia Slaba,F,U,,
+230122,CZE,Nelly Knezkova,F,U,,
 214025,CRO,Petra Granic,F,U,,1998
 239383,CZE,Sara Bejlek,F,U,,2006
 223323,CZE,Barbora Palicova,F,R,,2004
-239438,CZE,Julie Struplova,F,U,,2006
-233747,SVK,Nina Vargova,F,U,,2006
-233743,SVK,Nikola Daubnerova,F,U,,2004
-241001,CZE,Tereza Krahulikova,F,U,,2004
-241000,KOR,Sujeong Jang,F,U,,2006
-245084,CZE,Gabriela Skrabalova,F,U,,2004
-223154,SVK,Laura Beresova,F,U,,2004
-223341,CZE,Tereza Dejnozkova,F,U,,2004
-223358,CZE,Klaudie Hutkova,F,U,,2004
-241022,SVK,Victoria Chramcova,F,U,,2004
-235154,SVK,Mia Chudejova,F,U,,2006
-245085,CZE,Vanesa Sulcova,F,U,,2004
-241714,DEN,Rebecca Munk Mortensen,F,U,,2004
-223325,RUS,Polina Iatcenko,F,U,,2004
-241715,DEN,Emma Kamper Malmkjaer,F,U,,2004
+239438,CZE,Julie Struplova,F,U,,
+233747,SVK,Nina Vargova,F,U,,
+233743,SVK,Nikola Daubnerova,F,U,,
+241001,CZE,Tereza Krahulikova,F,U,,
+241000,KOR,Sujeong Jang,F,U,,
+245084,CZE,Gabriela Skrabalova,F,U,,
+223154,SVK,Laura Beresova,F,U,,
+223341,CZE,Tereza Dejnozkova,F,U,,
+223358,CZE,Klaudie Hutkova,F,U,,
+241022,SVK,Victoria Chramcova,F,U,,
+235154,SVK,Mia Chudejova,F,U,,
+245085,CZE,Vanesa Sulcova,F,U,,
+241714,DEN,Rebecca Munk Mortensen,F,U,,
+223325,RUS,Polina Iatcenko,F,U,,
+241715,DEN,Emma Kamper Malmkjaer,F,U,,
 223164,RUS,Maria Bondarenko,F,R,,2003
 223184,SWE,Vanessa Ersoz,F,R,,2002
-241716,DEN,Vilma Krebs Hyllested,F,U,,2002
-241717,DEN,Johanne Christine Svendsen,F,U,,2003
-241718,SVK,Vanda Vargova,F,U,,2002
-241731,DEN,Lykke Bertelsen,F,U,,2002
-241733,DEN,Freja B Loevbjerg,F,U,,2002
-241734,DEN,Victoria Wiche,F,U,,2002
-231641,GER,Phillippa Preugschat,F,U,,2002
-241735,DEN,Sarafina Olivia Hansen,F,U,,2003
-242444,DEN,Olivia Thiemke,F,U,,2002
-242445,DEN,Mathilde Mosegaard Ravnholt,F,U,,2002
-239168,DEN,Nikoline Gullacksen,F,U,,2002
-239386,USA,Olivia Lincer,F,U,,2002
-239399,DOM,Maria Gell,F,U,,2002
-239400,DOM,Lia Isabella Espinal,F,U,,2002
-239401,DOM,Andrea Brugal Pons,F,U,,2002
-239402,ESP,Maria Castano,F,U,,2003
-239403,USA,Elena Ecker,F,U,,2002
-239404,DOM,Feidi Abreu,F,U,,2002
+241716,DEN,Vilma Krebs Hyllested,F,U,,
+241717,DEN,Johanne Christine Svendsen,F,U,,
+241718,SVK,Vanda Vargova,F,U,,
+241731,DEN,Lykke Bertelsen,F,U,,
+241733,DEN,Freja B Loevbjerg,F,U,,
+241734,DEN,Victoria Wiche,F,U,,
+231641,GER,Phillippa Preugschat,F,U,,
+241735,DEN,Sarafina Olivia Hansen,F,U,,
+242444,DEN,Olivia Thiemke,F,U,,
+242445,DEN,Mathilde Mosegaard Ravnholt,F,U,,
+239168,DEN,Nikoline Gullacksen,F,U,,
+239386,USA,Olivia Lincer,F,U,,
+239399,DOM,Maria Gell,F,U,,
+239400,DOM,Lia Isabella Espinal,F,U,,
+239401,DOM,Andrea Brugal Pons,F,U,,
+239402,ESP,Maria Castano,F,U,,
+239403,USA,Elena Ecker,F,U,,
+239404,DOM,Feidi Abreu,F,U,,
 211862,PAR,Ana Paula Neffa De Los Rios,F,R,,1997
-238179,ECU,Tania Isabel Andrade Sabando,F,U,,1997
-238180,ECU,Andrea Camila Robles Cuellar,F,U,,1997
-238181,ECU,Valeska Alexandra San Martin Ramirez,F,U,,1997
-238185,ECU,Laura Sofia Tomala Egas,F,U,,1997
-238186,ECU,Isabella Pita,F,U,,1997
-238187,ECU,Ariana Jativa Riofrio,F,U,,1997
+238179,ECU,Tania Isabel Andrade Sabando,F,U,,
+238180,ECU,Andrea Camila Robles Cuellar,F,U,,
+238181,ECU,Valeska Alexandra San Martin Ramirez,F,U,,
+238185,ECU,Laura Sofia Tomala Egas,F,U,,
+238186,ECU,Isabella Pita,F,U,,
+238187,ECU,Ariana Jativa Riofrio,F,U,,
 211987,COL,Valentina Vargas,F,U,,1997
-238330,ECU,Ivanova Lucero Moreta,F,U,,1997
-223671,MAR,Aya El Aouni,F,U,,1997
-230120,UKR,Elena Grekul,F,U,,2003
-223252,EGY,Shahd Habib,F,U,,1997
+238330,ECU,Ivanova Lucero Moreta,F,U,,
+223671,MAR,Aya El Aouni,F,U,,
+230120,UKR,Elena Grekul,F,U,,
+223252,EGY,Shahd Habib,F,U,,
 213585,EGY,Hana Mortagy,F,R,,1998
-223677,EGY,Malak Naim,F,U,,1998
-223674,EGY,Nouray Metwally,F,U,,1997
-223676,EGY,Leena Metwally,F,U,,1997
-230123,EGY,Hams Metwali,F,U,,1997
-230125,EGY,Nour Hassan Moustafa,F,U,,1997
-230126,EGY,Habiba Elgerby,F,U,,1997
-230127,EGY,Jermine Sherif,F,U,,1997
-223067,EGY,Lama Nabil,F,U,,1997
-223675,EGY,Farah Haitham Kassem,F,U,,1997
-230128,EGY,Renad Ayman Maamoun,F,U,,1998
-223672,EGY,Kenzy Sherif Elhamrawy,F,U,,1998
-230129,EGY,Hana Abd El Hamid,F,U,,1997
-223295,EGY,Habiba Allah El Sheikh,F,U,,1997
-222973,EGY,Mariam Hatem Ibrahim,F,R,,1998
-223673,EGY,Mariam Eltaweel,F,U,,1997
-223264,EGY,Salma Raslan,F,U,,1997
-230873,EGY,Jana Elgebily,F,U,,1998
-230874,EGY,Mai Elkamash,F,U,,1998
-230875,GBR,Oriana Parkins Godwin,F,U,,1997
-223088,EGY,Engy Abouelseoud,F,U,,1997
-230876,ITA,Viola Turini,F,U,,1998
-230877,EGY,Nancy Sherif Elghamry,F,U,,1997
-224482,IND,Smriti Bhasin,F,U,,1998
-223678,EGY,Lina Sarhan,F,U,,1997
-230878,EGY,Chantal Kamel,F,U,,1998
-230879,EGY,Perihan Auf,F,U,,1997
-231626,EGY,Layla Shoukry,F,U,,1998
-225848,EGY,Jana Abdelaziz,F,U,,1997
-231627,EGY,Habiba El_Anany,F,U,,1997
-231628,EGY,Rawan Abdelaziz,F,U,,1997
-231629,ESP,Naroa Aranzabal,F,U,,1998
-231630,CYP,Victoria Savvides,F,U,,1997
-223089,EGY,Habiba Mossad,F,U,,1997
-223142,GBR,Cheri Darley,F,U,,1997
-223150,SVK,Ela Platenikova,F,U,,1998
-231631,EGY,Salma Yassin Hosny,F,U,,1997
-232444,HUN,Erika Weil,F,U,,1998
-223348,BUL,Victoria Lazarova,F,U,,1997
-232445,EGY,Malak Abdel Fattah,F,U,,1997
-223198,GBR,Jasmine Conway,F,U,,1998
-223228,RUS,Ekaterina Simakova,F,U,,1997
-223203,CAN,Dasha Plekhanova,F,U,,1998
-232874,ITA,Andrea Maria Artimedi,F,U,,1997
-223397,LTU,Klaudija Bubelyte,F,U,,1997
-232875,NED,Valerie Griffejoen,F,U,,1997
-223178,RUS,Aleksandra Melnikova,F,U,,1998
+223677,EGY,Malak Naim,F,U,,
+223674,EGY,Nouray Metwally,F,U,,
+223676,EGY,Leena Metwally,F,U,,
+230123,EGY,Hams Metwali,F,U,,
+230125,EGY,Nour Hassan Moustafa,F,U,,
+230126,EGY,Habiba Elgerby,F,U,,
+230127,EGY,Jermine Sherif,F,U,,
+223067,EGY,Lama Nabil,F,U,,
+223675,EGY,Farah Haitham Kassem,F,U,,
+230128,EGY,Renad Ayman Maamoun,F,U,,
+223672,EGY,Kenzy Sherif Elhamrawy,F,U,,
+230129,EGY,Hana Abd El Hamid,F,U,,
+223295,EGY,Habiba Allah El Sheikh,F,U,,
+222973,EGY,Mariam Hatem Ibrahim,F,R,,
+223673,EGY,Mariam Eltaweel,F,U,,
+223264,EGY,Salma Raslan,F,U,,
+230873,EGY,Jana Elgebily,F,U,,
+230874,EGY,Mai Elkamash,F,U,,
+230875,GBR,Oriana Parkins Godwin,F,U,,
+223088,EGY,Engy Abouelseoud,F,U,,
+230876,ITA,Viola Turini,F,U,,
+230877,EGY,Nancy Sherif Elghamry,F,U,,
+224482,IND,Smriti Bhasin,F,U,,
+223678,EGY,Lina Sarhan,F,U,,
+230878,EGY,Chantal Kamel,F,U,,
+230879,EGY,Perihan Auf,F,U,,
+231626,EGY,Layla Shoukry,F,U,,
+225848,EGY,Jana Abdelaziz,F,U,,
+231627,EGY,Habiba El_Anany,F,U,,
+231628,EGY,Rawan Abdelaziz,F,U,,
+231629,ESP,Naroa Aranzabal,F,U,,
+231630,CYP,Victoria Savvides,F,U,,
+223089,EGY,Habiba Mossad,F,U,,
+223142,GBR,Cheri Darley,F,U,,
+223150,SVK,Ela Platenikova,F,U,,
+231631,EGY,Salma Yassin Hosny,F,U,,
+232444,HUN,Erika Weil,F,U,,
+223348,BUL,Victoria Lazarova,F,U,,
+232445,EGY,Malak Abdel Fattah,F,U,,
+223198,GBR,Jasmine Conway,F,U,,
+223228,RUS,Ekaterina Simakova,F,U,,
+223203,CAN,Dasha Plekhanova,F,U,,
+232874,ITA,Andrea Maria Artimedi,F,U,,
+223397,LTU,Klaudija Bubelyte,F,U,,
+232875,NED,Valerie Griffejoen,F,U,,
+223178,RUS,Aleksandra Melnikova,F,U,,
 223404,LAT,Sabine Rutlauka,F,U,,2002
-233744,ITA,Sara Donnini,F,U,,2002
-223289,RUS,Anastasiya Apalikhina,F,U,,1997
-223153,RUS,Maria Mikhailova,F,U,,2002
-234223,IND,Paavanii Paathak,F,U,,1997
-234471,SVK,Miriam Gondorova,F,U,,1997
-234472,ITA,Valentina Bertonazzi,F,U,,1997
-235155,MAS,Elsa Wan,F,U,,2002
+233744,ITA,Sara Donnini,F,U,,
+223289,RUS,Anastasiya Apalikhina,F,U,,
+223153,RUS,Maria Mikhailova,F,U,,
+234223,IND,Paavanii Paathak,F,U,,
+234471,SVK,Miriam Gondorova,F,U,,
+234472,ITA,Valentina Bertonazzi,F,U,,
+235155,MAS,Elsa Wan,F,U,,
 219295,GER,Rachel Zipfel,F,U,,1999
-235156,CZE,Nicol Benesova,F,U,,1999
-233738,SUI,Lea Magun,F,U,,2002
-235157,MAS,Elysia Wan,F,U,,1999
-236955,RUS,Tatiana Barkova,F,U,,1999
-232891,UKR,Alina Nesmianovych,F,U,,1999
-232871,UKR,Mariya Dolzhenko,F,U,,1999
-236979,USA,Polina Marakhtanova,F,U,,1999
-237459,POL,Alicja Formella,F,U,,1999
-237460,GEO,Anna Kvizhinadze,F,U,,1999
-223361,UKR,Viktoriia Naumenko,F,U,,1999
-237461,BEL,Emma Vanderheyden,F,U,,2002
-237473,ITA,Matilde Magrini,F,U,,2002
-237474,EGY,Nour Adel,F,U,,1999
+235156,CZE,Nicol Benesova,F,U,,
+233738,SUI,Lea Magun,F,U,,
+235157,MAS,Elysia Wan,F,U,,
+236955,RUS,Tatiana Barkova,F,U,,
+232891,UKR,Alina Nesmianovych,F,U,,
+232871,UKR,Mariya Dolzhenko,F,U,,
+236979,USA,Polina Marakhtanova,F,U,,
+237459,POL,Alicja Formella,F,U,,
+237460,GEO,Anna Kvizhinadze,F,U,,
+223361,UKR,Viktoriia Naumenko,F,U,,
+237461,BEL,Emma Vanderheyden,F,U,,
+237473,ITA,Matilde Magrini,F,U,,
+237474,EGY,Nour Adel,F,U,,
 215534,ITA,Elisa Patta,F,U,,1998
-237475,EGY,Login Khairy,F,U,,1998
-237476,AUT,Ines Faltinger,F,U,,2002
-237477,CZE,Alexandra Melnikova,F,U,,2002
-237478,EGY,Hana Sherif,F,U,,1998
-238064,USA,Clervie Ngounoue,F,U,,1998
-223065,GER,Yvette Schmucker,F,U,,2002
-238066,SAU,Yara Alhogbani,F,U,,1998
-223309,NED,Renee Van Bommel,F,U,,1998
-231645,NED,Sem Hazes,F,U,,1998
-238080,EGY,Karina Mohamed,F,U,,1998
-238188,EGY,Mariam Ibrahim,F,U,,1998
-238189,EGY,Farida Ahmed Hassan Amin Elsayed,F,U,,1998
-240995,DEU,Lea Jakic,F,U,,1998
-238071,ITA,Chiara Fornasieri,F,U,,2002
-241002,EGY,Malak Arafat,F,U,,2002
-223324,EGY,Dalia Sherif,F,U,,1998
-223377,CHI,Fernanda Rain Contreras,F,U,,1998
-223090,EGY,Malak Walaa Mohamed,F,U,,1998
-241003,EGY,Joody Elkady,F,U,,1998
-241736,EGY,Jana Elagamy,F,U,,2002
-241737,EGY,Yasmine Alaaeldin,F,U,,1998
-242446,EGY,Dana Mousa,F,U,,2002
-231624,ITA,Anna Paradisi,F,U,,1998
-231625,ITA,Noemi Basiletti,F,U,,1998
-225854,ESP,Carmen Lopez Martinez,F,U,,1998
-223091,EST,Karola Suviste,F,U,,2002
-231633,CZE,Barbora Zaviskova,F,U,,1998
-223082,ITA,Sofia Neri,F,U,,1998
-231634,ESP,Berta Miret Avante,F,U,,2002
-223145,RUS,Maria Dzemeshkevich,F,U,,1998
-231635,ESP,Ines Costa,F,U,,2002
-231636,ESP,Raquel Caballero Chica,F,U,,1998
-231637,RUS,Vasilisa Borisova,F,U,,1998
-223093,USA,Jillian Louise Roa,F,U,,2002
-223375,USA,Didi Bredberg Canizares,F,U,,1998
-231638,FRA,Helena Mohamed,F,U,,2002
-223083,GRE,Athina Pitta,F,U,,1998
-223328,ESP,Claudia Sanchez Quesada,F,U,,1998
-225858,FRA,Sarah Iliev,F,U,,2002
-231639,ESP,Ariana Geerlings,F,U,,1998
-231640,GER,Charlotte Biebel,F,U,,1998
-223197,FRA,Joanna Tomera,F,U,,2002
-231642,ESP,Irene Fuster Hidalgo,F,U,,1998
-223380,NED,Clarine Lerby,F,U,,1998
-232876,GBR,Lojan Shaker,F,U,,2002
-232877,ITA,Clotilde Cobianchi,F,U,,1998
-232878,ITA,Margherita Viglietti,F,U,,1998
-232879,AUS,Maia Stallworthy,F,U,,1998
-223433,PUR,Debora Madile,F,U,,1998
-232880,ESP,Elena Arenas Guisasola,F,U,,1998
-232881,ESP,Cristina Diaz Adrover,F,U,,2002
-232882,GER,Joana Schulten,F,U,,1998
-223327,SVK,Lucia Krivosudska,F,U,,1998
-223376,CZE,Petra Cizinska,F,U,,1998
-233720,ESP,Maria Ange Ortega Mateu,F,U,,1998
-233721,ESP,Maria Paredes Perez,F,U,,1998
+237475,EGY,Login Khairy,F,U,,
+237476,AUT,Ines Faltinger,F,U,,
+237477,CZE,Alexandra Melnikova,F,U,,
+237478,EGY,Hana Sherif,F,U,,
+238064,USA,Clervie Ngounoue,F,U,,
+223065,GER,Yvette Schmucker,F,U,,
+238066,SAU,Yara Alhogbani,F,U,,
+223309,NED,Renee Van Bommel,F,U,,
+231645,NED,Sem Hazes,F,U,,
+238080,EGY,Karina Mohamed,F,U,,
+238188,EGY,Mariam Ibrahim,F,U,,
+238189,EGY,Farida Ahmed Hassan Amin Elsayed,F,U,,
+240995,DEU,Lea Jakic,F,U,,
+238071,ITA,Chiara Fornasieri,F,U,,
+241002,EGY,Malak Arafat,F,U,,
+223324,EGY,Dalia Sherif,F,U,,
+223377,CHI,Fernanda Rain Contreras,F,U,,
+223090,EGY,Malak Walaa Mohamed,F,U,,
+241003,EGY,Joody Elkady,F,U,,
+241736,EGY,Jana Elagamy,F,U,,
+241737,EGY,Yasmine Alaaeldin,F,U,,
+242446,EGY,Dana Mousa,F,U,,
+231624,ITA,Anna Paradisi,F,U,,
+231625,ITA,Noemi Basiletti,F,U,,
+225854,ESP,Carmen Lopez Martinez,F,U,,
+223091,EST,Karola Suviste,F,U,,
+231633,CZE,Barbora Zaviskova,F,U,,
+223082,ITA,Sofia Neri,F,U,,
+231634,ESP,Berta Miret Avante,F,U,,
+223145,RUS,Maria Dzemeshkevich,F,U,,
+231635,ESP,Ines Costa,F,U,,
+231636,ESP,Raquel Caballero Chica,F,U,,
+231637,RUS,Vasilisa Borisova,F,U,,
+223093,USA,Jillian Louise Roa,F,U,,
+223375,USA,Didi Bredberg Canizares,F,U,,
+231638,FRA,Helena Mohamed,F,U,,
+223083,GRE,Athina Pitta,F,U,,
+223328,ESP,Claudia Sanchez Quesada,F,U,,
+225858,FRA,Sarah Iliev,F,U,,
+231639,ESP,Ariana Geerlings,F,U,,
+231640,GER,Charlotte Biebel,F,U,,
+223197,FRA,Joanna Tomera,F,U,,
+231642,ESP,Irene Fuster Hidalgo,F,U,,
+223380,NED,Clarine Lerby,F,U,,
+232876,GBR,Lojan Shaker,F,U,,
+232877,ITA,Clotilde Cobianchi,F,U,,
+232878,ITA,Margherita Viglietti,F,U,,
+232879,AUS,Maia Stallworthy,F,U,,
+223433,PUR,Debora Madile,F,U,,
+232880,ESP,Elena Arenas Guisasola,F,U,,
+232881,ESP,Cristina Diaz Adrover,F,U,,
+232882,GER,Joana Schulten,F,U,,
+223327,SVK,Lucia Krivosudska,F,U,,
+223376,CZE,Petra Cizinska,F,U,,
+233720,ESP,Maria Ange Ortega Mateu,F,U,,
+233721,ESP,Maria Paredes Perez,F,U,,
 205881,ESP,Lucia Martinez Gomez,F,U,,1991
-225850,ESP,Maria Garcia Cid,F,U,,2002
+225850,ESP,Maria Garcia Cid,F,U,,
 221623,ESP,Lidia Gonzalez,F,U,,2003
-233722,ESP,Tea Pavlicic Pavlicic,F,U,,2003
-223372,ESP,Anastasia Kouchnareva,F,U,,2003
-223374,EST,Elizabeth Jurna,F,U,,2003
-233723,RSA,Anna Wise,F,U,,2002
-225857,ESP,Paola Maria Moreno Bautista,F,U,,2003
-233724,ESP,Marina De Diego Quinones,F,U,,2003
-223381,ESP,Carmen Juan Bru,F,U,,2003
-233725,SVK,Karolina Mrazikova,F,U,,2003
-234224,ESP,Paula Cabrer,F,U,,2003
-234225,ITA,Isabella Righi,F,U,,2003
-234226,ESP,Nataly Miroslavova Ninova,F,U,,2002
-234227,EST,Kaia Kruus,F,U,,2003
-234473,FRA,Charlotte Florent,F,U,,2003
-234476,DEN,Therese Harboe Holst,F,U,,2003
-234477,ESP,Laura Garcia Astudillo,F,U,,2002
-234478,ITA,Sofia Carpi,F,U,,2003
-234479,FRA,Shanice Roignot,F,U,,2002
-234481,GER,Carolin Raschdorf,F,U,,2002
-225851,ESP,Claudia Martinez De Velasco,F,U,,2003
-232873,GEO,Sopiko Tsitskishvili,F,U,,2002
-234483,ESP,Celia Bajo,F,U,,2003
-223401,FRA,Astrid Cirotte,F,U,,2003
-223400,FRA,Leire De Ezcurra,F,U,,2003
-225847,ESP,Ksenia San Luis Kravtseva,F,U,,2003
-239409,ESP,Andrea Burguete Beltran,F,U,,2002
-225855,ESP,Vitoria Solis Urdiales,F,U,,2002
-239407,ESP,Carlota Mulet Bouza,F,U,,2003
-223390,ESP,Paula Sanchez Rodriguez,F,U,,2003
-239439,ESP,Mara Marty,F,U,,2003
-223367,MEX,Maria Fernanda Navarro,F,U,,2003
-238065,BOL,Noelia Zeballos Melgar,F,U,,2002
-239116,ESP,Angela Perez Barro,F,U,,2003
-223326,ESP,Raquel Gonzalez Vilar,F,U,,2003
-239117,ESP,Ana Martinez Vaquero,F,U,,2002
-223384,ESP,Jordina Font,F,U,,2003
-223391,ESP,Carla Ramonet,F,U,,2003
-239118,ROU,Maria Ioana Secara,F,U,,2003
-240163,ESP,Olga Bienzobas Fernandez,F,U,,2003
-239477,JPN,Rinon Okuwaki,F,U,,2002
+233722,ESP,Tea Pavlicic Pavlicic,F,U,,
+223372,ESP,Anastasia Kouchnareva,F,U,,
+223374,EST,Elizabeth Jurna,F,U,,
+233723,RSA,Anna Wise,F,U,,
+225857,ESP,Paola Maria Moreno Bautista,F,U,,
+233724,ESP,Marina De Diego Quinones,F,U,,
+223381,ESP,Carmen Juan Bru,F,U,,
+233725,SVK,Karolina Mrazikova,F,U,,
+234224,ESP,Paula Cabrer,F,U,,
+234225,ITA,Isabella Righi,F,U,,
+234226,ESP,Nataly Miroslavova Ninova,F,U,,
+234227,EST,Kaia Kruus,F,U,,
+234473,FRA,Charlotte Florent,F,U,,
+234476,DEN,Therese Harboe Holst,F,U,,
+234477,ESP,Laura Garcia Astudillo,F,U,,
+234478,ITA,Sofia Carpi,F,U,,
+234479,FRA,Shanice Roignot,F,U,,
+234481,GER,Carolin Raschdorf,F,U,,
+225851,ESP,Claudia Martinez De Velasco,F,U,,
+232873,GEO,Sopiko Tsitskishvili,F,U,,
+234483,ESP,Celia Bajo,F,U,,
+223401,FRA,Astrid Cirotte,F,U,,
+223400,FRA,Leire De Ezcurra,F,U,,
+225847,ESP,Ksenia San Luis Kravtseva,F,U,,
+239409,ESP,Andrea Burguete Beltran,F,U,,
+225855,ESP,Vitoria Solis Urdiales,F,U,,
+239407,ESP,Carlota Mulet Bouza,F,U,,
+223390,ESP,Paula Sanchez Rodriguez,F,U,,
+239439,ESP,Mara Marty,F,U,,
+223367,MEX,Maria Fernanda Navarro,F,U,,
+238065,BOL,Noelia Zeballos Melgar,F,U,,
+239116,ESP,Angela Perez Barro,F,U,,
+223326,ESP,Raquel Gonzalez Vilar,F,U,,
+239117,ESP,Ana Martinez Vaquero,F,U,,
+223384,ESP,Jordina Font,F,U,,
+223391,ESP,Carla Ramonet,F,U,,
+239118,ROU,Maria Ioana Secara,F,U,,
+240163,ESP,Olga Bienzobas Fernandez,F,U,,
+239477,JPN,Rinon Okuwaki,F,U,,
 240161,ESP,Isabel Pascual Montalvo,F,,,2002
-238204,RUS,Zlata Yankovskaya,F,U,,2002
-239159,PHL,Marie Amandine Reyes,F,U,,2002
-239160,RUS,Arina Arifullina,F,U,,2002
-239161,ESP,Carlota Farres Carreter,F,U,,2002
-239162,ESP,Olivia Alcala Gurri,F,U,,2002
-239163,FRA,Sophie Martin,F,U,,2002
-239164,ESP,Nadine Arbaizar Martinez,F,U,,2002
-239405,ESP,Lucia Conde Zalona,F,U,,2002
-239406,ESP,Laura Tapiador,F,U,,2002
-239408,ESP,Andrea Martin Pavon,F,U,,2002
+238204,RUS,Zlata Yankovskaya,F,U,,
+239159,PHL,Marie Amandine Reyes,F,U,,
+239160,RUS,Arina Arifullina,F,U,,
+239161,ESP,Carlota Farres Carreter,F,U,,
+239162,ESP,Olivia Alcala Gurri,F,U,,
+239163,FRA,Sophie Martin,F,U,,
+239164,ESP,Nadine Arbaizar Martinez,F,U,,
+239405,ESP,Lucia Conde Zalona,F,U,,
+239406,ESP,Laura Tapiador,F,U,,
+239408,ESP,Andrea Martin Pavon,F,U,,
 214296,USA,Erica Oosterhout,F,U,,1998
 211515,COL,Daniela Lozano,F,U,,1991
-236989,NED,Vanja Gudelj,F,U,,1991
-223370,GBR,Iman Khan,F,U,,1991
-241004,ESP,Lola Diaz Gonzalez,F,U,,1998
-241005,ITA,Giulia Caramelli,F,U,,1991
-223373,ESP,Victoria Gomez,F,U,,1991
-241006,ESP,Monica Santaolalla Ristic,F,U,,1991
-223379,ESP,Elena Rey,F,U,,1991
-243421,ESP,Luna Dinoto Fernandez,F,U,,1991
-244082,ESP,Elena Calzada De Castro,F,U,,1991
+236989,NED,Vanja Gudelj,F,U,,
+223370,GBR,Iman Khan,F,U,,
+241004,ESP,Lola Diaz Gonzalez,F,U,,
+241005,ITA,Giulia Caramelli,F,U,,
+223373,ESP,Victoria Gomez,F,U,,
+241006,ESP,Monica Santaolalla Ristic,F,U,,
+223379,ESP,Elena Rey,F,U,,
+243421,ESP,Luna Dinoto Fernandez,F,U,,
+244082,ESP,Elena Calzada De Castro,F,U,,
 209521,VEN,Alessandra Pennesi,F,R,,1989
-244083,ESP,Alicia Alvarez Rojas,F,U,,1989
-223392,ESP,Blanca Alvarez Rojas,F,U,,1989
-244084,ESP,Ainara Vegal,F,U,,1989
+244083,ESP,Alicia Alvarez Rojas,F,U,,
+223392,ESP,Blanca Alvarez Rojas,F,U,,
+244084,ESP,Ainara Vegal,F,U,,
 221669,ESP,Julieta Honrubia Andrino,F,U,,2002
-223439,ESP,Eva Alvarez Sande,F,U,,2002
-245086,ESP,Victoria Calvo,F,U,,2002
-245087,ESP,Lucia Del Valle Vidal,F,U,,2002
-242447,EST,Emma Namnieks,F,U,,2002
-223344,EST,Elisabeth Iila,F,U,,2002
-241743,RUS,Valeriia Krokhotina,F,U,,2002
-242448,EST,Grete Gull,F,U,,2002
-242449,EST,Alissia Aleksandra Kivi,F,U,,2002
-241719,FIN,Marissa Minetti,F,U,,2002
-241720,FIN,Aada Inna,F,U,,2002
-241738,FIN,Heta Nuutinen,F,U,,1998
-241739,FIN,Natalia Papshev,F,U,,2002
-241740,FIN,Serena Hatakka,F,U,,1998
-238332,ISR,Noa Minzari,F,U,,2002
-241741,FIN,Paula Susanna Joukanen,F,U,,1998
-241742,USA,Jasmin Makela,F,U,,2002
-241744,FIN,Annika Hakovirta,F,U,,2002
-241745,FIN,Clarissa Blomqvist,F,U,,1998
-232446,FRA,Noemie Oliveras,F,U,,2002
+223439,ESP,Eva Alvarez Sande,F,U,,
+245086,ESP,Victoria Calvo,F,U,,
+245087,ESP,Lucia Del Valle Vidal,F,U,,
+242447,EST,Emma Namnieks,F,U,,
+223344,EST,Elisabeth Iila,F,U,,
+241743,RUS,Valeriia Krokhotina,F,U,,
+242448,EST,Grete Gull,F,U,,
+242449,EST,Alissia Aleksandra Kivi,F,U,,
+241719,FIN,Marissa Minetti,F,U,,
+241720,FIN,Aada Inna,F,U,,
+241738,FIN,Heta Nuutinen,F,U,,
+241739,FIN,Natalia Papshev,F,U,,
+241740,FIN,Serena Hatakka,F,U,,
+238332,ISR,Noa Minzari,F,U,,
+241741,FIN,Paula Susanna Joukanen,F,U,,
+241742,USA,Jasmin Makela,F,U,,
+241744,FIN,Annika Hakovirta,F,U,,
+241745,FIN,Clarissa Blomqvist,F,U,,
+232446,FRA,Noemie Oliveras,F,U,,
 219439,FRA,Elsa Pellegrinelli,F,U,,1994
-234484,FRA,Constance Levivier,F,U,,1994
-234485,FRA,Emma Claussmann,F,U,,1994
-234486,FRA,Severine Deppner,F,U,,1994
+234484,FRA,Constance Levivier,F,U,,
+234485,FRA,Emma Claussmann,F,U,,
+234486,FRA,Severine Deppner,F,U,,
 208881,FRA,Manon Garcia,F,U,,1988
-223298,FRA,Jade Psonka,F,U,,1988
-234487,FRA,Ines Vandekerckhove,F,U,,1988
-234488,FRA,Kimberly Chaba,F,U,,1988
-230872,FRA,Jade Marie,F,U,,1988
-234489,FRA,Clarisse Aussert,F,U,,1988
-234490,FRA,Thessy Ntondele Zinga,F,U,,1998
-234491,FRA,Agostina Breval,F,U,,1988
-223300,FRA,Manon Lamarque,F,U,,1988
-235158,FRA,Elisa Rubio,F,U,,1988
-223340,FRA,Caroline Vernet,F,U,,1998
-235159,FRA,Astrid Lew Yan Foon,F,U,,1988
-236980,FRA,Astrid Cirotte,F,U,,1998
-236981,FRA,Emma Jouy,F,U,,1988
-230121,FRA,Hanna Bougouffa,F,U,,1988
-237479,FRA,Olivia Moley,F,U,,1988
-223417,ITA,Greta Schieroni,F,U,,1998
-237480,ITA,Rebecca Amerio,F,U,,1998
+223298,FRA,Jade Psonka,F,U,,
+234487,FRA,Ines Vandekerckhove,F,U,,
+234488,FRA,Kimberly Chaba,F,U,,
+230872,FRA,Jade Marie,F,U,,
+234489,FRA,Clarisse Aussert,F,U,,
+234490,FRA,Thessy Ntondele Zinga,F,U,,
+234491,FRA,Agostina Breval,F,U,,
+223300,FRA,Manon Lamarque,F,U,,
+235158,FRA,Elisa Rubio,F,U,,
+223340,FRA,Caroline Vernet,F,U,,
+235159,FRA,Astrid Lew Yan Foon,F,U,,
+236980,FRA,Astrid Cirotte,F,U,,
+236981,FRA,Emma Jouy,F,U,,
+230121,FRA,Hanna Bougouffa,F,U,,
+237479,FRA,Olivia Moley,F,U,,
+223417,ITA,Greta Schieroni,F,U,,
+237480,ITA,Rebecca Amerio,F,U,,
 237481,ITA,Ginevra Parentini Vallega Montebruno,F,U,,2003
-239478,FRA,Lucie Pawlak,F,U,,2003
-239456,FRA,Tiantsoa Sarah Rakotomanga Rajaonah,F,U,,2003
-241007,FRA,Lea Bathellier,F,U,,2003
-241008,FRA,Mathilde Gilles,F,U,,2003
-241009,FRA,Julie Aubert,F,U,,2003
-239440,FRA,Paloma Hennicaux,F,U,,2003
-239455,FRA,Eva Elbaz,F,U,,2003
-228107,FRA,Selya Rakki,F,U,,2003
-239441,GBR,Kylie Bilchev,F,U,,2003
-239442,GBR,Ranah Akua Stoiber,F,U,,2003
-223307,RUS,Elizaveta Morozova,F,U,,2003
-239119,GEO,Kristine Nanava,F,U,,1998
-239120,GEO,Lizi Dolidze,F,U,,1998
-239121,GEO,Ani Zeikidze,F,U,,2003
-239122,GEO,Sofia Chachkhiani,F,U,,2003
-239123,GEO,Sofiko Zeikidze,F,U,,2003
-239124,GEO,Natali Jaiani,F,U,,2003
-238203,RUS,Alisa Zolotukhina,F,U,,2003
-239125,GEO,Nutsa Tsintsadze,F,U,,2003
-240164,GEO,Ketevan Jeladze,F,U,,2003
-238201,NGA,Oluchukwu Jennifer Nkili,F,U,,2003
-241010,RUS,Amrita Tsabolova,F,U,,2003
-223399,GER,Selina Dal,F,U,,2003
-230870,GER,Ella Seidel,F,U,,2003
-230881,GER,Nicole Rivkin,F,U,,1998
-230882,GER,Carolina Kuhl,F,U,,2003
-244075,DEU,Paula Rumpf,F,U,,1998
-244076,BRA,Lais Schroeder,F,U,,2003
-244085,DEU,Lea Von Kozierowski,F,U,,2003
-244086,ROU,Andreea Mihwela Onitoiu,F,U,,2003
-235162,GER,Amelie Christin Janssen,F,U,,2003
-239132,GER,Meryem Alexandra Guener,F,U,,2003
-223408,GRE,Theodora Xantava,F,U,,2003
-223407,GRE,Ellie Logotheti,F,U,,1998
-239126,CZE,Emma Slavikova,F,U,,2003
-239127,GRE,Anna Novratidou,F,U,,2003
-239128,GRE,Antonia Eleni Bazou,F,U,,2003
-238198,BGR,Anna Evstatieva,F,U,,2003
-239165,GBR,Annali Olivelle,F,U,,1998
-239166,NLD,Dunya Charalampopoulos,F,U,,1998
-239167,ROU,Diana Maria Ilie,F,U,,2003
-239169,CZE,Blanka Slukova,F,U,,2003
-239410,FRA,Sydji Peszynski,F,U,,2003
-239411,GRE,Rafaela Platsiota,F,U,,1998
-239412,NED,Rachelle Starreveld,F,U,,2003
-223409,CZE,Karolina Mrowiecova,F,U,,2003
-239413,POL,Aleksandra Wierzbowska,F,U,,2003
-239414,FRA,Noa Dujardin,F,U,,2003
-234221,IND,Jagmeet Kaur Grewal,F,U,,2003
-234228,IND,Bela Tamhankar,F,U,,1998
-234229,IND,Sana Bhat,F,U,,2003
-234230,IND,Prapti Soni,F,U,,1998
-234231,IND,Anu Moar,F,U,,2003
-234232,IND,Ayushi Singh,F,U,,1998
-234233,IND,Esha Singh,F,U,,2003
-234234,IND,Medhavi Singh,F,U,,2003
-234235,IND,Priyam Kumari,F,U,,2003
-234236,IND,Priyanshi Bhandari,F,U,,1998
-234237,IND,Sanya Yadav,F,U,,1998
-234238,IND,Anupriya Bauddh,F,U,,2003
-234239,IND,Niyati Kukreti,F,U,,2003
-223201,IND,Jigyasa Narsinghani,F,U,,1998
-234240,IND,Pragathi Narayan Prasad,F,U,,2003
+239478,FRA,Lucie Pawlak,F,U,,
+239456,FRA,Tiantsoa Sarah Rakotomanga Rajaonah,F,U,,
+241007,FRA,Lea Bathellier,F,U,,
+241008,FRA,Mathilde Gilles,F,U,,
+241009,FRA,Julie Aubert,F,U,,
+239440,FRA,Paloma Hennicaux,F,U,,
+239455,FRA,Eva Elbaz,F,U,,
+228107,FRA,Selya Rakki,F,U,,
+239441,GBR,Kylie Bilchev,F,U,,
+239442,GBR,Ranah Akua Stoiber,F,U,,
+223307,RUS,Elizaveta Morozova,F,U,,
+239119,GEO,Kristine Nanava,F,U,,
+239120,GEO,Lizi Dolidze,F,U,,
+239121,GEO,Ani Zeikidze,F,U,,
+239122,GEO,Sofia Chachkhiani,F,U,,
+239123,GEO,Sofiko Zeikidze,F,U,,
+239124,GEO,Natali Jaiani,F,U,,
+238203,RUS,Alisa Zolotukhina,F,U,,
+239125,GEO,Nutsa Tsintsadze,F,U,,
+240164,GEO,Ketevan Jeladze,F,U,,
+238201,NGA,Oluchukwu Jennifer Nkili,F,U,,
+241010,RUS,Amrita Tsabolova,F,U,,
+223399,GER,Selina Dal,F,U,,
+230870,GER,Ella Seidel,F,U,,
+230881,GER,Nicole Rivkin,F,U,,
+230882,GER,Carolina Kuhl,F,U,,
+244075,DEU,Paula Rumpf,F,U,,
+244076,BRA,Lais Schroeder,F,U,,
+244085,DEU,Lea Von Kozierowski,F,U,,
+244086,ROU,Andreea Mihwela Onitoiu,F,U,,
+235162,GER,Amelie Christin Janssen,F,U,,
+239132,GER,Meryem Alexandra Guener,F,U,,
+223408,GRE,Theodora Xantava,F,U,,
+223407,GRE,Ellie Logotheti,F,U,,
+239126,CZE,Emma Slavikova,F,U,,
+239127,GRE,Anna Novratidou,F,U,,
+239128,GRE,Antonia Eleni Bazou,F,U,,
+238198,BGR,Anna Evstatieva,F,U,,
+239165,GBR,Annali Olivelle,F,U,,
+239166,NLD,Dunya Charalampopoulos,F,U,,
+239167,ROU,Diana Maria Ilie,F,U,,
+239169,CZE,Blanka Slukova,F,U,,
+239410,FRA,Sydji Peszynski,F,U,,
+239411,GRE,Rafaela Platsiota,F,U,,
+239412,NED,Rachelle Starreveld,F,U,,
+223409,CZE,Karolina Mrowiecova,F,U,,
+239413,POL,Aleksandra Wierzbowska,F,U,,
+239414,FRA,Noa Dujardin,F,U,,
+234221,IND,Jagmeet Kaur Grewal,F,U,,
+234228,IND,Bela Tamhankar,F,U,,
+234229,IND,Sana Bhat,F,U,,
+234230,IND,Prapti Soni,F,U,,
+234231,IND,Anu Moar,F,U,,
+234232,IND,Ayushi Singh,F,U,,
+234233,IND,Esha Singh,F,U,,
+234234,IND,Medhavi Singh,F,U,,
+234235,IND,Priyam Kumari,F,U,,
+234236,IND,Priyanshi Bhandari,F,U,,
+234237,IND,Sanya Yadav,F,U,,
+234238,IND,Anupriya Bauddh,F,U,,
+234239,IND,Niyati Kukreti,F,U,,
+223201,IND,Jigyasa Narsinghani,F,U,,
+234240,IND,Pragathi Narayan Prasad,F,U,,
 221701,IND,Anaam Almas,F,U,,2000
-234241,IND,Renne Singla,F,U,,2003
-234242,IND,Ananya Yadav,F,U,,2003
-234243,IND,Aashi Kapoor,F,U,,2003
-234244,IND,Shefali Arora,F,U,,2003
+234241,IND,Renne Singla,F,U,,
+234242,IND,Ananya Yadav,F,U,,
+234243,IND,Aashi Kapoor,F,U,,
+234244,IND,Shefali Arora,F,U,,
 223181,IND,Prathiba Narayan Prasad,F,R,,2001
-234245,IND,Adithi Are,F,U,,2001
-234246,IND,Kashish Bhatia,F,U,,2000
-234247,IND,Laalitya Kalluri,F,U,,2001
-234248,IND,Lagan Bidhan,F,U,,2001
-234492,IND,Malikaa Marathe,F,U,,2001
-234493,IND,Ariana Dharmadhikari,F,U,,2000
-234494,IND,Lucky Wafa Khan,F,U,,2001
-234495,IND,Mohini Ghule,F,U,,2001
-234496,IND,Maitri Rajesh Patel,F,U,,2001
-234497,IND,Himadri Kashyap,F,U,,2000
-234498,IND,Vaidehi Katkar,F,U,,2001
-234499,IND,Sudipta Kumar,F,U,,2000
-234500,IND,Hrudaya Shah,F,U,,2001
-234501,IND,Sanika Kambli,F,U,,2001
-234502,USA,Rutuja Chaphalkar,F,U,,2000
-234503,IND,Amulya Penikalapati,F,U,,2001
-234504,IND,Yashika Venu,F,U,,2000
-234505,IND,Aanisha Rahul Shewate,F,U,,2001
-238182,ISR,Karin Altori,F,U,,2001
-238183,ISR,Liam Oved,F,U,,2001
-238190,ISR,Shira Rachel Sivan,F,U,,2001
-238191,ISR,Aya Bychenko,F,U,,2000
-238192,ISR,Daniela Ben Hamo,F,U,,2001
-238193,ISR,Shay Fadlon,F,U,,2000
-238194,ISR,Talya Barad Itzhaki,F,U,,2001
-238195,ISR,Tal Dekel,F,U,,2001
-238196,ISR,Alian Zack,F,U,,2000
-238197,ISR,Maya Gohfeld,F,U,,2001
-238199,ISR,Daniel Goldstein,F,U,,2001
-238200,ISR,Chen Ezra,F,U,,2000
-238202,ISR,Shira Chiche,F,U,,2001
-238205,ISR,Mika Buchnik,F,U,,2001
-238329,ISR,Noa Major,F,U,,2000
-223166,GRE,Nefeli Zafeiri,F,U,,2001
-223410,ITA,Georgia Pedone,F,U,,2000
-223351,ITA,Emma Valletta,F,U,,2001
-239453,ITA,Camilla Gennaro,F,U,,2001
-239457,ITA,Ester Ivaldo,F,U,,2001
-239458,ITA,Milena Jevtovic,F,U,,2000
-223416,ITA,Denise Valente,F,U,,2000
-239459,ITA,Beatrice Ottone,F,U,,2001
-239460,ITA,Sara Milanese,F,U,,2001
-223415,ITA,Federica Urgesi,F,U,,2001
-239461,ITA,Agnese Dolceamore,F,U,,2001
-239462,ITA,Chiara Lazzari,F,U,,2001
-239463,ITA,Anna Lanciaprima,F,U,,2001
-239415,ITA,Valentina Lia,F,U,,2000
-223332,ITA,Margherita Marcon,F,U,,2001
-239416,ITA,Benedetta Baratto,F,U,,2001
+234245,IND,Adithi Are,F,U,,
+234246,IND,Kashish Bhatia,F,U,,
+234247,IND,Laalitya Kalluri,F,U,,
+234248,IND,Lagan Bidhan,F,U,,
+234492,IND,Malikaa Marathe,F,U,,
+234493,IND,Ariana Dharmadhikari,F,U,,
+234494,IND,Lucky Wafa Khan,F,U,,
+234495,IND,Mohini Ghule,F,U,,
+234496,IND,Maitri Rajesh Patel,F,U,,
+234497,IND,Himadri Kashyap,F,U,,
+234498,IND,Vaidehi Katkar,F,U,,
+234499,IND,Sudipta Kumar,F,U,,
+234500,IND,Hrudaya Shah,F,U,,
+234501,IND,Sanika Kambli,F,U,,
+234502,USA,Rutuja Chaphalkar,F,U,,
+234503,IND,Amulya Penikalapati,F,U,,
+234504,IND,Yashika Venu,F,U,,
+234505,IND,Aanisha Rahul Shewate,F,U,,
+238182,ISR,Karin Altori,F,U,,
+238183,ISR,Liam Oved,F,U,,
+238190,ISR,Shira Rachel Sivan,F,U,,
+238191,ISR,Aya Bychenko,F,U,,
+238192,ISR,Daniela Ben Hamo,F,U,,
+238193,ISR,Shay Fadlon,F,U,,
+238194,ISR,Talya Barad Itzhaki,F,U,,
+238195,ISR,Tal Dekel,F,U,,
+238196,ISR,Alian Zack,F,U,,
+238197,ISR,Maya Gohfeld,F,U,,
+238199,ISR,Daniel Goldstein,F,U,,
+238200,ISR,Chen Ezra,F,U,,
+238202,ISR,Shira Chiche,F,U,,
+238205,ISR,Mika Buchnik,F,U,,
+238329,ISR,Noa Major,F,U,,
+223166,GRE,Nefeli Zafeiri,F,U,,
+223410,ITA,Georgia Pedone,F,U,,
+223351,ITA,Emma Valletta,F,U,,
+239453,ITA,Camilla Gennaro,F,U,,
+239457,ITA,Ester Ivaldo,F,U,,
+239458,ITA,Milena Jevtovic,F,U,,
+223416,ITA,Denise Valente,F,U,,
+239459,ITA,Beatrice Ottone,F,U,,
+239460,ITA,Sara Milanese,F,U,,
+223415,ITA,Federica Urgesi,F,U,,
+239461,ITA,Agnese Dolceamore,F,U,,
+239462,ITA,Chiara Lazzari,F,U,,
+239463,ITA,Anna Lanciaprima,F,U,,
+239415,ITA,Valentina Lia,F,U,,
+223332,ITA,Margherita Marcon,F,U,,
+239416,ITA,Benedetta Baratto,F,U,,
 214594,ITA,Giulia Sartori,F,U,,1997
-242450,ITA,Sofia Avataneo,F,U,,1997
-241746,ITA,Giulia Bizzari,F,U,,1997
-241747,ITA,Sveva Maria Ricci,F,U,,1997
-223411,ITA,Carlotta Moccia,F,U,,1997
-241748,ITA,Nicole Iosio,F,U,,1997
-232868,KAZ,Aruzhan Sagandikova,F,U,,2000
-232869,KAZ,Aiya Nupbay,F,U,,1997
-232870,KAZ,Ademi Amankeldi,F,U,,1997
-232872,BLR,Alexandra Azarko,F,U,,1997
-232883,KAZ,Asima Sazanova,F,U,,1997
-232884,BLR,Daria Butsko,F,U,,1997
-232885,KAZ,Elena Kim,F,U,,1997
-232886,USA,Sophia Natalya Baranov,F,U,,1997
-232887,KAZ,Erkezhan Arystanbekova,F,U,,2000
-232888,KAZ,Yuliya Klimova,F,U,,1997
-232889,KAZ,Elizaveta Gnilozubova,F,U,,1997
-232890,RUS,Margarita Andreyuk,F,U,,1997
-232892,KAZ,Adel Ismagylova,F,U,,1997
-233726,USA,Amina Salibayeva,F,U,,1997
-237455,KAZ,Dana Baidaulet,F,U,,1997
-237462,KAZ,Adel Malgonusova,F,U,,2000
-237463,KAZ,Janel Ospanova,F,U,,1997
-237464,KAZ,Karakat Koilybaeva,F,U,,1997
-237465,KAZ,Asylzhan Arystanbekova,F,U,,2000
-237482,KAZ,Dilnaz Mashabayeva,F,U,,1997
-239157,KAZ,Sandugash Kenzhibayeva,F,U,,1997
-239170,UKR,Alisa Baranovska,F,U,,2000
-239417,KAZ,Asem Shoybek,F,U,,1997
-239479,KAZ,Tatyana Chsherbakova,F,U,,1997
+242450,ITA,Sofia Avataneo,F,U,,
+241746,ITA,Giulia Bizzari,F,U,,
+241747,ITA,Sveva Maria Ricci,F,U,,
+223411,ITA,Carlotta Moccia,F,U,,
+241748,ITA,Nicole Iosio,F,U,,
+232868,KAZ,Aruzhan Sagandikova,F,U,,
+232869,KAZ,Aiya Nupbay,F,U,,
+232870,KAZ,Ademi Amankeldi,F,U,,
+232872,BLR,Alexandra Azarko,F,U,,
+232883,KAZ,Asima Sazanova,F,U,,
+232884,BLR,Daria Butsko,F,U,,
+232885,KAZ,Elena Kim,F,U,,
+232886,USA,Sophia Natalya Baranov,F,U,,
+232887,KAZ,Erkezhan Arystanbekova,F,U,,
+232888,KAZ,Yuliya Klimova,F,U,,
+232889,KAZ,Elizaveta Gnilozubova,F,U,,
+232890,RUS,Margarita Andreyuk,F,U,,
+232892,KAZ,Adel Ismagylova,F,U,,
+233726,USA,Amina Salibayeva,F,U,,
+237455,KAZ,Dana Baidaulet,F,U,,
+237462,KAZ,Adel Malgonusova,F,U,,
+237463,KAZ,Janel Ospanova,F,U,,
+237464,KAZ,Karakat Koilybaeva,F,U,,
+237465,KAZ,Asylzhan Arystanbekova,F,U,,
+237482,KAZ,Dilnaz Mashabayeva,F,U,,
+239157,KAZ,Sandugash Kenzhibayeva,F,U,,
+239170,UKR,Alisa Baranovska,F,U,,
+239417,KAZ,Asem Shoybek,F,U,,
+239479,KAZ,Tatyana Chsherbakova,F,U,,
 239158,RUS,Daria Zelinskaya,F,U,,2004
-245088,KAZ,Asima Sazan,F,U,,2004
-225865,RUS,Stanislava Bobrovnikova,F,U,,2000
-245089,KAZ,Tomiris Mussina,F,U,,2004
+245088,KAZ,Asima Sazan,F,U,,
+225865,RUS,Stanislava Bobrovnikova,F,U,,
+245089,KAZ,Tomiris Mussina,F,U,,
 223080,LAT,Elza Tomase,F,U,,2001
-239171,LVA,Tereze Vevere,F,U,,2001
-239172,LTU,Emilija Tverijonaite,F,U,,2001
-239173,LVA,Anna Jakovleva,F,U,,2001
-239174,LVA,Enija Paula Aploka,F,U,,2001
-239175,LVA,Debora Samanovica,F,U,,2001
-239176,LVA,Amelija Matjunina,F,U,,2001
-239177,NLD,Kristel Van Der Heijden,F,U,,2001
-239178,LVA,Patricia Ungure Rogozoveca,F,U,,2001
-239179,LVA,Elizabete Klavinska,F,U,,2001
-239387,LTU,Patricija Paukstyte,F,U,,2000
-239388,LTU,Patricija Cechanaviciute,F,U,,2001
-239418,LTU,Saule Bileviciene,F,U,,2001
-239131,LTU,Tia Kaukenas,F,U,,2000
-223334,NED,Florentine Dekkers,F,U,,2001
-239480,POL,Jowana Kolowrotkiewicz,F,U,,2001
-239481,POL,Amelia Kopel,F,U,,2001
-239482,POL,Wiktoria Rutkowska,F,U,,2001
-239483,POL,Karolina Skowronska,F,U,,2001
-239484,POL,Daria Gorska,F,U,,2000
-239485,POL,Ewa Samberger,F,U,,2001
-241749,POL,Rozalia Gruszczynska,F,U,,2001
-241750,POL,Martyna Zaremba,F,U,,2001
-243422,POL,Anna Dziarkowska,F,U,,2001
-242443,POL,Zuzanna Bednarz,F,U,,2001
-223431,PUR,Maria Andre,F,U,,2001
-238068,POR,Maria Garcia,F,U,,2001
-223428,PUR,Beatriz Casaca,F,U,,2001
-238069,NLD,Nicole Van Harten,F,U,,2001
-239421,POR,Maria Joao Reis Fonseca,F,U,,2001
-223435,SUI,Milla Sequeira,F,U,,2001
-239419,FRA,Marie Brard Vidot,F,U,,2001
-223069,USA,Baylen Brown,F,U,,2001
-239420,POR,Maria Beatriz Teixeira,F,U,,2001
-240997,ROU,Maria Aldea Wesselly,F,U,,2001
-241011,GBR,Andra Sutherland,F,U,,2001
+239171,LVA,Tereze Vevere,F,U,,
+239172,LTU,Emilija Tverijonaite,F,U,,
+239173,LVA,Anna Jakovleva,F,U,,
+239174,LVA,Enija Paula Aploka,F,U,,
+239175,LVA,Debora Samanovica,F,U,,
+239176,LVA,Amelija Matjunina,F,U,,
+239177,NLD,Kristel Van Der Heijden,F,U,,
+239178,LVA,Patricia Ungure Rogozoveca,F,U,,
+239179,LVA,Elizabete Klavinska,F,U,,
+239387,LTU,Patricija Paukstyte,F,U,,
+239388,LTU,Patricija Cechanaviciute,F,U,,
+239418,LTU,Saule Bileviciene,F,U,,
+239131,LTU,Tia Kaukenas,F,U,,
+223334,NED,Florentine Dekkers,F,U,,
+239480,POL,Jowana Kolowrotkiewicz,F,U,,
+239481,POL,Amelia Kopel,F,U,,
+239482,POL,Wiktoria Rutkowska,F,U,,
+239483,POL,Karolina Skowronska,F,U,,
+239484,POL,Daria Gorska,F,U,,
+239485,POL,Ewa Samberger,F,U,,
+241749,POL,Rozalia Gruszczynska,F,U,,
+241750,POL,Martyna Zaremba,F,U,,
+243422,POL,Anna Dziarkowska,F,U,,
+242443,POL,Zuzanna Bednarz,F,U,,
+223431,PUR,Maria Andre,F,U,,
+238068,POR,Maria Garcia,F,U,,
+223428,PUR,Beatriz Casaca,F,U,,
+238069,NLD,Nicole Van Harten,F,U,,
+239421,POR,Maria Joao Reis Fonseca,F,U,,
+223435,SUI,Milla Sequeira,F,U,,
+239419,FRA,Marie Brard Vidot,F,U,,
+223069,USA,Baylen Brown,F,U,,
+239420,POR,Maria Beatriz Teixeira,F,U,,
+240997,ROU,Maria Aldea Wesselly,F,U,,
+241011,GBR,Andra Sutherland,F,U,,
 221540,NED,Isabelle Popma,F,U,,2001
-238081,POR,Carolina Mesquita,F,U,,2001
-239464,POR,Maria Joao Fonseca,F,U,,2001
-239465,USA,Nicole Kiefer,F,U,,2001
-240162,POR,Bia Neto,F,U,,2001
-233717,RSA,Suzanie Pretorius,F,U,,2001
-233727,RSA,Leigh Van Zyl,F,U,,2001
-233728,RSA,Marilouise Van Zyl,F,U,,2001
-223365,RSA,Tanika Tyra Panaino,F,U,,2001
-233729,RSA,Heike Janse Van Vuuren,F,U,,2001
-233730,RSA,Amike Botha,F,U,,2001
-233731,RSA,Carle Botha,F,U,,2001
-233732,RSA,Isabella Venter,F,U,,2001
+238081,POR,Carolina Mesquita,F,U,,
+239464,POR,Maria Joao Fonseca,F,U,,
+239465,USA,Nicole Kiefer,F,U,,
+240162,POR,Bia Neto,F,U,,
+233717,RSA,Suzanie Pretorius,F,U,,
+233727,RSA,Leigh Van Zyl,F,U,,
+233728,RSA,Marilouise Van Zyl,F,U,,
+223365,RSA,Tanika Tyra Panaino,F,U,,
+233729,RSA,Heike Janse Van Vuuren,F,U,,
+233730,RSA,Amike Botha,F,U,,
+233731,RSA,Carle Botha,F,U,,
+233732,RSA,Isabella Venter,F,U,,
 214491,RSA,Katie Poluta,F,U,,1997
-233733,RSA,Jessica Portwig,F,U,,1997
-223274,RSA,Christine Kruger,F,U,,1997
-233742,RUS,Yaroslava Bartashevich,F,U,,1997
-223304,RUS,Victoria Matasova,F,U,,1997
-239389,RUS,Elena Pridankina,F,U,,1997
+233733,RSA,Jessica Portwig,F,U,,
+223274,RSA,Christine Kruger,F,U,,
+233742,RUS,Yaroslava Bartashevich,F,U,,
+223304,RUS,Victoria Matasova,F,U,,
+239389,RUS,Elena Pridankina,F,U,,
 221605,RUS,Polina Pavlova,F,U,,2003
-239422,RUS,Edda Mamedova,F,U,,2000
-239423,RUS,Amelia Tarasova,F,U,,2003
-223302,RUS,Kira Pavlova,F,U,,2000
-223288,RUS,Anna Grigoreva,F,U,,2003
-239424,RUS,Sofia Saitova,F,U,,2003
-240998,RUS,Ekaterina Khayrutdinova,F,U,,2003
-240999,RUS,Anna Zyryanova,F,U,,2000
-241012,RUS,Anastasia Golubkova,F,U,,2003
-241013,RUS,Daria Artemyeva,F,U,,2003
-223441,SLO,Tajda Zalokar,F,U,,2000
-239180,SLO,Brina Sulin,F,U,,2003
-239181,SLO,Anamari Znuderl,F,U,,2003
-223445,SLO,Meta Marenk,F,U,,2000
-223444,SLO,Jelena Kovacevic,F,U,,2003
-223308,SLO,Ela Nala Milic,F,U,,2003
-239425,MNE,Milica Bratic,F,U,,2003
-239426,SLO,Hana Becirovic Novak,F,U,,2000
-239473,SRB,Andrea Mrvic,F,U,,2003
-239474,SRB,Andrea Obradovic,F,U,,2000
-223281,CZE,Veronika Kulhava,F,U,,2003
-239486,SRB,Nevena Kolarevic,F,U,,2000
-239487,SRB,Lena Karlovcan,F,U,,2003
-239488,SRB,Emilija Zdravkovic,F,U,,2003
-239476,SRB,Natalija Senic,F,U,,2000
-239489,SRB,Danica Nedeljkovic,F,U,,2003
-223319,BUL,Ralitsa Alexandrova,F,U,,2003
+239422,RUS,Edda Mamedova,F,U,,
+239423,RUS,Amelia Tarasova,F,U,,
+223302,RUS,Kira Pavlova,F,U,,
+223288,RUS,Anna Grigoreva,F,U,,
+239424,RUS,Sofia Saitova,F,U,,
+240998,RUS,Ekaterina Khayrutdinova,F,U,,
+240999,RUS,Anna Zyryanova,F,U,,
+241012,RUS,Anastasia Golubkova,F,U,,
+241013,RUS,Daria Artemyeva,F,U,,
+223441,SLO,Tajda Zalokar,F,U,,
+239180,SLO,Brina Sulin,F,U,,
+239181,SLO,Anamari Znuderl,F,U,,
+223445,SLO,Meta Marenk,F,U,,
+223444,SLO,Jelena Kovacevic,F,U,,
+223308,SLO,Ela Nala Milic,F,U,,
+239425,MNE,Milica Bratic,F,U,,
+239426,SLO,Hana Becirovic Novak,F,U,,
+239473,SRB,Andrea Mrvic,F,U,,
+239474,SRB,Andrea Obradovic,F,U,,
+223281,CZE,Veronika Kulhava,F,U,,
+239486,SRB,Nevena Kolarevic,F,U,,
+239487,SRB,Lena Karlovcan,F,U,,
+239488,SRB,Emilija Zdravkovic,F,U,,
+239476,SRB,Natalija Senic,F,U,,
+239489,SRB,Danica Nedeljkovic,F,U,,
+223319,BUL,Ralitsa Alexandrova,F,U,,
 220981,ITA,Luna Urso,F,U,,2002
-239475,CAN,Victoria Mboko,F,U,,2000
-239490,SRB,Anastasija Arsic,F,U,,2000
+239475,CAN,Victoria Mboko,F,U,,
+239490,SRB,Anastasija Arsic,F,U,,
 221597,SUI,Andjela Petrovic,F,R,,2003
-244087,SRB,Anja Stankovic,F,U,,2003
-244088,MNE,Divna Ratkovic,F,U,,2003
-237466,SUI,Livia Airoldi,F,U,,2003
-239454,SUI,Chelsea Fontenel,F,U,,2003
-232447,SUI,Celine Naef,F,U,,2000
-233734,SUI,Arianna Nepomuceno,F,U,,2003
-245090,ITA,Elisa Vigano,F,U,,2003
-245091,SUI,Kamila Kashaeva,F,U,,2003
-235160,SVK,Salma Drugdova,F,U,,2000
-235161,SVK,Irina Balus,F,U,,2000
-236982,SVK,Nina Darmatiova,F,U,,2003
-243423,CZE,Inez Maria Kotlikova,F,U,,2003
-239443,SWE,Alexandra Jansson,F,U,,2003
-239444,SWE,Anastasia Pettersson,F,U,,2003
-223448,TUN,Chahd Berriri,F,U,,2003
-223446,TUN,Ghalia Guizani,F,U,,2003
+244087,SRB,Anja Stankovic,F,U,,
+244088,MNE,Divna Ratkovic,F,U,,
+237466,SUI,Livia Airoldi,F,U,,
+239454,SUI,Chelsea Fontenel,F,U,,
+232447,SUI,Celine Naef,F,U,,
+233734,SUI,Arianna Nepomuceno,F,U,,
+245090,ITA,Elisa Vigano,F,U,,
+245091,SUI,Kamila Kashaeva,F,U,,
+235160,SVK,Salma Drugdova,F,U,,
+235161,SVK,Irina Balus,F,U,,
+236982,SVK,Nina Darmatiova,F,U,,
+243423,CZE,Inez Maria Kotlikova,F,U,,
+239443,SWE,Alexandra Jansson,F,U,,
+239444,SWE,Anastasia Pettersson,F,U,,
+223448,TUN,Chahd Berriri,F,U,,
+223446,TUN,Ghalia Guizani,F,U,,
 208154,MAR,Zineb El Ouazzani,F,U,,1987
-223022,TUN,Amira Bargaoui,F,U,,2000
-228913,TUN,Roua Limem,F,U,,1987
-225860,TUN,Lina Hachem,F,U,,1987
-228911,GER,Hermine Brembt,F,U,,1987
-228912,TUN,Ons Boubaker,F,U,,1987
-230130,TUN,Hiba Heni,F,U,,1987
-230871,FRA,Souhila Aouni,F,U,,1987
-224481,CZE,Izabela Heinzova,F,U,,1987
-232893,TUN,Linda Ajimi,F,U,,1987
-233735,SUI,Julie Sappl,F,U,,2000
-233745,NED,Michelle Dzjachangirova,F,U,,1987
-234506,GBR,Isabelle Cherny,F,U,,1987
-236956,MAR,Yasmine Kabbaj,F,U,,1987
-236984,TUN,Asma Ben Abdallah,F,U,,1987
-236985,ITA,Greta Borsoi,F,U,,1987
-236986,ALG,Ines Bekrar,F,U,,2000
-236987,GER,Vicky Veloso,F,U,,1987
-236988,DEN,Sara Borkop,F,U,,1987
-223175,LUX,Liz Badde,F,U,,2000
-237467,NLD,Danique Havermans,F,U,,1987
-223419,NED,Sanne Schalekamp,F,U,,1987
-237468,LTU,Emilija Pranyte,F,U,,2000
-237469,GER,Marlene Foerster,F,U,,1987
-237483,GBR,Isabella Lynch,F,U,,1987
-237484,GER,Luise Reisel,F,U,,1987
-238070,FRA,Carla Rodier Begue,F,U,,1987
-238082,SWE,Tove Kraft,F,U,,1987
-238083,TUN,Nadine Abid,F,U,,1987
-238206,RUS,Evelina Takhmazyan,F,U,,2000
+223022,TUN,Amira Bargaoui,F,U,,
+228913,TUN,Roua Limem,F,U,,
+225860,TUN,Lina Hachem,F,U,,
+228911,GER,Hermine Brembt,F,U,,
+228912,TUN,Ons Boubaker,F,U,,
+230130,TUN,Hiba Heni,F,U,,
+230871,FRA,Souhila Aouni,F,U,,
+224481,CZE,Izabela Heinzova,F,U,,
+232893,TUN,Linda Ajimi,F,U,,
+233735,SUI,Julie Sappl,F,U,,
+233745,NED,Michelle Dzjachangirova,F,U,,
+234506,GBR,Isabelle Cherny,F,U,,
+236956,MAR,Yasmine Kabbaj,F,U,,
+236984,TUN,Asma Ben Abdallah,F,U,,
+236985,ITA,Greta Borsoi,F,U,,
+236986,ALG,Ines Bekrar,F,U,,
+236987,GER,Vicky Veloso,F,U,,
+236988,DEN,Sara Borkop,F,U,,
+223175,LUX,Liz Badde,F,U,,
+237467,NLD,Danique Havermans,F,U,,
+223419,NED,Sanne Schalekamp,F,U,,
+237468,LTU,Emilija Pranyte,F,U,,
+237469,GER,Marlene Foerster,F,U,,
+237483,GBR,Isabella Lynch,F,U,,
+237484,GER,Luise Reisel,F,U,,
+238070,FRA,Carla Rodier Begue,F,U,,
+238082,SWE,Tove Kraft,F,U,,
+238083,TUN,Nadine Abid,F,U,,
+238206,RUS,Evelina Takhmazyan,F,U,,
 215226,USA,Anna Ulyashchenko,F,U,,1997
-223268,USA,Samantha Imbo Nloga,F,U,,1997
-238207,KOR,Hwiwon Wi,F,U,,1987
-223267,USA,Janet Imbo Nloga,F,U,,1987
-238333,FRA,Laure Razet,F,U,,1997
-239129,TUN,Lina Soussi,F,U,,1987
-239390,BRA,Sofia Da Cruz Mendonca,F,U,,1987
-239428,KOR,Gio Jang,F,U,,1997
-223292,BRA,Helena Ramos Rocha E Silva,F,U,,1987
-239429,INA,Fitriani Sabatini,F,U,,1987
-239445,HON,Isabella Nalani Alvarez Fu,F,U,,1987
-227095,ITA,Eva Marie Echeverri Erk,F,U,,1987
-239446,JPN,Mao Mushika,F,U,,1987
-239466,ITA,Carolina Piferi,F,U,,1997
-239468,RSA,Tayla Wilmot,F,U,,1987
-239469,RSA,Christine Gouws,F,U,,1997
-239470,COL,Valerie Quiceno Ibarguen,F,U,,1987
-239491,USA,Paris Corley,F,U,,1997
-239492,TUN,Mayssa Ben Dhiab,F,U,,1987
-239493,TUN,Khadija Ben Salem,F,U,,1987
+223268,USA,Samantha Imbo Nloga,F,U,,
+238207,KOR,Hwiwon Wi,F,U,,
+223267,USA,Janet Imbo Nloga,F,U,,
+238333,FRA,Laure Razet,F,U,,
+239129,TUN,Lina Soussi,F,U,,
+239390,BRA,Sofia Da Cruz Mendonca,F,U,,
+239428,KOR,Gio Jang,F,U,,
+223292,BRA,Helena Ramos Rocha E Silva,F,U,,
+239429,INA,Fitriani Sabatini,F,U,,
+239445,HON,Isabella Nalani Alvarez Fu,F,U,,
+227095,ITA,Eva Marie Echeverri Erk,F,U,,
+239446,JPN,Mao Mushika,F,U,,
+239466,ITA,Carolina Piferi,F,U,,
+239468,RSA,Tayla Wilmot,F,U,,
+239469,RSA,Christine Gouws,F,U,,
+239470,COL,Valerie Quiceno Ibarguen,F,U,,
+239491,USA,Paris Corley,F,U,,
+239492,TUN,Mayssa Ben Dhiab,F,U,,
+239493,TUN,Khadija Ben Salem,F,U,,
 221635,ITA,Ireni Lucia,F,U,,2002
-239186,USA,Lexington Reed,F,U,,2002
-240166,GRC,Marianna Argyrokastriti,F,U,,2002
-240167,IND,Vineetha Mummadi,F,U,,1987
-241014,RUS,Elizaveta Gavrilova,F,U,,2002
-241015,ITA,Francesca Miglio,F,U,,1987
-241016,DEU,Aaliyah Hohmann,F,U,,2002
-241017,RUS,Iuliia Iudenko,F,U,,1987
-241751,BLR,Yana Maria Khadarovich,F,U,,1987
-241752,ITA,Margherita Trolese,F,U,,1987
-242451,USA,Miah Webb,F,U,,1987
-243424,RUS,Elina Zakharova,F,U,,2002
-243425,RUS,Anastasia Stepina,F,U,,1987
-244077,RUS,Aglaya Fedorova,F,U,,2002
-244078,JPN,Nana Kawagishi,F,U,,1987
-244089,TUN,Meriem Makhlouf,F,U,,1987
-244090,ESP,Nerea Errasti,F,U,,1987
-245092,BLR,Hanna Piatrushka,F,U,,1987
-223118,TUR,Alara Ayaz,F,U,,1987
-223311,TUR,Lara Eroglu,F,U,,2002
-223283,TUR,Zeynep Su Yavuz,F,U,,1987
-224487,TUR,Mihrisah Yapici,F,U,,1987
-223086,TUR,Beyza Yaniklar,F,U,,1987
-224488,TUR,Duru Soke,F,U,,2002
-230131,TUR,Dila Beril Guclu,F,U,,1987
-227094,CAN,Laura Vasilescu,F,U,,1987
-223207,TUR,Dora Olgungul,F,U,,1987
-225863,TUR,Zeynep Bademci,F,U,,1987
-230132,KAZ,Amina Bolat,F,U,,1987
-223316,TUR,Pelin Colak,F,U,,2002
-225864,TUR,Feyza Ebrar Aydin,F,U,,1987
-223155,TUR,Ezgi Tezel,F,U,,1987
-230883,RUS,Lidiia Rasskovskaia,F,U,,2002
-230884,ITA,Ottavia Massetti,F,U,,1987
-230885,SLO,Masa Viriant,F,U,,2002
-231643,RUS,Anastasiya Feklistova,F,U,,2002
-231644,TUR,Zeynep Ilker,F,U,,1987
-224486,TUR,Lara Onal,F,U,,1987
-223330,FRA,Maelie Monfils,F,U,,2002
-228108,TUR,Didenaz Polat,F,U,,1987
-232894,TUR,Sena Varol,F,U,,1987
+239186,USA,Lexington Reed,F,U,,
+240166,GRC,Marianna Argyrokastriti,F,U,,
+240167,IND,Vineetha Mummadi,F,U,,
+241014,RUS,Elizaveta Gavrilova,F,U,,
+241015,ITA,Francesca Miglio,F,U,,
+241016,DEU,Aaliyah Hohmann,F,U,,
+241017,RUS,Iuliia Iudenko,F,U,,
+241751,BLR,Yana Maria Khadarovich,F,U,,
+241752,ITA,Margherita Trolese,F,U,,
+242451,USA,Miah Webb,F,U,,
+243424,RUS,Elina Zakharova,F,U,,
+243425,RUS,Anastasia Stepina,F,U,,
+244077,RUS,Aglaya Fedorova,F,U,,
+244078,JPN,Nana Kawagishi,F,U,,
+244089,TUN,Meriem Makhlouf,F,U,,
+244090,ESP,Nerea Errasti,F,U,,
+245092,BLR,Hanna Piatrushka,F,U,,
+223118,TUR,Alara Ayaz,F,U,,
+223311,TUR,Lara Eroglu,F,U,,
+223283,TUR,Zeynep Su Yavuz,F,U,,
+224487,TUR,Mihrisah Yapici,F,U,,
+223086,TUR,Beyza Yaniklar,F,U,,
+224488,TUR,Duru Soke,F,U,,
+230131,TUR,Dila Beril Guclu,F,U,,
+227094,CAN,Laura Vasilescu,F,U,,
+223207,TUR,Dora Olgungul,F,U,,
+225863,TUR,Zeynep Bademci,F,U,,
+230132,KAZ,Amina Bolat,F,U,,
+223316,TUR,Pelin Colak,F,U,,
+225864,TUR,Feyza Ebrar Aydin,F,U,,
+223155,TUR,Ezgi Tezel,F,U,,
+230883,RUS,Lidiia Rasskovskaia,F,U,,
+230884,ITA,Ottavia Massetti,F,U,,
+230885,SLO,Masa Viriant,F,U,,
+231643,RUS,Anastasiya Feklistova,F,U,,
+231644,TUR,Zeynep Ilker,F,U,,
+224486,TUR,Lara Onal,F,U,,
+223330,FRA,Maelie Monfils,F,U,,
+228108,TUR,Didenaz Polat,F,U,,
+232894,TUR,Sena Varol,F,U,,
 223670,RUS,Diana Shnaider,F,L,,2004
-233736,TUR,Zeynep Erbakan,F,U,,2004
-233737,TUR,Defne Erbakan,F,U,,2004
-228110,TUR,Elif Tuana Gunal,F,U,,2004
-233739,UKR,Maryna Kharchenko,F,U,,2004
+233736,TUR,Zeynep Erbakan,F,U,,
+233737,TUR,Defne Erbakan,F,U,,
+228110,TUR,Elif Tuana Gunal,F,U,,
+233739,UKR,Maryna Kharchenko,F,U,,
 203393,BUL,Martina Gledacheva,F,U,,1991
-223282,TUR,Zeynep Sila Ege,F,U,,1991
-233748,TUR,Leyla Nilufer Elmas,F,U,,1991
-234249,TUR,Alina Muradow,F,U,,1991
-234250,TUR,Zehra Canbaz,F,U,,1991
-234507,NED,Amber Maatman,F,U,,1991
-234508,UKR,Dasha Zhabotina,F,U,,1991
-235163,TUR,Zeynep Ekin Barut,F,U,,1991
-235164,SVK,Noemi Babikova,F,U,,1991
-223310,TUR,Eylul Akkoyun,F,U,,1991
-236991,GER,Maxine Sophie Kammerer,F,U,,1991
-223449,UZB,Iroda Makhamatjonova,F,U,,2002
-236992,RUS,Sofia Sokolova,F,U,,1991
-237470,SUI,Giada Ciampa,F,U,,1991
-237471,UKR,Mariia Nikitash,F,U,,1991
-223447,GER,Kim Michaela Zahraj,F,U,,1991
+223282,TUR,Zeynep Sila Ege,F,U,,
+233748,TUR,Leyla Nilufer Elmas,F,U,,
+234249,TUR,Alina Muradow,F,U,,
+234250,TUR,Zehra Canbaz,F,U,,
+234507,NED,Amber Maatman,F,U,,
+234508,UKR,Dasha Zhabotina,F,U,,
+235163,TUR,Zeynep Ekin Barut,F,U,,
+235164,SVK,Noemi Babikova,F,U,,
+223310,TUR,Eylul Akkoyun,F,U,,
+236991,GER,Maxine Sophie Kammerer,F,U,,
+223449,UZB,Iroda Makhamatjonova,F,U,,
+236992,RUS,Sofia Sokolova,F,U,,
+237470,SUI,Giada Ciampa,F,U,,
+237471,UKR,Mariia Nikitash,F,U,,
+223447,GER,Kim Michaela Zahraj,F,U,,
 220918,CZE,Rozalie Dohnalova,F,R,,2002
-238072,UZB,Kamola Amanova,F,U,,1991
-238084,FRA,Delia Gaillard,F,U,,1991
+238072,UZB,Kamola Amanova,F,U,,
+238084,FRA,Delia Gaillard,F,U,,
 221756,GER,Gina Isabell Trautvetter,F,U,,1998
-238085,UKR,Lika Peresypkina,F,U,,2002
-238086,TUR,Bahar Kulekci,F,U,,1998
-238087,ITA,Alessia Camerano,F,U,,2002
-238088,USA,Jacqueline Soloveychik,F,U,,1998
+238085,UKR,Lika Peresypkina,F,U,,
+238086,TUR,Bahar Kulekci,F,U,,
+238087,ITA,Alessia Camerano,F,U,,
+238088,USA,Jacqueline Soloveychik,F,U,,
 215030,TUR,Zehra Lara Tekbas,F,U,,2000
-238208,NLD,Rachel Gans,F,U,,2000
-239130,GER,Liva Yildiz,F,U,,2000
+238208,NLD,Rachel Gans,F,U,,
+239130,GER,Liva Yildiz,F,U,,
 219927,TUR,Gozde Turhan,F,U,,2001
-239184,GER,Fabienne Kim Degroot,F,U,,2001
-223421,NED,Coco Bosman,F,U,,2002
-239430,NED,Liena Ammar,F,U,,2001
-239431,TUR,Defne Ursan,F,U,,2001
-223450,TUR,Ceylin Ipek,F,U,,2001
-239433,TUR,Rana Bozdag,F,U,,2001
-239434,ESP,Rocio Martinez Azcarraga,F,U,,2001
-223108,GER,Cora Stefanie Barber,F,U,,2001
-239435,ITA,Virginia Ferrara,F,U,,2002
-239447,TUR,Nehir Kurbet,F,U,,2001
-239448,TUR,Baharnaz Apis,F,U,,2001
-239449,UKR,Krystyna Pochtovyk,F,U,,2002
-239450,TUR,Nehir Ergun,F,U,,2001
-224484,TUR,Mercan Saygi,F,U,,2001
-239451,RUS,Anastasia Uspenskaia,F,U,,2002
-239452,GER,Tara Kruppa,F,U,,2001
-239471,BUL,Bilyana Milcheva,F,U,,2001
-239494,TUR,Elif Albayrak,F,U,,2002
+239184,GER,Fabienne Kim Degroot,F,U,,
+223421,NED,Coco Bosman,F,U,,
+239430,NED,Liena Ammar,F,U,,
+239431,TUR,Defne Ursan,F,U,,
+223450,TUR,Ceylin Ipek,F,U,,
+239433,TUR,Rana Bozdag,F,U,,
+239434,ESP,Rocio Martinez Azcarraga,F,U,,
+223108,GER,Cora Stefanie Barber,F,U,,
+239435,ITA,Virginia Ferrara,F,U,,
+239447,TUR,Nehir Kurbet,F,U,,
+239448,TUR,Baharnaz Apis,F,U,,
+239449,UKR,Krystyna Pochtovyk,F,U,,
+239450,TUR,Nehir Ergun,F,U,,
+224484,TUR,Mercan Saygi,F,U,,
+239451,RUS,Anastasia Uspenskaia,F,U,,
+239452,GER,Tara Kruppa,F,U,,
+239471,BUL,Bilyana Milcheva,F,U,,
+239494,TUR,Elif Albayrak,F,U,,
 219956,UKR,Yelyzaveta Rachenko,F,U,,1999
-236993,SUI,Lia Mosimann,F,U,,1999
-236994,IRI,Negar Habibi Ameshi,F,U,,1999
-241018,UKR,Aliesia Reva,F,U,,2002
-241019,UKR,Sofiia Zhylchuk,F,U,,1999
-241020,BLR,Valeryia Vasilyeva,F,U,,2002
-241021,UKR,Darya Volkova,F,U,,2002
-241023,UKR,Daria Diatlova,F,U,,1999
-245076,UKR,Anastasiya Lopata,F,U,,2002
-245077,UKR,Yelyzaveta Kotliar,F,U,,2002
-245078,UKR,Sofiia Paladi,F,U,,1999
-245093,UKR,Alina Cherniaieva,F,U,,1999
-245094,ROU,Lavinia Tanasie,F,U,,2002
-245095,UKR,Mariya Vyshkina,F,U,,1999
-245096,UKR,Anna Sharandachenko,F,U,,1999
-245097,UKR,Mariya Sharandachenko,F,U,,1999
-245098,UKR,Sofiia Mykhailets,F,U,,2002
-245099,BLR,Palina Saulevich,F,U,,2002
-233741,USA,Maya Joint,F,U,,1999
-234222,USA,Liv Hovde,F,U,,1999
-234251,USA,Gabriella Soliman,F,U,,1999
-234252,USA,Marley Lambert,F,U,,1999
-234253,USA,Isabella Chhiv,F,U,,1999
-238209,USA,Piper Charney,F,U,,1999
-238210,USA,Andrea Burkhardt,F,U,,1999
+236993,SUI,Lia Mosimann,F,U,,
+236994,IRI,Negar Habibi Ameshi,F,U,,
+241018,UKR,Aliesia Reva,F,U,,
+241019,UKR,Sofiia Zhylchuk,F,U,,
+241020,BLR,Valeryia Vasilyeva,F,U,,
+241021,UKR,Darya Volkova,F,U,,
+241023,UKR,Daria Diatlova,F,U,,
+245076,UKR,Anastasiya Lopata,F,U,,
+245077,UKR,Yelyzaveta Kotliar,F,U,,
+245078,UKR,Sofiia Paladi,F,U,,
+245093,UKR,Alina Cherniaieva,F,U,,
+245094,ROU,Lavinia Tanasie,F,U,,
+245095,UKR,Mariya Vyshkina,F,U,,
+245096,UKR,Anna Sharandachenko,F,U,,
+245097,UKR,Mariya Sharandachenko,F,U,,
+245098,UKR,Sofiia Mykhailets,F,U,,
+245099,BLR,Palina Saulevich,F,U,,
+233741,USA,Maya Joint,F,U,,
+234222,USA,Liv Hovde,F,U,,
+234251,USA,Gabriella Soliman,F,U,,
+234252,USA,Marley Lambert,F,U,,
+234253,USA,Isabella Chhiv,F,U,,
+238209,USA,Piper Charney,F,U,,
+238210,USA,Andrea Burkhardt,F,U,,
 201768,USA,Gail Falkenberg,F,U,,1947
-223146,USA,Isabella Barrera Aguirre,F,U,,1947
-238211,CRI,Elena Salazar Roca,F,U,,1947
-223453,USA,Brooklyn Olson,F,U,,2002
-239103,USA,Mckenna Schaefbauer,F,U,,1947
-239104,USA,Kara Leigh Leonard,F,U,,1947
-239133,USA,Taylor Nix,F,U,,1947
-239472,USA,Margaret Navarro,F,U,,1947
-239437,USA,Ahmani Guichard,F,U,,1947
-223452,USA,Emma Charney,F,U,,1947
-223074,USA,Qavia Lopez,F,U,,1947
-240168,USA,Ellie Myers,F,U,,1947
-240169,USA,Cameron Agapito,F,U,,1947
-223024,AUS,Grace Schumacher,F,U,,2002
+223146,USA,Isabella Barrera Aguirre,F,U,,
+238211,CRI,Elena Salazar Roca,F,U,,
+223453,USA,Brooklyn Olson,F,U,,
+239103,USA,Mckenna Schaefbauer,F,U,,
+239104,USA,Kara Leigh Leonard,F,U,,
+239133,USA,Taylor Nix,F,U,,
+239472,USA,Margaret Navarro,F,U,,
+239437,USA,Ahmani Guichard,F,U,,
+223452,USA,Emma Charney,F,U,,
+223074,USA,Qavia Lopez,F,U,,
+240168,USA,Ellie Myers,F,U,,
+240169,USA,Cameron Agapito,F,U,,
+223024,AUS,Grace Schumacher,F,U,,
 214110,AUS,Emily Burns,F,R,,1994
-223144,AUS,Ellen Shanahan,F,U,,2002
-223185,AUS,Catherine Krueger,F,U,,1994
-223183,AUS,Mia Repac,F,U,,1994
+223144,AUS,Ellen Shanahan,F,U,,
+223185,AUS,Catherine Krueger,F,U,,
+223183,AUS,Mia Repac,F,U,,
 211924,AUS,Andrea Dikosavljevic,F,R,,1996
-223186,AUS,Ruby Culley,F,U,,1994
-223187,AUS,Saanvi Tak,F,U,,1994
-223188,AUS,Ella Nurkic,F,U,,1996
-223189,AUS,Helena Jokanovic,F,U,,1994
-223190,AUS,Skye Royall,F,U,,1994
-223191,AUS,Shanelle Iaconi,F,U,,1996
-223192,AUS,Rhea Makesar,F,U,,1994
-223193,AUS,Jessie Culley,F,U,,1996
-223194,AUS,Taylah Preston,F,U,,1994
-223195,AUS,Lara Tovich,F,U,,1996
-223209,MNE,Ksenija Ana Vujacic,F,U,,1994
-223210,AUS,Lily Fairclough,F,U,,1996
-223254,AUS,Megan Markov,F,U,,1994
-223255,AUS,Olivia Quigley,F,U,,1994
-223256,AUS,Elana Nasr,F,U,,1996
-223257,AUS,Juliette Robinson,F,U,,1994
-223258,AUS,Cydney Crumbie,F,U,,1996
-223259,AUS,Heidi Evans,F,U,,1994
-223260,AUS,Alana Repanich,F,U,,1994
-223204,AUS,Kelsey Lewis,F,U,,1996
-223261,AUS,Katelyn Kissack,F,U,,1994
-223291,BRA,Paola Ueno Dalmonico,F,U,,1996
-223293,BRA,Luiza Rodrigues Daud,F,U,,1994
-223294,BRA,Maria Luisa Cusma Bloot,F,U,,1994
-223345,SLO,Sara Cizmic,F,U,,1994
-223346,BUL,Katrin Stefanova,F,U,,1994
-223347,BUL,Marina Hristova,F,U,,1994
-223167,BUL,Ines Mircheva,F,U,,1994
-223320,BUL,Dalia Georgieva,F,U,,1994
-223322,BUL,Katerina Dimitrova,F,U,,1994
-223350,BUL,Helin Shefked,F,U,,1994
-223352,BUL,Darya Velikova,F,U,,1994
-223353,BUL,Emilia Lubenova,F,U,,1994
-223354,CRO,Sara Zalukar,F,U,,1994
-223356,CRO,Ria Dernikovic,F,U,,1994
-223357,CRO,Greta Maric,F,U,,1994
+223186,AUS,Ruby Culley,F,U,,
+223187,AUS,Saanvi Tak,F,U,,
+223188,AUS,Ella Nurkic,F,U,,
+223189,AUS,Helena Jokanovic,F,U,,
+223190,AUS,Skye Royall,F,U,,
+223191,AUS,Shanelle Iaconi,F,U,,
+223192,AUS,Rhea Makesar,F,U,,
+223193,AUS,Jessie Culley,F,U,,
+223194,AUS,Taylah Preston,F,U,,
+223195,AUS,Lara Tovich,F,U,,
+223209,MNE,Ksenija Ana Vujacic,F,U,,
+223210,AUS,Lily Fairclough,F,U,,
+223254,AUS,Megan Markov,F,U,,
+223255,AUS,Olivia Quigley,F,U,,
+223256,AUS,Elana Nasr,F,U,,
+223257,AUS,Juliette Robinson,F,U,,
+223258,AUS,Cydney Crumbie,F,U,,
+223259,AUS,Heidi Evans,F,U,,
+223260,AUS,Alana Repanich,F,U,,
+223204,AUS,Kelsey Lewis,F,U,,
+223261,AUS,Katelyn Kissack,F,U,,
+223291,BRA,Paola Ueno Dalmonico,F,U,,
+223293,BRA,Luiza Rodrigues Daud,F,U,,
+223294,BRA,Maria Luisa Cusma Bloot,F,U,,
+223345,SLO,Sara Cizmic,F,U,,
+223346,BUL,Katrin Stefanova,F,U,,
+223347,BUL,Marina Hristova,F,U,,
+223167,BUL,Ines Mircheva,F,U,,
+223320,BUL,Dalia Georgieva,F,U,,
+223322,BUL,Katerina Dimitrova,F,U,,
+223350,BUL,Helin Shefked,F,U,,
+223352,BUL,Darya Velikova,F,U,,
+223353,BUL,Emilia Lubenova,F,U,,
+223354,CRO,Sara Zalukar,F,U,,
+223356,CRO,Ria Dernikovic,F,U,,
+223357,CRO,Greta Maric,F,U,,
 221589,CZE,Agata Cerna,F,U,,2004
-223359,CZE,Amelie Smejkalova,F,U,,2004
-223068,EGY,Ganna Elassar,F,U,,2004
+223359,CZE,Amelie Smejkalova,F,U,,
+223068,EGY,Ganna Elassar,F,U,,
 220902,BIH,Zaneta Malinovic,F,R,,2001
-222789,GER,Majda Ajradini,F,U,,2001
-223081,ROU,Stefania Pantaia,F,U,,2001
-223165,EGY,Hagar Ramadan,F,U,,2001
-223262,CZE,Dominika Talpova,F,U,,1996
-223263,GER,Maxima Reule,F,U,,2001
-223265,EGY,Kenzy Abdelaal,F,U,,1996
-223266,EGY,Nadin Amr,F,U,,2001
-223196,EGY,Sedra Elkhurashy,F,U,,2001
-223362,EGY,Rina Hosni,F,U,,2001
-223363,GBR,Carla Nokes,F,U,,2001
-223364,KAZ,Hatshepsut Assanova,F,U,,2001
-223366,RUS,Marina Popova,F,U,,2001
-223368,MEX,Amelie Claire Montalvo Lundy,F,U,,1996
-225849,EGY,Jana Ahakim,F,U,,2001
-223092,SVK,Klara Sameliak,F,U,,2001
-223084,AUS,Milan Krish,F,U,,2001
-223094,ITA,Cristina Pescucci,F,U,,1996
-223095,AUT,Sonya Hopfensperger,F,U,,2001
-223096,BRA,Juliana Sperb,F,U,,2001
-223141,ESP,Sara Dols,F,U,,1996
-223147,ESP,Paola Moreno Bautista,F,U,,1996
-223369,ESP,Simona Karlsson Hantzis,F,U,,1996
-223371,IRL,Celine Simunyu,F,U,,1996
-223378,ESP,Mar Ribera Orquin,F,U,,2001
-223329,ESP,Maria Mere I Pages,F,U,,2001
-223382,ESP,Mar Pi Vilanova,F,U,,2001
-223383,ESP,Jana Rovira Alier,F,U,,1996
-223385,ESP,Taisia Bolsova Zadoinov,F,U,,2001
-223386,ESP,Margarita Roshka,F,U,,2001
-223387,RUS,Taisia Yakunina,F,U,,2001
-223388,ESP,Martina Sanchis Medina,F,U,,2001
-223389,USA,Emily De Oliveira,F,U,,1996
-223121,ESP,Natalia Mora Ballo,F,U,,2001
-223679,ESP,Tabatha Suarez,F,U,,1996
-223680,GBR,Hannah Rylatt,F,U,,1996
-223681,ESP,Paula Rodriguez Gregoris,F,U,,1996
-223682,GBR,Hannah Read,F,U,,1996
-225852,ESP,Alanna Di Francesco,F,U,,2001
-225853,ESP,Kateryna Bennasar Motilla,F,U,,2001
+222789,GER,Majda Ajradini,F,U,,
+223081,ROU,Stefania Pantaia,F,U,,
+223165,EGY,Hagar Ramadan,F,U,,
+223262,CZE,Dominika Talpova,F,U,,
+223263,GER,Maxima Reule,F,U,,
+223265,EGY,Kenzy Abdelaal,F,U,,
+223266,EGY,Nadin Amr,F,U,,
+223196,EGY,Sedra Elkhurashy,F,U,,
+223362,EGY,Rina Hosni,F,U,,
+223363,GBR,Carla Nokes,F,U,,
+223364,KAZ,Hatshepsut Assanova,F,U,,
+223366,RUS,Marina Popova,F,U,,
+223368,MEX,Amelie Claire Montalvo Lundy,F,U,,
+225849,EGY,Jana Ahakim,F,U,,
+223092,SVK,Klara Sameliak,F,U,,
+223084,AUS,Milan Krish,F,U,,
+223094,ITA,Cristina Pescucci,F,U,,
+223095,AUT,Sonya Hopfensperger,F,U,,
+223096,BRA,Juliana Sperb,F,U,,
+223141,ESP,Sara Dols,F,U,,
+223147,ESP,Paola Moreno Bautista,F,U,,
+223369,ESP,Simona Karlsson Hantzis,F,U,,
+223371,IRL,Celine Simunyu,F,U,,
+223378,ESP,Mar Ribera Orquin,F,U,,
+223329,ESP,Maria Mere I Pages,F,U,,
+223382,ESP,Mar Pi Vilanova,F,U,,
+223383,ESP,Jana Rovira Alier,F,U,,
+223385,ESP,Taisia Bolsova Zadoinov,F,U,,
+223386,ESP,Margarita Roshka,F,U,,
+223387,RUS,Taisia Yakunina,F,U,,
+223388,ESP,Martina Sanchis Medina,F,U,,
+223389,USA,Emily De Oliveira,F,U,,
+223121,ESP,Natalia Mora Ballo,F,U,,
+223679,ESP,Tabatha Suarez,F,U,,
+223680,GBR,Hannah Rylatt,F,U,,
+223681,ESP,Paula Rodriguez Gregoris,F,U,,
+223682,GBR,Hannah Read,F,U,,
+225852,ESP,Alanna Di Francesco,F,U,,
+225853,ESP,Kateryna Bennasar Motilla,F,U,,
 221582,ESP,Carla Del Barrio,F,U,,2001
-225856,ESP,Alejandra Ramirez Botella,F,U,,2001
-223393,ESP,Carmen Llopis Fabra,F,U,,2001
+225856,ESP,Alejandra Ramirez Botella,F,U,,
+223393,ESP,Carmen Llopis Fabra,F,U,,
 221732,ESP,Lara Marco Mas,F,U,,2001
-223394,ESP,Lidon Amurrio Fradejas,F,U,,2001
-223395,ESP,Lucia Gomez Delgado,F,U,,2001
-223396,ESP,Claudia Pastor Sancho,F,U,,2001
-223296,FRA,Marion Deloziere,F,U,,2001
-223297,FRA,Tea Zivic,F,U,,2001
-223299,CAN,Longi Noelly Nsimba,F,U,,2001
-223098,GER,Samra Hamidovic,F,U,,2001
-223099,GER,Pauline Ernstberger,F,U,,2001
-223100,GER,Marie Vogt,F,U,,2001
-223101,GER,Marisa Schmidt,F,U,,2001
-223211,GER,Martina Markov,F,U,,2001
-223212,GER,Dana Heimen,F,U,,2001
+223394,ESP,Lidon Amurrio Fradejas,F,U,,
+223395,ESP,Lucia Gomez Delgado,F,U,,
+223396,ESP,Claudia Pastor Sancho,F,U,,
+223296,FRA,Marion Deloziere,F,U,,
+223297,FRA,Tea Zivic,F,U,,
+223299,CAN,Longi Noelly Nsimba,F,U,,
+223098,GER,Samra Hamidovic,F,U,,
+223099,GER,Pauline Ernstberger,F,U,,
+223100,GER,Marie Vogt,F,U,,
+223101,GER,Marisa Schmidt,F,U,,
+223211,GER,Martina Markov,F,U,,
+223212,GER,Dana Heimen,F,U,,
 221738,LTU,Patricija Dubinoviciute,F,U,,2003
-223269,SVK,Lucia Hanesova,F,U,,2003
-223331,ROU,Anca Alexia Todoni,F,U,,2003
-223403,ITA,Emma Penne,F,U,,2003
-223405,CZE,Magdalena Navratilova,F,U,,2003
+223269,SVK,Lucia Hanesova,F,U,,
+223331,ROU,Anca Alexia Todoni,F,U,,
+223403,ITA,Emma Penne,F,U,,
+223405,CZE,Magdalena Navratilova,F,U,,
 220101,CZE,Natalie Kohoutkova,F,U,,1999
-223199,IND,Lakshanya Choudhary,F,U,,1999
-223200,IND,Renee Singh,F,U,,1999
-223412,ITA,Camilla Franzin,F,U,,1999
-223413,SLO,Maja Radisic,F,U,,1999
-223414,ITA,Sara Taboga,F,U,,1999
-227092,ITA,Sveva Bernardi,F,U,,1999
-227093,ITA,Alessandra Teodosescu,F,U,,1999
-223270,JPN,Emiri Itagaki,F,U,,1999
-223271,JPN,Karen Tsutsumi,F,U,,2001
-223272,JPN,Satomi Hirano,F,U,,2001
-223273,JPN,Misa Okawa,F,U,,1999
-223102,LVA,Nicole Geller,F,U,,1999
-223103,GBR,Adeola Greatorex,F,U,,1999
-223104,LVA,Alise Vindiga,F,U,,1999
-223301,MEX,Jennifer Sabrina Moreno Rodriguez,F,U,,1999
-223066,USA,Elena Keitt,F,U,,1999
+223199,IND,Lakshanya Choudhary,F,U,,
+223200,IND,Renee Singh,F,U,,
+223412,ITA,Camilla Franzin,F,U,,
+223413,SLO,Maja Radisic,F,U,,
+223414,ITA,Sara Taboga,F,U,,
+227092,ITA,Sveva Bernardi,F,U,,
+227093,ITA,Alessandra Teodosescu,F,U,,
+223270,JPN,Emiri Itagaki,F,U,,
+223271,JPN,Karen Tsutsumi,F,U,,
+223272,JPN,Satomi Hirano,F,U,,
+223273,JPN,Misa Okawa,F,U,,
+223102,LVA,Nicole Geller,F,U,,
+223103,GBR,Adeola Greatorex,F,U,,
+223104,LVA,Alise Vindiga,F,U,,
+223301,MEX,Jennifer Sabrina Moreno Rodriguez,F,U,,
+223066,USA,Elena Keitt,F,U,,
 220050,USA,Madison Harrison,F,U,,1996
-223105,USA,Emma Staker,F,U,,1999
-223106,USA,Kiana Thompson,F,U,,1999
-223107,USA,Whitney King,F,U,,1999
-223202,BRA,Andressa Silva Gomes,F,U,,1999
-223148,CAN,Soline Hupin Marler,F,U,,1999
-223149,ARG,Martina Rivero,F,U,,1999
-223168,USA,Mary Stoiana,F,U,,1996
-223061,RUS,Maria Nikitina,F,U,,1996
-223063,RUS,Katerina Petrova,F,U,,1999
-223287,MEX,Maria Fernanda Navarro,F,U,,1996
+223105,USA,Emma Staker,F,U,,
+223106,USA,Kiana Thompson,F,U,,
+223107,USA,Whitney King,F,U,,
+223202,BRA,Andressa Silva Gomes,F,U,,
+223148,CAN,Soline Hupin Marler,F,U,,
+223149,ARG,Martina Rivero,F,U,,
+223168,USA,Mary Stoiana,F,U,,
+223061,RUS,Maria Nikitina,F,U,,
+223063,RUS,Katerina Petrova,F,U,,
+223287,MEX,Maria Fernanda Navarro,F,U,,
 221730,NED,Bo Luttikhuis,F,U,,1999
 214056,COL,Angelica Maria Ochoa Martinez,F,U,,1997
 206306,PUR,Koralie Etienne,F,R,,1996
-223423,NED,Sophie Schouten,F,U,,1996
-223424,NED,Marente Sijbesma,F,U,,1996
-223427,NED,Annelin Bakker,F,U,,1996
+223423,NED,Sophie Schouten,F,U,,
+223424,NED,Marente Sijbesma,F,U,,
+223427,NED,Annelin Bakker,F,U,,
 219358,NZL,Kelly Southwood,F,U,,1994
-223158,NZL,Shona Nakano,F,U,,1994
-223159,NZL,Vivian Yang,F,U,,1999
-223160,AUS,Catherine Aulia,F,U,,1999
-223161,NZL,Jade Otway,F,U,,1994
-223162,NZL,Sarah Weekley,F,U,,1994
-223163,NZL,Elyse Tse,F,U,,1994
-223169,AUS,Priscilla Stojanovska,F,U,,1994
-223170,NZL,Isabelle Coman,F,U,,1994
-223171,NZL,Olivia Olivia Addis,F,U,,1994
-223172,AUS,Cayleigh Eddy,F,U,,1994
-223173,NZL,Abby Mason,F,U,,1994
-223174,NZL,Emma Jane Barclay,F,U,,1994
-223429,PUR,Madalena Marques,F,U,,1994
-223430,PUR,Joana Indio,F,U,,1994
-223432,PUR,Maria Pinto,F,U,,1994
-223434,BAN,Jhilik Chakma,F,U,,1994
-223335,CAN,Cadence Brace,F,U,,1994
-223438,CAN,Stefanie Frias Da Silva,F,U,,1994
-223275,RSA,Tiffany Anne Beukes,F,U,,1994
-223276,RSA,Rebecca Brody,F,U,,1994
-223277,RSA,Makayla Loubser,F,U,,1994
-223278,RSA,Mikayla Plitt,F,U,,1994
-223279,RSA,Sinazo Solani,F,U,,1999
-223280,RSA,Anastasia Pesic,F,U,,1994
-223213,UZB,Khonzoda Murodkhujaeva,F,U,,1994
-223109,RUS,Kristina Voronina,F,U,,1994
-223110,KAZ,Polina Dolgova,F,U,,1994
-223111,RUS,Anna Protsenko,F,U,,1994
-223112,RUS,Angelina Osminkina,F,U,,1994
-223290,RUS,Violetta Borodina,F,U,,1999
-223303,RUS,Darina Leonenko,F,U,,1999
-223305,RUS,Vlada Lenskaya Bogomolova,F,U,,1994
-223306,RUS,Evdokiia Popova,F,U,,1994
-223337,SLO,Petja Drame,F,U,,1999
-223338,SLO,Tara Gorinsek,F,U,,1994
-223339,SLO,Tjasa Klevisar,F,U,,1994
-223440,GER,Anamarija Sljivic,F,U,,1994
-223442,SLO,Alja Belinger,F,U,,1999
-223443,SLO,Annika Planinsek,F,U,,1994
-223113,THA,Yatawee Chimcham,F,U,,1994
-223151,THA,Pawinee Ruamrak,F,U,,1994
-223152,THA,Pimrada Jattavapornvanit,F,U,,1994
-223070,RUS,Angelina Daniukova,F,U,,1999
-223085,SLO,Tara Katarina Milic,F,U,,1994
-223023,ESP,Bruna Casasampere Escoda,F,U,,1994
-223114,ITA,Giulia Barberini,F,U,,1994
-223115,ITA,Vanessa Sabatini,F,U,,1994
-223143,USA,Sasha Wood,F,U,,1994
-223176,ITA,Giulia Finocchiaro,F,U,,1994
-223342,ITA,Alice Benvegnu,F,U,,1994
-225859,CZE,Tereza Kucerova,F,U,,1994
-223072,CZE,Daniela Jelinkova,F,U,,1999
-228106,FRA,Charlotte Gisclon,F,U,,1994
+223158,NZL,Shona Nakano,F,U,,
+223159,NZL,Vivian Yang,F,U,,
+223160,AUS,Catherine Aulia,F,U,,
+223161,NZL,Jade Otway,F,U,,
+223162,NZL,Sarah Weekley,F,U,,
+223163,NZL,Elyse Tse,F,U,,
+223169,AUS,Priscilla Stojanovska,F,U,,
+223170,NZL,Isabelle Coman,F,U,,
+223171,NZL,Olivia Olivia Addis,F,U,,
+223172,AUS,Cayleigh Eddy,F,U,,
+223173,NZL,Abby Mason,F,U,,
+223174,NZL,Emma Jane Barclay,F,U,,
+223429,PUR,Madalena Marques,F,U,,
+223430,PUR,Joana Indio,F,U,,
+223432,PUR,Maria Pinto,F,U,,
+223434,BAN,Jhilik Chakma,F,U,,
+223335,CAN,Cadence Brace,F,U,,
+223438,CAN,Stefanie Frias Da Silva,F,U,,
+223275,RSA,Tiffany Anne Beukes,F,U,,
+223276,RSA,Rebecca Brody,F,U,,
+223277,RSA,Makayla Loubser,F,U,,
+223278,RSA,Mikayla Plitt,F,U,,
+223279,RSA,Sinazo Solani,F,U,,
+223280,RSA,Anastasia Pesic,F,U,,
+223213,UZB,Khonzoda Murodkhujaeva,F,U,,
+223109,RUS,Kristina Voronina,F,U,,
+223110,KAZ,Polina Dolgova,F,U,,
+223111,RUS,Anna Protsenko,F,U,,
+223112,RUS,Angelina Osminkina,F,U,,
+223290,RUS,Violetta Borodina,F,U,,
+223303,RUS,Darina Leonenko,F,U,,
+223305,RUS,Vlada Lenskaya Bogomolova,F,U,,
+223306,RUS,Evdokiia Popova,F,U,,
+223337,SLO,Petja Drame,F,U,,
+223338,SLO,Tara Gorinsek,F,U,,
+223339,SLO,Tjasa Klevisar,F,U,,
+223440,GER,Anamarija Sljivic,F,U,,
+223442,SLO,Alja Belinger,F,U,,
+223443,SLO,Annika Planinsek,F,U,,
+223113,THA,Yatawee Chimcham,F,U,,
+223151,THA,Pawinee Ruamrak,F,U,,
+223152,THA,Pimrada Jattavapornvanit,F,U,,
+223070,RUS,Angelina Daniukova,F,U,,
+223085,SLO,Tara Katarina Milic,F,U,,
+223023,ESP,Bruna Casasampere Escoda,F,U,,
+223114,ITA,Giulia Barberini,F,U,,
+223115,ITA,Vanessa Sabatini,F,U,,
+223143,USA,Sasha Wood,F,U,,
+223176,ITA,Giulia Finocchiaro,F,U,,
+223342,ITA,Alice Benvegnu,F,U,,
+225859,CZE,Tereza Kucerova,F,U,,
+223072,CZE,Daniela Jelinkova,F,U,,
+228106,FRA,Charlotte Gisclon,F,U,,
 200712,CZE,Katerina Kroupova,F,U,,1974
-223025,BRA,Annabela Da Assis Ferreira Brito,F,U,,1999
-223205,FRA,Justine Da Costa,F,U,,1974
-223026,INA,Justmin Da Costa,F,U,,1999
-223027,VEN,Maria Jose Da Costa,F,U,,1974
-223028,BRA,Maria Fernanda Da Costa Dalcul,F,U,,1999
-223029,VEN,Andrea Alejandra Da Costa Rojas,F,U,,1974
-223030,INA,Andi Nadila Faatin,F,U,,1974
-223031,ITA,Aurora Fabbri,F,U,,1974
-223032,LUX,Leila Fabbri,F,U,,1999
-223033,ITA,Perla Fabbri,F,U,,1974
-223034,ITA,Grazia Fabbrizi,F,U,,1999
-223035,KOR,Ha Ga Yeong,F,U,,1974
-223036,HUN,Nora Gaal,F,U,,1999
-223037,HUN,Diana Gaal,F,U,,1974
-223038,IND,Geetaarthi Sunaina Gaba,F,U,,1999
-223039,BEL,Martine Gaasch Van Hemelryck,F,U,,1974
-223040,FRA,Philippine Gabalda,F,U,,1999
-223041,CZE,Tereza Gabajova,F,U,,1974
-223042,KOR,Gayoung Ha,F,U,,1999
-223043,KOR,Hee Jin Ha,F,U,,1974
-223044,CAN,Kaitlyn Ha,F,U,,1999
-223045,HKG,Kyrstin Kieu Oanh Ha,F,U,,1974
-223046,KOR,Sun Min Ha,F,U,,1999
-223047,USA,Lauren T Ha,F,U,,1974
-223048,MAR,Meryem Jaaidan,F,U,,1999
-223049,DEN,Laura Marie Haagen,F,U,,1974
-223050,IND,Sanskruti Jaangle,F,U,,1999
-223051,FIN,Eeva Jaakkola,F,U,,1974
-223052,FIN,Eija Jaatinen,F,U,,1999
-223053,FIN,Kaisa Jaaskelainen,F,U,,1974
-223054,PAK,Farkhanda Jabeen,F,U,,1999
-223055,UZB,Shakhnoza Jabarova,F,U,,1974
-223056,RUS,Anna Kabanova,F,U,,1999
-223057,FIN,Anna Kabanen,F,U,,1974
-223058,RUS,Ekaterina Kabanova,F,U,,1999
-223059,SWE,Diana La,F,U,,1974
-223060,USA,Brinlea La Barge,F,U,,1974
+223025,BRA,Annabela Da Assis Ferreira Brito,F,U,,
+223205,FRA,Justine Da Costa,F,U,,
+223026,INA,Justmin Da Costa,F,U,,
+223027,VEN,Maria Jose Da Costa,F,U,,
+223028,BRA,Maria Fernanda Da Costa Dalcul,F,U,,
+223029,VEN,Andrea Alejandra Da Costa Rojas,F,U,,
+223030,INA,Andi Nadila Faatin,F,U,,
+223031,ITA,Aurora Fabbri,F,U,,
+223032,LUX,Leila Fabbri,F,U,,
+223033,ITA,Perla Fabbri,F,U,,
+223034,ITA,Grazia Fabbrizi,F,U,,
+223035,KOR,Ha Ga Yeong,F,U,,
+223036,HUN,Nora Gaal,F,U,,
+223037,HUN,Diana Gaal,F,U,,
+223038,IND,Geetaarthi Sunaina Gaba,F,U,,
+223039,BEL,Martine Gaasch Van Hemelryck,F,U,,
+223040,FRA,Philippine Gabalda,F,U,,
+223041,CZE,Tereza Gabajova,F,U,,
+223042,KOR,Gayoung Ha,F,U,,
+223043,KOR,Hee Jin Ha,F,U,,
+223044,CAN,Kaitlyn Ha,F,U,,
+223045,HKG,Kyrstin Kieu Oanh Ha,F,U,,
+223046,KOR,Sun Min Ha,F,U,,
+223047,USA,Lauren T Ha,F,U,,
+223048,MAR,Meryem Jaaidan,F,U,,
+223049,DEN,Laura Marie Haagen,F,U,,
+223050,IND,Sanskruti Jaangle,F,U,,
+223051,FIN,Eeva Jaakkola,F,U,,
+223052,FIN,Eija Jaatinen,F,U,,
+223053,FIN,Kaisa Jaaskelainen,F,U,,
+223054,PAK,Farkhanda Jabeen,F,U,,
+223055,UZB,Shakhnoza Jabarova,F,U,,
+223056,RUS,Anna Kabanova,F,U,,
+223057,FIN,Anna Kabanen,F,U,,
+223058,RUS,Ekaterina Kabanova,F,U,,
+223059,SWE,Diana La,F,U,,
+223060,USA,Brinlea La Barge,F,U,,
 221751,ITA,Elena Raffaeta,F,U,,2002
-223062,GER,Stella Jurina,F,U,,2002
-223071,ITA,Gloria Contrino,F,U,,2002
-223073,TUR,Elif Sanem Karadag,F,U,,2002
-223116,RUS,Maria Simonenko,F,U,,2002
-223117,BUL,Mihaela Tsoneva,F,U,,2002
-223119,TUR,Selin Lidya Sepken,F,U,,1999
-223177,RUS,Inga Komleva,F,U,,1999
-223206,UKR,Oryna Stoliarchuk,F,U,,2002
-223214,CHN,Zijun Jiang,F,U,,2002
-223215,TUR,Lara Onal,F,U,,2002
-223156,RUS,Ksenia Agureeva,F,U,,2002
-223157,RUS,Valeria Monko,F,U,,2002
-223312,TUR,Asli Yagmur Kunduk,F,U,,2002
-223313,RUS,Angelina Mysakova,F,U,,2002
-223314,TUR,Simten Karaosmanoglu,F,U,,2002
-223315,TKM,Dilara Sultanova,F,U,,2002
-225861,BUL,Viktoria Veleva,F,U,,2002
+223062,GER,Stella Jurina,F,U,,
+223071,ITA,Gloria Contrino,F,U,,
+223073,TUR,Elif Sanem Karadag,F,U,,
+223116,RUS,Maria Simonenko,F,U,,
+223117,BUL,Mihaela Tsoneva,F,U,,
+223119,TUR,Selin Lidya Sepken,F,U,,
+223177,RUS,Inga Komleva,F,U,,
+223206,UKR,Oryna Stoliarchuk,F,U,,
+223214,CHN,Zijun Jiang,F,U,,
+223215,TUR,Lara Onal,F,U,,
+223156,RUS,Ksenia Agureeva,F,U,,
+223157,RUS,Valeria Monko,F,U,,
+223312,TUR,Asli Yagmur Kunduk,F,U,,
+223313,RUS,Angelina Mysakova,F,U,,
+223314,TUR,Simten Karaosmanoglu,F,U,,
+223315,TKM,Dilara Sultanova,F,U,,
+225861,BUL,Viktoria Veleva,F,U,,
 203535,TUR,Sultan Gonen,F,R,,1995
-223075,USA,Madeleine Jessup,F,U,,1995
-223216,USA,Katie Codd,F,U,,1995
-223217,USA,Amy Huang,F,U,,1995
-223451,USA,Chloe Henderson,F,U,,1995
+223075,USA,Madeleine Jessup,F,U,,
+223216,USA,Katie Codd,F,U,,
+223217,USA,Amy Huang,F,U,,
+223451,USA,Chloe Henderson,F,U,,

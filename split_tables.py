@@ -25,12 +25,12 @@ match id (match num+tourney id) <- creare
 def reformat_date(date):
     return(datetime.datetime.strptime(date, '%Y%m%d').date())
 
-def preprocessing_match(dict, file):
+def preprocessing_match(dict, file, id):
     #match_num + tourney_id
     dict["match_id"] = dict.pop("match_num")
 
-    dict["match_id"] = dict["match_id"] + "-" + dict["tourney_id"]
-    #file.write(','.join(dict.values()) + "\n")
+    dict["match_id"] =str(id) + "-" + dict["match_id"] + "-" + dict["tourney_id"]
+
     file.writerow(dict)
 
 def preprocessing_tournament(dict, file):
@@ -82,7 +82,6 @@ def create_gender_sets():
                 dict_set["male"].add(row["name"].replace("Mr ", "").replace("Mr", "").lower() + " " + row["surname"].lower())
             else:
                 dict_set["female"].add(row["name"].replace("Mrs ", "").replace("Mrs", "").lower() + " " +  row["surname"].lower())
-    print(dict_set["male"])
     male_file.close()
     female_file.close()
     return(dict_set)
@@ -145,6 +144,7 @@ set_id_date = set()
 
 sets_player_gender = create_gender_sets()
 
+match_id_count = 0
 for row in reader:
     line_match = {}
     line_tournament = {}
@@ -164,7 +164,9 @@ for row in reader:
         if attr in headers["loser_player"]:
             line_loser_player[attr] = val
 
-    preprocessing_match(line_match, match_writer)
+
+    preprocessing_match(line_match, match_writer, match_id_count)
+    match_id_count += 1
 
     if line_tournament["tourney_id"] not in set_id_tournament:
         set_id_tournament.add(line_tournament["tourney_id"])
@@ -183,6 +185,9 @@ for row in reader:
         else:
             sex_winner_player = ""
         preprocessing_player(line_winner_player, player_writer, winner_year_of_birth, sex_winner_player)
+
+    loser_year_of_birth = ""
+    winner_year_of_birth = ""
 
     if line_loser_player["loser_id"] not in set_id_player:
         set_id_player.add(line_loser_player["loser_id"])
