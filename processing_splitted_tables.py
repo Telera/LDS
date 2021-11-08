@@ -45,13 +45,6 @@ def fill_missing_sex(path_player, path_match):
     players_full = players_full[cols_order]
     return(players_full)
 
-"""
-    #players[players["sex"].isnull()]["sex"] = missing_sex_values["sex"]
-    replaced = players.merge(missing_sex_values, how='left', left_on='player_id', right_on='player')
-    replaced.drop(columns=['sex_x'], inplace=True)
-    replaced.rename(columns={'sex_y': 'sex'}, inplace=True)
-    print(replaced.info())
-"""
 
     #print(players['sex'].isnull().sum())
     #print(players.info())
