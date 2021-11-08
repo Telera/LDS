@@ -28,15 +28,22 @@ def fill_missing_sex(path_player, path_match):
 
     #print(set(winner_id) == set(loser_id))
     #both sets are equal
+
     print(winner_id)
     players_with_sex_missing = players_sex[players_sex['winner'].isin(winner_id)].sort_values(by="winner")
-    print(set(players_with_sex_missing.groupby(["winner", "loser_sex"])["loser_sex"].agg("size")) == set(players_with_sex_missing.groupby(["winner", "loser_sex"]).agg("size").sort_index()))
+    #set(players_with_sex_missing.groupby(["winner", "loser_sex"])["loser_sex"].agg("size")) == set(players_with_sex_missing.groupby(["winner", "loser_sex"]).agg("size").sort_index())
     #all players have played with people with same sex for this reason we can remove duplicates
     missing_sex_values = players_sex[players_sex['winner'].isin(winner_id)].drop_duplicates(subset="winner")
 
     missing_sex_values.drop(columns=["winner_sex", "loser"], axis=1, inplace=True)
     missing_sex_values.rename(columns={'winner': 'player', 'loser_sex': 'sex'}, inplace=True)
     print(missing_sex_values)
+
+    players_full = players.set_index("player_id").combine_first(missing_sex_values.set_index("player")).reset_index()
+    players_full.rename(columns={'index': 'player_id'}, inplace=True)
+    cols_order = ['player_id', 'country_id', 'name', 'sex', 'hand', 'ht', 'year_of_birth']
+    players_full = players_full[cols_order]
+    return(players_full)
 
 """
     #players[players["sex"].isnull()]["sex"] = missing_sex_values["sex"]
