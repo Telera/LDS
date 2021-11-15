@@ -1,6 +1,7 @@
 import csv
 import re
 import datetime
+from pathlib import Path
 
 """
 # tournament
@@ -95,9 +96,6 @@ def preprocessing_date(file, date):
     dict["year"] = tourney_date.year
     dict["quarter"] = (tourney_date.month - 1) // 3 + 1
     file.writerow(dict)
-
-#print(add_language("data2021/country_list.csv"))
-#print(geography_to_csv("data2021/countries.csv"))
 
 tennis_file = open("data2021/tennis.csv", "r")
 reader = csv.DictReader(tennis_file)
