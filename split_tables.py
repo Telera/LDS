@@ -29,7 +29,7 @@ def reformat_date(date):
 def preprocessing_match(dict, file, id):
     #match_num + tourney_id
     dict["match_id"] = dict.pop("match_num")
-
+    #match_id is composed by ID - match_id - toruney_id since match_id and tourney_id do not distinguish all the matches lines
     dict["match_id"] =str(id) + "-" + dict["match_id"] + "-" + dict["tourney_id"]
 
     file.writerow(dict)
@@ -61,8 +61,6 @@ def preprocessing_player(dict, file, year_of_birth, sex):
             dict_player["name"] = dict[key]
         if key == "winner_hand" or key == "loser_hand":
             dict_player["hand"] = dict[key]
-        if key == "winner_ht" or key == "loser_ht":
-            dict_player["ht"] = dict[key]
         if key == "winner_ioc" or key == "loser_ioc":
             dict_player["country_id"] = dict[key]
 
@@ -97,17 +95,17 @@ def preprocessing_date(file, date):
     dict["quarter"] = (tourney_date.month - 1) // 3 + 1
     file.writerow(dict)
 
-tennis_file = open("data2021/tennis.csv", "r")
+tennis_file = open("data2021/tennis_cleaned.csv", "r")
 reader = csv.DictReader(tennis_file)
 header = reader.fieldnames
 print(header)
 
 
 headers = {}
-headers["match"] = [header[0]] + header[6:8] + [header[14]] + header[21:47]
-headers["tournament"] = header[0:6] + header[47:49]
-headers["winner_player"] = [header[7]] + header[9:13]
-headers["loser_player"] = [header[14]] + header[16:20]
+headers["match"] = [header[0]] + header[6:8] + [header[13]] + header[19:45]
+headers["tournament"] = header[0:6] + header[45:47]
+headers["winner_player"] = [header[7]] + header[9:12]
+headers["loser_player"] = [header[13]] + header[15:18]
 headers["date"] = [header[5]]
 print(headers)
 
@@ -124,7 +122,7 @@ tournament_writer = csv.DictWriter(tournament_file, fieldnames=tournament_header
 tournament_writer.writeheader()
 
 player_file = open("output/player.csv", "w")
-player_header = [str.replace("winner_id" , "player_id").replace("winner_name" , "name").replace("winner_hand" , "hand").replace("winner_ht" , "ht").replace("winner_ioc", "country_id") for str in headers["winner_player"]]
+player_header = [str.replace("winner_id" , "player_id").replace("winner_name" , "name").replace("winner_hand" , "hand").replace("winner_ioc", "country_id") for str in headers["winner_player"]]
 player_header.insert(1, player_header.pop(-1))
 player_header.insert(3, "sex")
 player_header.append("year_of_birth")
