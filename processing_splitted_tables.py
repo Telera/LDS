@@ -41,7 +41,7 @@ def fill_missing_sex(path_player, path_match):
 
     players_full = players.set_index("player_id").combine_first(missing_sex_values.set_index("player")).reset_index()
     players_full.rename(columns={'index': 'player_id'}, inplace=True)
-    cols_order = ['player_id', 'country_id', 'name', 'sex', 'hand', 'ht', 'year_of_birth']
+    cols_order = ['player_id', 'country_id', 'name', 'sex', 'hand', 'year_of_birth']
     players_full = players_full[cols_order]
     return(players_full)
 
