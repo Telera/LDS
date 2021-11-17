@@ -23,7 +23,7 @@ def add_language(path):
 
     country_attribute_ind = 4
     language_attribute_ind = 15
-    num_commented_rows = 50
+    num_commented_rows = 50 #the first 50 rows are not useful for the analysis so we skip them
     file_language = open(path, "r")
     r = csv.reader(file_language, delimiter="\t")
     for skip in range(num_commented_rows):
@@ -55,7 +55,7 @@ def geography_to_csv(path, language_file):
                    'New Zeland' : 'New Zealand',
                    'Urugay' : 'Uruguay',
                    'North Macedonia' : 'Macedonia',
-                   'Unknown' : 'Malaysia'
+                   'Unknown' : 'Malaysia' #The IOC code is POC that corresponds to Pacific Oceania, not present in language.txt file so we have substituted it with Malaysia because the language is the same
                    }
     for row in countries_reader:
         geography_dict["country_ioc"] = row["country_code"]

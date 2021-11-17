@@ -82,7 +82,7 @@ def create_gender_sets():
             if player_gender == reader_male:
                 dict_set["male"].add(row["name"].replace("Mr ", "").replace("Mr", "").lower() + " " + row["surname"].lower())
             else:
-                dict_set["female"].add(row["name"].replace("Mrs ", "").replace("Mrs", "").lower() + " " +  row["surname"].lower())
+                dict_set["female"].add(row["name"].replace("Mrs ", "").replace("Mrs", "").lower() + " " + row["surname"].lower())
     male_file.close()
     female_file.close()
     return(dict_set)
