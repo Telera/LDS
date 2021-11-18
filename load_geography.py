@@ -15,13 +15,11 @@ csv_file = csv.DictReader(file_geography, delimiter=",")
 
 cnxn = pyodbc.connect(connectionString)
 cursor = cnxn.cursor()
-i = 1
 
 for line in csv_file:
     val = (line["country_ioc"], line["continent"], line["language"])
     cursor.execute(sql, val)
-    print("Inserisco riga %d" % i)
-    i = i + 1
+print("Rows inserted successfully!")
 
 file_geography.close()
 cnxn.commit()

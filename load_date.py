@@ -15,13 +15,12 @@ csv_file = csv.DictReader(file_date, delimiter=",")
 
 cnxn = pyodbc.connect(connectionString)
 cursor = cnxn.cursor()
-i = 1
 
 for line in csv_file:
     val = (line["date_id"], line["day"], line["month"], line["year"], line["quarter"])
     cursor.execute(sql, val)
-    print("Inserisco riga %d" % i)
-    i = i + 1
+print("Rows inserted successfully!")
+
 
 file_date.close()
 cnxn.commit()

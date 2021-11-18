@@ -23,7 +23,8 @@ for line in csv_file:
           line["l_df"],line["l_svpt"],line["l_1stIn"], line["l_1stWon"],line["l_2ndWon"],line["l_SvGms"],
           line["l_bpSaved"],line["l_bpFaced"],)
     cursor.execute(sql, val)
-    print("Inserisco riga %d" % i)
+    if i % 500 == 0:
+        print("Inserted row %d" % i)
     i = i + 1
 
 file_match.close()

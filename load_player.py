@@ -20,7 +20,8 @@ i = 1
 for line in csv_file:
     val = (line["player_id"], line["country_id"], line["name"], line["sex"], line["hand"], line["year_of_birth"])
     cursor.execute(sql, val)
-    print("Inserisco riga %d" % i)
+    if i % 50 == 0:
+        print("Inserted row %d" % i)
     i = i + 1
 
 file_player.close()

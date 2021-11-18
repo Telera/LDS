@@ -31,7 +31,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 201540,FRA,Kristina Mladenovic,F,R,2000
 211279,GBR,Harriet Dart,F,R,1996
 211880,AUS,Priscilla Hon,F,R,1996
-201545,LAT,Anastasija Sevastova,F,R,1990
+201545,LVA,Anastasija Sevastova,F,R,1990
 201611,AUS,Daria Gavrilova,F,R,1990
 201520,CZE,Petra Kvitova,F,L,1990
 203389,USA,Danielle Rose Collins,F,R,1990
@@ -49,7 +49,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 211701,CZE,Katerina Siniakova,F,R,1993
 202427,GBR,Johanna Konta,F,R,1991
 201585,USA,Sloane Stephens,F,R,1991
-447527,NED,Kiki Bertens,F,R,1991
+447527,NLD,Kiki Bertens,F,R,1991
 210722,BEL,Elise Mertens,F,R,1991
 202499,CRO,Donna Vekic,F,R,1996
 201517,SVK,Magdalena Rybarikova,F,R,1996
@@ -117,7 +117,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 104312,ITA,Andreas Seppi,M,R,1997
 105077,ESP,Albert Ramos,M,L,1992
 111575,RUS,Karen Khachanov,M,R,1985
-104898,NED,Robin Haase,M,R,1995
+104898,NLD,Robin Haase,M,R,1995
 122570,QAT,Mubarak Shannan Zayid,M,U,1983
 126610,ITA,Matteo Berrettini,M,R,1988
 105676,BEL,David Goffin,M,R,1990
@@ -146,7 +146,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 144719,ESP,Jaume Munar,M,R,1986
 105332,FRA,Benoit Paire,M,R,1984
 104291,TUN,Malek Jaziri,M,R,1984
-105208,LAT,Ernests Gulbis,M,R,1979
+105208,LVA,Ernests Gulbis,M,R,1979
 111513,SRB,Laslo Djere,M,R,1986
 104620,ITA,Simone Bolelli,M,R,1997
 125802,BLR,Ilya Ivashka,M,R,1984
@@ -218,7 +218,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 206420,RUS,Ekaterina Alexandrova,F,R,1993
 201620,PUR,Monica Puig,F,R,1995
 202458,AUS,Ashleigh Barty,F,R,1996
-211533,LAT,Jelena Ostapenko,F,R,1996
+211533,LVA,Jelena Ostapenko,F,R,1996
 201493,GER,Angelique Kerber,F,L,1988
 201594,ROU,Simona Halep,F,R,1996
 106186,AUS,Jason Kubler,M,R,1995
@@ -342,7 +342,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 105585,CHN,Ze Zhang,M,R,1990
 109303,ITA,Stefano Napolitano,M,R,1995
 106390,ITA,Matteo Donati,M,R,1995
-134868,NED,Tallon Griekspoor,M,R,1993
+134868,NLD,Tallon Griekspoor,M,R,1993
 123755,COL,Daniel Elahi Galan,,R,1981
 126205,USA,Tommy Paul,M,R,1997
 106232,DOM,Roberto Cid,M,R,1997
@@ -454,12 +454,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 211702,JPN,Nao Hibino,F,R,1996
 206408,ARG,Nadia Podoroska,F,U,1997
 202628,UKR,Maryna Zanevska,F,R,1997
-206045,NED,Quirine Lemoine,F,L,1998
+206045,NLD,Quirine Lemoine,F,L,1998
 201554,RUS,Vitalia Diatchenko,F,R,1990
 211407,SRB,Dejana Radanovic,F,U,1990
 202450,SVK,Jana Cepelova,F,R,2002
 203281,FRA,Amandine Hesse,F,R,1993
-204246,NED,Lesley Kerkhove,F,R,1993
+204246,NLD,Lesley Kerkhove,F,R,1993
 206102,IND,Ankita Raina,F,R,1993
 202707,FRA,Myrtille Georges,F,R,1993
 202653,CZE,Denisa Allertova,F,R,1997
@@ -482,8 +482,8 @@ player_id,country_id,name,sex,hand,year_of_birth
 206252,CZE,Barbora Krejcikova,F,R,1995
 214684,CAN,Katherine Sebov,F,U,1996
 202705,PAR,Veronica Cepede Royg,F,R,1991
-202480,NED,Richel Hogenkamp,F,R,1992
-201551,NED,Arantxa Rus,F,L,1992
+202480,NLD,Richel Hogenkamp,F,R,1992
+201551,NLD,Arantxa Rus,F,L,1992
 206390,AUS,Isabelle Wallace,F,L,1996
 201513,GER,Sabine Lisicki,F,R,1996
 201648,GBR,Naomi Broady,F,R,1994
@@ -492,7 +492,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 202508,CHN,Yuxuan Zhang,F,R,1998
 203575,MNE,Danka Kovinic,F,R,1994
 203578,CHN,Fangzhou Liu,F,R,1994
-202457,NED,Bibiane Schoofs,F,R,1988
+202457,NLD,Bibiane Schoofs,F,R,1988
 215314,TPE,En Shuo Liang,F,U,1988
 202504,CHN,Ying Ying Duan,F,R,1997
 214694,IND,Karman Thandi,F,U,1995
@@ -522,9 +522,9 @@ player_id,country_id,name,sex,hand,year_of_birth
 105933,ECU,Roberto Quiroz,M,L,1987
 202318,USA,Roy Smith,M,U,1994
 207992,USA,Cannon Kingsley,M,U,1995
-125847,NED,Jelle Sels,M,U,1989
-105691,NED,Scott Griekspoor,M,R,1990
-207764,NED,Ryan Nijboer,M,U,1999
+125847,NLD,Jelle Sels,M,U,1989
+105691,NLD,Scott Griekspoor,M,R,1990
+207764,NLD,Ryan Nijboer,M,U,1999
 105223,ARG,Juan Martin del Potro,M,R,1995
 111577,USA,Jared Donaldson,M,R,1983
 208186,USA,Preston Brown,M,U,1999
@@ -624,7 +624,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 111505,FRA,Enzo Couacaud,M,R,1995
 105011,UKR,Illya Marchenko,M,R,1992
 111512,FRA,Johan Sebastien Tatlot,M,U,1996
-105217,NED,Thiemo De Bakker,M,R,1988
+105217,NLD,Thiemo De Bakker,M,R,1988
 105590,BLR,Uladzimir Ignatik,M,R,1990
 105589,AUT,Gerald Melzer,M,L,1992
 200384,FRA,Hugo Gaston,M,L,2000
@@ -658,11 +658,11 @@ player_id,country_id,name,sex,hand,year_of_birth
 203379,RUS,Marina Melnikova,F,R,1989
 213646,HUN,Dalma Galfi,F,U,1998
 202922,SVK,Michaela Honcova,F,R,1998
-204377,NED,Indy De Vroome,F,R,1986
-215996,NED,Arianne Hartono,F,R,1994
+204377,NLD,Indy De Vroome,F,R,1986
+215996,NLD,Arianne Hartono,F,R,1994
 211700,CZE,Barbora Stefkova,F,R,1999
-210336,NED,Rosalie Van Der Hoek,F,L,1992
-216170,NED,Noa Liauw A Fong,F,R,1997
+210336,NLD,Rosalie Van Der Hoek,F,L,1992
+216170,NLD,Noa Liauw A Fong,F,R,1997
 144923,GER,Louis Wessels,M,R,1999
 207733,GBR,Jack Draper,M,L,1997
 123795,TUR,Altug Celikbilek,M,U,1992
@@ -773,7 +773,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 126206,USA,Alex Rybakov,M,U,1990
 200589,USA,Sam Riffice,M,U,1995
 215613,USA,Emma Navarro,F,R,1999
-203509,LAT,Diana Marcinkevica,F,R,1998
+203509,LVA,Diana Marcinkevica,F,R,1998
 206049,SRB,Jovana Jaksic,F,R,1993
 211814,AUT,Julia Grabher,F,R,1993
 211796,CAN,Francoise Abanda,F,R,1995
@@ -804,7 +804,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 206888,CHN,Zhao Zhao,M,R,1988
 122606,CHN,Yecong He,M,U,1994
 132495,CHN,Runhao Hua,M,R,1992
-105172,NED,Miliaan Niesten,M,U,1997
+105172,NLD,Miliaan Niesten,M,U,1997
 104433,CAN,Frank Dancevic,M,R,1987
 214386,CHN,Xinyu Gao,F,U,1994
 206294,CHN,Yue Yuan,F,U,1991
@@ -826,7 +826,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 106064,SWE,Lucas Renard,M,R,1992
 105254,CRO,Nikola Mektic,M,R,1988
 105292,COL,Alejandro Gonzalez,M,R,1995
-122298,NED,Botic van de Zandschulp,M,R,1987
+122298,NLD,Botic van de Zandschulp,M,R,1987
 104656,BAR,Haydn Lewis,M,L,1994
 105497,DOM,Jose Hernandez,M,U,1990
 105899,URU,Martin Cuevas,M,R,1990
@@ -835,7 +835,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 201995,ECU,Cayetano March,M,U,2000
 106227,KOR,Ji Sung Nam,M,R,1993
 122109,UZB,Sanjar Fayziev,M,U,1994
-200273,LIB,Hady Habib,M,U,1994
+200273,LBY,Hady Habib,M,U,1994
 133975,GER,Benjamin Hassan,M,R,1995
 126939,UZB,Khumoun Sultanov,,R,1995
 127300,UZB,Jurabek Karimov,,U,1998
@@ -862,10 +862,10 @@ player_id,country_id,name,sex,hand,year_of_birth
 105812,INA,David Agung Susanto,M,U,1996
 209188,INA,Ari Fahresi,M,U,1991
 207139,THA,Palaphoom Kovapitukted,M,R,1999
-106150,PHI,Jeson Patrombon,M,R,1999
+106150,PHL,Jeson Patrombon,M,R,1999
 106397,THA,Wishaya Trongcharoenchaikul,M,R,1995
-202165,PHI,Alberto Lim,M,R,1995
-200460,PHI,John Bryan Decasa Otico,M,R,1999
+202165,PHL,Alberto Lim,M,R,1995
+200460,PHL,John Bryan Decasa Otico,M,R,1999
 208937,THA,Kasidit Samrej,M,R,1999
 208597,HKG,Chak Lam Coleman Wong,M,R,1989
 126555,TPE,Tung Lin Wu,M,R,1998
@@ -1008,7 +1008,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 126526,DEN,Soren Hess Olesen,M,R,1995
 106396,TPE,Cheng Yu Yu,M,R,1995
 134120,TPE,Kuan Yi Lee,M,R,1998
-206000,LIB,Michel Saade,M,U,2001
+206000,LBY,Michel Saade,M,U,2001
 104251,TPE,Ti Chen,M,R,1983
 134114,TPE,Jad Ballout,M,U,1983
 207176,INA,Muhammad Althaf Dhaifullah,M,R,1999
@@ -1039,7 +1039,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 106292,ARG,Hernan Casanova,M,U,1994
 111508,ARG,Juan Ignacio Galarza,M,R,1987
 144894,USA,Gary Kushnirovich,M,U,1993
-126646,NED,Tim Van Rijthoven,M,R,1997
+126646,NLD,Tim Van Rijthoven,M,R,1997
 206309,USA,Boris Kozlov,M,U,1997
 105894,ESP,Javier Marti,M,R,1988
 105700,BRA,Jose Pereira,M,R,1990
@@ -1100,12 +1100,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 202706,FRA,Manon Arcangioli,F,U,1990
 214319,FRA,Sara Cakarevic,F,U,1997
 201565,POL,Katarzyna Piter,F,R,1991
-215705,NED,Dewi Dijkman,F,U,1997
+215705,NLD,Dewi Dijkman,F,U,1997
 203441,BLR,Sviatlana Pirazhenka,F,R,1992
-204376,NED,Demi Schuurs,F,R,1998
+204376,NLD,Demi Schuurs,F,R,1998
 205944,BLR,Lidziya Marozava,F,R,1989
 210957,SWE,Cornelia Lister,F,U,1994
-206184,NED,Kelly Versteeg,F,U,1997
+206184,NLD,Kelly Versteeg,F,U,1997
 202611,GEO,Oksana Kalashnikova,F,L,1995
 201670,SUI,Amra Sadikovic,F,R,1998
 104332,GER,Philipp Petzschner,M,R,1990
@@ -1330,7 +1330,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 204298,AUS,Viktorija Rajicic,F,R,1989
 219940,AUS,Ivana Popovic,F,U,1989
 220347,AUS,Aleksa Cveticanin,F,R,1995
-210740,SIN,Stefanie Tan,F,R,1997
+210740,SGP,Stefanie Tan,F,R,1997
 215489,JPN,Ramu Ueda,F,U,1990
 214539,USA,Yuki Kristina Chiang,F,U,1995
 203555,JPN,Mai Minokoshi,F,U,1991
@@ -1427,16 +1427,16 @@ player_id,country_id,name,sex,hand,year_of_birth
 213674,NZL,Jade Lewis,F,R,1998
 220330,FRA,Margaux Orange,F,U,1998
 213888,BEL,Britt Geukens,F,R,1998
-215349,NED,Nina Kruijer,F,U,1992
+215349,NLD,Nina Kruijer,F,U,1992
 206351,JPN,Rio Kitagawa,F,U,1999
-215031,NED,Dominique Karregat,F,R,1995
+215031,NLD,Dominique Karregat,F,R,1995
 216069,BEL,Justine Pysson,F,R,1995
 214270,GER,Lisa Ponomar,F,R,1997
-202874,NED,Chayenne Ewijk,F,R,1997
+202874,NLD,Chayenne Ewijk,F,R,1997
 215437,CZE,Monika Kilnarova,F,U,1999
 214553,CZE,Natalie Novotna,F,U,1996
 214810,GER,Julyette Maria Josephine Steur,F,U,1996
-216395,NED,Annick Melgers,F,U,1997
+216395,NLD,Annick Melgers,F,U,1997
 220305,FRA,Salma Djoubri,F,U,1993
 211412,SRB,Bojana Marinkovic,F,U,1996
 206302,ITA,Gaia Sanesi,F,U,1992
@@ -1458,7 +1458,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 206387,VEN,Aymet Uzcategui,F,U,1995
 202911,UKR,Anastasiya Vasylyeva,F,L,1995
 211646,ROU,Oana Georgeta Simion,F,U,1998
-206183,NED,Cindy Burger,F,R,1992
+206183,NLD,Cindy Burger,F,R,1992
 211260,BEL,Marie Benoit,F,L,1992
 215555,USA,Roosh Wijesundera,F,U,1996
 210804,GER,Carolin Schmidt,F,R,1999
@@ -1484,7 +1484,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 451083,GER,Linda Prenkovic,F,R,1987
 206276,ESP,Ainhoa Atucha Gomez,F,L,1999
 215075,GER,Laura Heinrichs,F,U,1997
-216226,NED,Chanel Janssen,F,R,1998
+216226,NLD,Chanel Janssen,F,R,1998
 215557,FRA,Julia Vulpio,F,L,1995
 214257,FRA,Vinciane Remy,F,R,1997
 209945,ESP,Almudena Sanz Llaneza Fernandez,F,U,1997
@@ -1548,7 +1548,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 215015,RUS,Karine Sarkisova,F,U,1998
 202678,BLR,Polina Pekhova,F,R,1998
 211426,BLR,Sadafmoh Tolibova,F,U,1996
-220459,NED,Jamie Jillissen,F,U,1996
+220459,NLD,Jamie Jillissen,F,U,1996
 214959,BLR,Nika Shytkouskaya,F,U,2000
 211763,UKR,Anastasiya Fedoryshyn,F,U,1997
 216358,RUS,Ekaterina Trashchenko,F,U,1997
@@ -1569,7 +1569,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214517,RUS,Polina Golubovskaya,F,R,1996
 203516,UKR,Nadiya Kolb,F,R,1993
 201309,UKR,Tatiana Perebiynis,F,R,1982
-216030,LAT,Anna Ozerova,F,U,2000
+216030,LVA,Anna Ozerova,F,U,2000
 202631,SUI,Lara Michel,F,U,1991
 220808,BLR,Kristina Dmitruk,F,R,1991
 206007,BRA,Laura Pigossi,F,R,1994
@@ -1623,7 +1623,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220832,BRA,Debora Janjulio Braga De Souza,F,U,2000
 220833,BRA,Namie Isago,F,U,2002
 215852,BRA,Caroline Furlaneto,F,U,2002
-451190,TRI,Yolande Leacock,F,R,1993
+451190,TTO,Yolande Leacock,F,R,1993
 214140,BRA,Mariana Borges,F,U,1999
 201691,BUL,Dia Evtimova,F,R,1995
 214691,ROU,Ylona Georgiana Ghioroaie,F,U,1998
@@ -1656,7 +1656,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 211931,BUL,Gebriela Mihaylova,F,U,1993
 220692,BUL,Daniella Dimitrova,F,U,1995
 211338,GER,Katharina Hering,F,R,1991
-219639,LAT,Alise Cernecka,F,U,1995
+219639,LVA,Alise Cernecka,F,U,1995
 214455,SUI,Andrina Peer,F,R,1996
 220757,BUL,Lia Karatancheva,F,U,1991
 214924,TUR,Basak Akbas,F,R,2000
@@ -1843,8 +1843,8 @@ player_id,country_id,name,sex,hand,year_of_birth
 201694,CRO,Silvia Njiric,F,R,1997
 214022,AUT,Elba Kasum,F,U,1996
 211772,GER,Ina Kaufinger,F,U,1996
-210335,NED,Gabriela Van De Graaf,F,U,1994
-215392,NED,Judith Van Kessel,F,U,1994
+210335,NLD,Gabriela Van De Graaf,F,U,1994
+215392,NLD,Judith Van Kessel,F,U,1994
 210847,ITA,Miriana Tona,F,U,1999
 215296,SRB,Kristina Miletic,F,U,1993
 202438,CRO,Ani Mijacika,F,R,1987
@@ -1885,7 +1885,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 213581,CZE,Kristyna Hrabalova,F,U,1996
 220580,CZE,Ludmila Kareisova,F,U,1996
 213533,RUS,Maria Marfutina,F,U,1997
-216288,LAT,Irina Lapustina,F,U,1997
+216288,LVA,Irina Lapustina,F,U,1997
 204366,FRA,Victoria Muntean,F,U,1997
 216073,CZE,Nikola Breckova,F,U,1987
 206335,CZE,Jesika Maleckova,F,R,1994
@@ -1919,7 +1919,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 204268,GER,Natalie Proese,F,R,1990
 214743,GER,Lena Ruppert,F,U,1998
 214762,GBR,Mirabelle Njoze,F,L,1995
-215144,LAT,Daniela Vismane,F,U,2000
+215144,LVA,Daniela Vismane,F,U,2000
 220740,CZE,Ivana Sebestova,F,U,1999
 213879,SVK,Barbara Kotelesova,F,U,1996
 220741,CZE,Katerina Koci,F,U,1998
@@ -1977,7 +1977,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220272,DEN,Sofia Nami Samavati,F,U,2000
 215457,ESP,Carlota Molina Megias,F,R,2000
 201618,OMA,Fatma Al Nabhani,F,R,1991
-210951,PHI,Marian Jade Capadocia,F,R,1995
+210951,PHL,Marian Jade Capadocia,F,R,1995
 220273,EGY,Sara El Ghazouly,F,R,1995
 214978,USA,Akiko Okuda,F,U,1997
 211529,EGY,Sandra Samir,F,R,1997
@@ -2017,9 +2017,9 @@ player_id,country_id,name,sex,hand,year_of_birth
 202656,FRA,Estelle Cascino,F,R,1996
 202384,IND,Kyra Shroff,F,R,1992
 205998,GBR,Manisha Foster,F,U,1986
-215968,NED,Maxine Palmen,F,U,1997
+215968,NLD,Maxine Palmen,F,U,1997
 213965,JPN,Minami Akiyama,F,U,1996
-211775,NED,Erika Vogelsang,F,R,1984
+211775,NLD,Erika Vogelsang,F,R,1984
 213669,USA,Aleah Marrow,F,U,1986
 211557,SUI,Nina Stadler,F,U,1986
 205909,EGY,Ola Abou Zekry,F,R,1993
@@ -2069,7 +2069,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 215726,FRA,Tiphanie Fiquet,F,R,2000
 220395,LTU,Iveta Daujotaite,F,U,2001
 215239,ROU,Diana Maria Mihail,F,R,2001
-217769,NED,Natascha Kennis,F,R,1999
+217769,NLD,Natascha Kennis,F,R,1999
 206399,ITA,Francesca Sella,F,R,1994
 219603,ITA,Giulia Cerutti,F,U,1993
 215340,BOL,Hortencia Birnbaumer,F,R,1992
@@ -2131,12 +2131,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 220530,CMR,Adele Diana Biba,F,U,1996
 220703,GRE,Eleni Kampantai,F,U,1999
 210926,TPE,Pei Chi Lee,F,U,1994
-215658,NED,Phillis Vanenburg,F,U,1994
+215658,NLD,Phillis Vanenburg,F,U,1994
 215645,POL,Paulina Jastrzebska,F,U,1997
 216178,GER,Celine Fritsch,F,R,2000
 214032,TUN,Chiraz Bechri,F,U,1998
 219097,GBR,Taro Keens,F,U,1992
-215480,NED,Suzan Lamens,F,U,1995
+215480,NLD,Suzan Lamens,F,U,1995
 214570,CAN,Maria Patrascu,F,L,1997
 220788,IND,Dhwani Kumar,F,U,1994
 220258,UKR,Viktoriya Petrenko,F,R,2001
@@ -2151,7 +2151,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 204415,USA,Alexandra Riley,F,U,1991
 214014,MDA,Adriana Sosnovschi,F,R,1994
 215459,GER,Emily Seibold,F,R,1993
-215351,NED,Isolde De Jong,F,U,1999
+215351,NLD,Isolde De Jong,F,U,1999
 220494,ROU,Arina Gabriela Vasilescu,F,U,1997
 219972,GER,Estella Jaeger,F,U,1997
 216138,GER,Romy Koelzer,F,U,1991
@@ -2244,7 +2244,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 212045,IRL,Sinead Lohan,F,U,1995
 206339,ESP,Olga Parres Azcoitia,F,U,1993
 203520,ESP,Arabela Fernandez Rabener,F,U,1993
-220560,NED,Lian Tran,F,R,2002
+220560,NLD,Lian Tran,F,R,2002
 220563,ESP,Maria Oliver Sanchez,F,U,2002
 201646,POR,Maria Joao Koehler,F,U,1992
 220564,ESP,Judith Perello Saavedra,F,U,1993
@@ -2267,7 +2267,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 213767,USA,Ayla Aksu,F,R,1996
 213860,ESP,Ana Roman Dominguez,F,U,1987
 215432,GBR,Olivia Nicholls,F,R,1999
-220491,NED,Merel Hoedt,F,U,1994
+220491,NLD,Merel Hoedt,F,U,1994
 216198,ESP,Ana Giraldi Requena,F,U,1991
 220604,BRA,Alice Garcia,F,U,1994
 216229,ESP,Marina Benito,F,U,2000
@@ -2301,17 +2301,17 @@ player_id,country_id,name,sex,hand,year_of_birth
 203586,ROU,Ioana Loredana Rosca,F,R,1992
 202606,ITA,Claudia Giovine,F,R,1999
 205843,CAN,Sonya Latycheva,F,U,1991
-220304,NED,Lara Panfilov,F,R,1996
+220304,NLD,Lara Panfilov,F,R,1996
 214162,RUS,Anna Shepita,F,R,1987
 210271,BIH,Anita Husaric,F,R,2000
 211683,POL,Aleksandra Buczynska,F,U,1985
 209693,EST,Tuule Tani,F,U,1992
 200533,USA,Pam Casale,F,R,1963
-215850,LAT,Rebeka Margareta Mertena,F,R,1999
+215850,LVA,Rebeka Margareta Mertena,F,R,1999
 214176,EST,Valeria Gorlats,F,R,1999
 215177,RUS,Polina Bakhmutkina,F,U,1994
 216116,EST,Elena Malygina,F,U,2000
-211755,LAT,Laura Gulbe,F,U,1995
+211755,LVA,Laura Gulbe,F,U,1995
 220570,SWE,Nelly Mezan,F,U,1995
 214595,ITA,Giorgia Testa,F,U,1998
 215464,RUS,Aleksandra Kuznetsova,F,U,1998
@@ -2335,7 +2335,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 216405,GBR,Summer Yardley,F,U,2000
 214784,POL,Daria Kuczer,F,R,2001
 220043,EST,Katriin Saar,F,U,2002
-215477,LAT,Deniza Marcinkevica,F,U,2000
+215477,LVA,Deniza Marcinkevica,F,U,2000
 216300,FIN,Aino Alkio,F,U,2000
 216268,GBR,Alice Gillan,F,U,1997
 203341,USA,Sanaz Marand,F,L,1999
@@ -2366,8 +2366,8 @@ player_id,country_id,name,sex,hand,year_of_birth
 214318,FRA,Eleonore Barrere,F,L,2000
 220349,FRA,Ines Nicault,F,U,1994
 201481,AUT,Tamira Paszek,F,R,1991
-215478,NED,Claire Verwerda,F,U,1994
-211159,NED,Nikki Luttikhuis,F,R,1995
+215478,NLD,Claire Verwerda,F,U,1994
+211159,NLD,Nikki Luttikhuis,F,R,1995
 211535,FRA,Camille Cheli,F,R,2000
 214592,FRA,Jenny Jullien,F,U,1996
 215831,FRA,Mylene Halemai,F,R,2001
@@ -2615,7 +2615,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214457,ITA,Rosanna Maffei,F,U,1995
 216412,ITA,Eleonora Liga,F,U,1996
 215093,ITA,Chiara Catini,F,R,1999
-211918,LAT,Anastasija Homutova,F,U,1999
+211918,LVA,Anastasija Homutova,F,U,1999
 215877,ITA,Lisa Piccinetti,F,U,1996
 201489,UKR,Mariya Koryttseva,F,R,1990
 219098,USA,Caitlyn Williams,F,U,1986
@@ -2772,7 +2772,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220274,KGZ,Emma Nurgazieva,F,R,1989
 215071,RUS,Viktoriia Kalinina,F,U,1999
 219872,UZB,Milana Maslenkova,F,U,1996
-220613,NED,Stephanie Judith Visscher,F,U,2000
+220613,NLD,Stephanie Judith Visscher,F,U,2000
 220098,RUS,Shakhzoda Asimova,F,U,2000
 214344,UZB,Shakhnoza Khatamova,F,U,1996
 215598,RUS,Olesya Nesterovich,F,U,1999
@@ -2823,7 +2823,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220774,LBN,Anna Maria Hayek,F,U,1993
 216007,SRB,Draginja Vukovic,F,R,1997
 220775,RUS,Sofia Sharonova,F,U,1994
-220257,LIB,Nour Dib,F,U,2002
+220257,LBY,Nour Dib,F,U,2002
 220776,RUS,Eva Kovaleva,F,L,2002
 216371,RUS,Daria Solovyeva,F,U,2000
 220777,POL,Daria Walczak,F,R,2000
@@ -2833,7 +2833,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 216384,SWE,Maria Petrovic,F,U,1998
 215167,POL,Adrianna Sosnowska,F,U,1999
 206144,SUI,Xenia Knoll,F,L,1992
-220770,NED,Eva Vedder,F,R,1997
+220770,NLD,Eva Vedder,F,R,1997
 220771,GER,Isabella Pfennig,F,U,2001
 220772,GER,Julia Victoria Rennert,F,U,2001
 213634,MAR,Rita Atik,F,R,1996
@@ -2870,19 +2870,19 @@ player_id,country_id,name,sex,hand,year_of_birth
 214438,SWE,Ida Jarlskog,F,U,1998
 215657,FRA,Kelia Le Bihan,F,U,1998
 209712,MLT,Elaine Genovese,F,R,1994
-216028,NED,Donnaroza Gouvernante,F,U,1995
-215254,NED,Liv Geurts,F,R,1993
+216028,NLD,Donnaroza Gouvernante,F,U,1995
+215254,NLD,Liv Geurts,F,R,1993
 214935,NOR,Malene Helgo,F,U,1999
-216031,NED,Dainah Cameron,F,R,1994
+216031,NLD,Dainah Cameron,F,R,1994
 220332,GER,Eva Lys,F,R,2002
-216284,NED,Annelou Nab,F,U,2002
+216284,NLD,Annelou Nab,F,U,2002
 216333,GER,Antonia Balzert,F,U,1998
-216191,NED,Gabriella Mujan,F,R,2002
+216191,NLD,Gabriella Mujan,F,R,2002
 451398,NGR,Sarah Adegoke,F,U,1990
 220736,NGR,Barakat Oyinlomo Quadre,F,R,1994
 220737,CAN,Nifemi Akinbiyi,F,U,1995
 215759,NGR,Patience Onebamhoin,F,R,1994
-220738,NED,Sylvia Chidera Oreigbemileke Okafor,F,U,1990
+220738,NLD,Sylvia Chidera Oreigbemileke Okafor,F,U,1990
 201656,SLO,Tadeja Majeric,F,R,1996
 220739,NGR,Adetayo Adetunji,F,R,1996
 216337,NGR,Angel Macleod,F,R,1990
@@ -3102,7 +3102,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214403,ITA,Martina Lo Pumo,F,R,1999
 208889,EGY,Yasmin Hamza,F,U,1989
 215935,FRA,Zoe Bourbotte,F,U,1997
-215654,NED,Diana Chehoudi,F,U,1994
+215654,NLD,Diana Chehoudi,F,U,1994
 206393,TUN,Yosr Elmi,F,U,2000
 216105,RUS,Alisa Axyanova,F,U,1995
 210789,SVK,Dagmara Baskova,F,R,1994
@@ -3140,7 +3140,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220730,ITA,Chiara Bordo,F,U,2000
 220731,UKR,Ielyzaveta Skorokhodova,F,U,1989
 215107,CAN,Nicole Bunea,F,L,1999
-220732,NED,Lexie Stevens,F,R,1993
+220732,NLD,Lexie Stevens,F,R,1993
 215864,MNE,Anja Draskovic,F,U,1994
 220733,FRA,Carole Monnet,F,L,2001
 215955,TUN,Nour Damergi,F,U,1999
@@ -3171,7 +3171,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214508,TUR,Nurseda Akovalier,F,U,1987
 201416,UKR,Alona Bondarenko,F,R,1993
 216250,GBR,Bronte Murgett,F,U,1996
-216283,NED,Lotte Van Leeuwen,F,R,1992
+216283,NLD,Lotte Van Leeuwen,F,R,1992
 215010,CHN,Yijia Shao,F,U,1996
 213998,TUR,Ipek Oz,F,U,1999
 215903,TUR,Ekin Ercetin,F,R,1991
@@ -3205,7 +3205,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220588,TUR,Beyda Baykal,F,R,1998
 211422,TUR,Esen Kokce,F,U,1998
 214953,MDA,Vlada Medvedcova,F,R,1996
-220664,NED,Mariame Toure,F,R,1995
+220664,NLD,Mariame Toure,F,R,1995
 220665,USA,Brittany Collens,F,R,1997
 220666,RUS,Ksenia Domnina,F,R,2000
 215022,GBR,Amelia Stuart,F,U,2000
@@ -3403,7 +3403,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220811,ITA,Linda Cagnazzo,F,U,1992
 215878,ITA,Aurora Zantedeschi,F,R,1992
 216037,SLO,Zaklin Bokan,F,U,1993
-201414,NED,Michaella Krajicek,F,R,1998
+201414,NLD,Michaella Krajicek,F,R,1998
 201503,JPN,Ayumi Morita,F,R,1988
 201287,ESP,Maria Jose Martinez Sanchez,F,L,1988
 211851,USA,Emma Christine Higuchi,F,U,1991
@@ -3430,7 +3430,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 103105,ESP,Ruben Ramirez Hidalgo,M,R,1996
 123896,CRO,Matija Pecotic,M,U,1989
 106006,ARG,Agustin Velotti,M,R,1997
-104997,NED,Igor Sijsling,M,R,1992
+104997,NLD,Igor Sijsling,M,R,1992
 103843,SUI,Marco Chiudinelli,M,R,1985
 103794,GER,Benjamin Becker,M,R,1995
 111506,FRA,Maxime Hamou,M,R,1995
@@ -3470,7 +3470,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 124011,MEX,Kevin Jack Carpenter,M,U,1998
 104338,ARG,Juan Monaco,M,R,1988
 200532,USA,Vasil Kirkov,M,U,1987
-104235,NED,Matwe Middelkoop,M,R,1990
+104235,NLD,Matwe Middelkoop,M,R,1990
 104707,RUS,Denis Matsukevitch,M,R,1992
 105421,CZE,Michal Konecny,M,L,1983
 106382,GBR,Luke Bambridge,M,R,1995
@@ -3529,7 +3529,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 216165,GER,Julia Wagner,F,U,1990
 214861,CZE,Lucie Prochazkova,F,U,1998
 216167,ITA,Chiara De Vito,F,U,1997
-209742,NED,Regina Husak,F,U,1997
+209742,NLD,Regina Husak,F,U,1997
 210152,ITA,Marcella Cucca,F,U,1998
 216157,AUS,Mary Liu,F,U,1989
 215906,ROU,Alexandra Filip,F,R,1997
@@ -3558,9 +3558,9 @@ player_id,country_id,name,sex,hand,year_of_birth
 204330,ITA,Alice Savoretti,F,R,1992
 203442,RUS,Aminat Kushkhova,F,R,1999
 215479,BEL,Charlotte Swaans,F,U,1995
-210775,NED,Jaimy Gayle Van De Wal,F,R,1994
+210775,NLD,Jaimy Gayle Van De Wal,F,R,1994
 215078,GER,Emelie Luisa Schwarte,F,R,1997
-211160,NED,Mandy Wagemaker,F,R,1994
+211160,NLD,Mandy Wagemaker,F,R,1994
 202894,GER,Justine Ozga,F,R,1988
 202526,RUS,Marina Shamayko,F,U,1996
 451476,BEL,Emma Janssen,F,U,1999
@@ -3736,7 +3736,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214116,UKR,Kate Zueva,F,U,2000
 215445,BUL,Aleksandra Draganova,F,U,1987
 215752,EGY,Laila Elnimr,F,R,1996
-215091,SIN,Sarah Pang,F,U,1987
+215091,SGP,Sarah Pang,F,U,1987
 214456,CAN,Anjana Suresh,F,R,1996
 214820,IND,Moulika Ram,F,U,1996
 215938,IND,Lalita Devarakonda,F,R,1997
@@ -3819,7 +3819,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 215397,ESP,Maria Suarez Alonso,F,U,1994
 210314,GER,Dominique Wahl,F,U,1997
 213703,ESP,Magda Aubets Macia,F,U,1987
-211741,NED,Janine Hemmes,F,R,1997
+211741,NLD,Janine Hemmes,F,R,1997
 216129,ESP,Daniela Baez Friedrich,F,U,1992
 216131,ESP,Marta Perez Mur,F,U,1996
 216141,ITA,Carlotta Romito,F,R,1990
@@ -3838,7 +3838,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214926,GBR,Ema Lazic,F,U,1997
 216301,ESP,Loretto Villalba Rubio,F,U,2000
 209305,FRA,Samantha Galinier,F,R,1997
-451161,LAT,Adrija Runcha,F,R,1993
+451161,LVA,Adrija Runcha,F,R,1993
 213624,UKR,Anna Bogoslavets,F,U,1993
 216115,EST,Carol Plakk,F,U,1995
 206061,FIN,Annika Sillanpaa,F,U,1995
@@ -3981,7 +3981,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 215301,ITA,Irene Lavino,F,U,1995
 214146,ITA,Marianna Petrei,F,U,1996
 214853,ITA,Federica Mordegan,F,U,1996
-216285,NED,Barbara Huyskes,F,U,1993
+216285,NLD,Barbara Huyskes,F,U,1993
 216381,ITA,Barbara Dessolis,F,R,1992
 216382,ITA,Greta Ceccomori,F,U,1998
 215399,ITA,Camilla Fabbri,F,U,1986
@@ -4090,14 +4090,14 @@ player_id,country_id,name,sex,hand,year_of_birth
 214226,IND,Vasanti Shinde,F,L,1992
 216026,MRI,Olivia Robert,F,U,1997
 213609,IND,Varunya Chandrashekar,F,R,1996
-216029,NED,Laura Rijkers,F,U,1995
+216029,NLD,Laura Rijkers,F,U,1995
 211739,UKR,Olena Kyrpot,F,U,1995
 216052,USA,Shannon Hudson,F,U,1995
-216053,NED,Shura Poppe,F,U,1995
-216054,NED,Perla Nieuwboer,F,U,1993
+216053,NLD,Shura Poppe,F,U,1995
+216054,NLD,Perla Nieuwboer,F,U,1993
 211118,BLR,Darya Shulzhanok,F,R,1993
-215350,NED,Liza Lebedzeva,F,U,1995
-216094,NED,Annabelle Hageman,F,U,1994
+215350,NLD,Liza Lebedzeva,F,U,1995
+216094,NLD,Annabelle Hageman,F,U,1994
 216140,GER,Vivien Sandberg,F,U,1997
 216202,BLR,Alisa Yakimakho,F,U,1988
 214250,GER,Jacqueline Boepple,F,U,1995
@@ -4139,10 +4139,10 @@ player_id,country_id,name,sex,hand,year_of_birth
 213806,ROU,Gabriela Aura Zarnoveanu,F,U,1997
 212304,CYP,Maria Siopacha,F,R,1995
 210334,SVK,Simonka Parajova,F,R,1993
-216360,NED,Annick Verhaar,F,U,1998
+216360,NLD,Annick Verhaar,F,U,1998
 216361,RSA,Lungile Ntuli,F,R,1999
 216362,RSA,Margo Landmann,F,U,2000
-216363,NED,Senaida Kambel,F,U,1999
+216363,NLD,Senaida Kambel,F,U,1999
 216364,RSA,Havana Dauncey,F,U,1996
 216365,GBR,Julie Ball,F,U,1991
 216400,RSA,Evangeline Du Toit,F,U,1995
@@ -4171,7 +4171,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214660,SRB,Katarina Kozarov,F,U,1989
 213814,SRB,Dzina Milovanovic,F,L,1994
 216565,SRB,Nevena Sokovic,F,U,1996
-216195,LIB,Yasmeen Ghaoui,F,R,1999
+216195,LBY,Yasmeen Ghaoui,F,R,1999
 216196,SRB,Lena Babunski,F,U,1993
 213955,SUI,Sara Orellana,F,U,1999
 216172,ITA,Alessandra Polese,F,U,1995
@@ -4265,7 +4265,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214982,TUR,Yasemin Ada Boru,F,U,1995
 206270,AUS,Ashley Keir,F,R,1997
 215576,TUR,Buket Dogan,F,U,1997
-216080,LAT,Anna Marija Bukina,F,U,1997
+216080,LVA,Anna Marija Bukina,F,U,1997
 213618,BUL,Lyuboslava Peruhova,F,U,1996
 216561,TUR,Selin Karaer,F,U,2000
 211962,TUR,Muge Topsel,F,U,1997
@@ -4335,7 +4335,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 214609,MEX,Maria Jose Zacarias,F,U,1994
 215821,MEX,Katia Monserrat De La Garza Valdez,F,U,1996
 215294,SRB,Andjela Sebrek,F,U,1991
-206181,NED,Eva Wacanno,F,U,1992
+206181,NLD,Eva Wacanno,F,U,1992
 205655,NGR,Christie Agugbom,F,U,1994
 205658,NGR,Ronke Akingbade,F,R,1991
 211699,CZE,Karolina Stuchla,F,U,1997
@@ -4365,7 +4365,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 215147,SRB,Nina Marjanovic,F,R,1998
 215487,SRB,Jana Lazarevic,F,U,1991
 216086,SRB,Bojana Vuksan,F,R,1996
-214249,MRN,Angela Charles Alfred,F,U,1991
+214249,MTQ,Angela Charles Alfred,F,U,1991
 215770,USA,Melan Butler,F,U,1997
 214398,JPN,Natsuho Arakawa,F,L,1997
 211115,USA,Kaitlin Ray,F,U,1999
@@ -4414,7 +4414,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 110749,GBR,Joe Salisbury,M,U,1992
 105651,GBR,Daniel Smethurst,M,U,1995
 104273,FRA,Edouard Roger Vasselin,M,R,1983
-105014,NED,Antal Van Der Duim,M,R,1991
+105014,NLD,Antal Van Der Duim,M,R,1991
 104500,IND,Somdev Devvarman,M,R,1988
 105542,AUT,Bastian Trinker,M,R,1987
 104944,BEL,Niels Desein,M,R,1987
@@ -4462,7 +4462,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221114,UKR,Dasha Lopatetskaya,F,U,2003
 207678,ARG,Juan Manuel Cerundolo,M,L,1997
 208108,USA,Brian Shi,M,R,1995
-207411,NED,Jesper De Jong,M,R,1983
+207411,NLD,Jesper De Jong,M,R,1983
 106375,ESP,Pol Toledo Bague,M,R,1992
 209070,FRA,Arthur Cazaux,M,R,1993
 200335,BRA,Felipe Meligeni Rodrigues Alves,M,R,1993
@@ -4518,7 +4518,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 208043,KEN,Ismael Changawa Ruwa Mzai,M,L,1991
 209870,INA,Gunawan Trismuwantara,M,U,2003
 451298,KEN,Kevin Cheruiyot,M,R,2003
-209866,LAT,Karlis Ozolins,M,R,1990
+209866,LVA,Karlis Ozolins,M,R,1990
 207669,GER,Robert Strombachs,M,U,1999
 209871,EGY,Amr Elsayed Abdou Ahmed Mohamed,M,U,1999
 122533,VIE,Nam Hoang Ly,M,R,1984
@@ -4527,7 +4527,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 144775,VIE,Linh Giang Trinh,M,U,1994
 209225,PAR,Martin Antonio Vergara Del Puerto,M,U,1998
 209872,SRI,Thehan Sanjaya Wijemanne,M,L,1995
-209873,PHI,Eric Jr. Olivarez,M,R,2000
+209873,PHL,Eric Jr. Olivarez,M,R,2000
 205695,HKG,Ching Lam,M,R,1999
 209874,POL,Maks Kasnikowski,M,U,2003
 453617,UNK,Hazem Naw,M,R,2000
@@ -4557,7 +4557,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 202248,USA,Alex Lawson,M,L,1987
 103523,IND,Rohan Bopanna,M,R,1996
 207180,SGP,Shaheed Alam,M,R,1984
-122207,SIN,Roy Hobbs,M,U,1989
+122207,SGP,Roy Hobbs,M,U,1989
 209414,FRA,Luca Van Assche,M,R,1995
 202104,ARG,Sebastian Baez,M,R,1997
 104249,BRA,Marcelo Melo,M,R,1987
@@ -4565,8 +4565,8 @@ player_id,country_id,name,sex,hand,year_of_birth
 106059,CHI,Michel Vernier,M,R,1996
 133872,ITA,Enrico Dalla Valle,M,U,1992
 126273,ARG,Jordi Arconada,M,R,1998
-103914,UAE,Omar Awadhy,M,R,1997
-138304,UAE,Abdulrahman Al Janahi,M,R,1989
+103914,ARE,Omar Awadhy,M,R,1997
+138304,ARE,Abdulrahman Al Janahi,M,R,1989
 208931,USA,Toby Alex Kodat,M,R,2000
 209992,CHN,Juncheng Shang,M,U,1994
 209863,SWE,Leo Borg,M,R,1990
@@ -4729,7 +4729,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 105286,AUS,Greg Jones,M,R,1988
 122164,KOR,Chung Hyo Woo,M,U,1995
 104677,NZL,Artem Sitak,M,R,1991
-104600,PHI,Treat Conrad Huey,M,L,1992
+104600,PHL,Treat Conrad Huey,M,L,1992
 104857,COL,Robert Farah,M,R,1998
 111807,SUI,Simeon Rossier,M,L,1992
 105697,ITA,Marco Bortolotti,M,R,1993
@@ -4757,7 +4757,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 122503,USA,Jonathan Ho,M,U,1994
 111579,USA,Henrik Wiersholm,M,R,1997
 105534,ITA,Erik Crepaldi,M,L,1990
-108761,LAT,Mikelis Libietis,M,U,1996
+108761,LVA,Mikelis Libietis,M,U,1996
 206363,GER,Alexander Wolfschmidt,M,U,1993
 117362,GER,Paul Woerner,M,R,1985
 105924,GBR,Richard Gabb,M,R,1990
@@ -4771,7 +4771,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 206821,FRA,Robin Bailly,M,U,1989
 105892,RUS,Alexandr Igoshin,M,U,1988
 132457,USA,Jarryd Woog,M,U,1993
-104619,NED,Jesse Huta Galung,M,R,1991
+104619,NLD,Jesse Huta Galung,M,R,1991
 104112,MON,Benjamin Balleret,M,R,1983
 105889,GER,Nico Matic,M,R,1996
 122645,GER,Demian Raab,M,U,1994
@@ -4831,12 +4831,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 123990,POL,Rafal Teurer,M,U,1996
 106149,POL,Maciej Smola,M,R,1989
 202102,POL,Filip Ambrozy,M,R,1987
-105323,NED,Wesley Koolhof,M,R,1989
+105323,NLD,Wesley Koolhof,M,R,1989
 105066,POL,Grzegorz Panfil,M,L,1989
 105856,POL,Adam Majchrowicz,M,U,1990
 105503,GER,George Von Massow,M,R,1990
 109318,POL,Pawel Cias,M,R,1980
-104627,NED,Boy Westerhof,M,R,1992
+104627,NLD,Boy Westerhof,M,R,1992
 105786,GER,Tom Schonenberg,M,R,1992
 131867,GER,Dominik Boehler,M,R,1996
 110751,GER,Sebastian Fanselow,M,U,1988
@@ -4850,12 +4850,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 206873,USA,Perry Gregg,M,R,1992
 206872,USA,Victor Pham,M,U,1988
 110636,USA,Clay Thompson,M,R,1992
-127037,NED,Roy Sarut De Valk,M,U,1994
+127037,NLD,Roy Sarut De Valk,M,U,1994
 144805,FRA,Clement Larriere,M,R,1987
 126109,ITA,Edoardo Tessaro,M,U,1993
 123893,GER,Lukas Ruepke,M,U,1993
 127984,GER,Felix Rauch,M,U,1993
-105646,NED,Mark Vervoort,M,U,1990
+105646,NLD,Mark Vervoort,M,U,1990
 122565,GER,Delf Gohlke,M,U,1990
 200537,URU,Nicolas Xiviller,M,U,1996
 105601,CHI,Cristobal Saavedra Corvalan,M,R,1995
@@ -4914,19 +4914,19 @@ player_id,country_id,name,sex,hand,year_of_birth
 106103,USA,Hunter Callahan,M,R,1996
 110761,USA,Patrick Daciek,M,U,1993
 121817,COL,Juan Manuel Benitez Chavarriaga,M,U,1990
-127038,NED,Robert Willekes Macdonald,M,R,1994
-122667,NED,Cedric Willems,M,R,1993
-206868,AHO,Laurens Deelstra,M,U,1993
+127038,NLD,Robert Willekes Macdonald,M,R,1994
+122667,NLD,Cedric Willems,M,R,1993
+206868,NLD,Laurens Deelstra,M,U,1993
 104371,CZE,Ivo Minar,M,R,1995
 105711,CRO,Dino Marcan,M,R,1991
-121822,NED,Bobbie De Goeijen,M,U,1988
-105986,NED,Colin Van Beem,M,U,1995
+121822,NLD,Bobbie De Goeijen,M,U,1988
+105986,NLD,Colin Van Beem,M,U,1995
 134194,USA,Jared Thompkins,M,U,1996
 200710,USA,Chase Wood,M,U,1989
 105788,GER,Jakob Sude,M,U,1991
 106104,USA,Dane Webb,M,U,1992
 106215,RUS,Mikhail Vaks,M,R,1993
-104604,PHI,Ruben Gonzales,M,R,1985
+104604,PHL,Ruben Gonzales,M,R,1985
 126552,USA,Jonathan Chang,M,U,1996
 105139,MEX,Alejandro Moreno Figueroa,M,R,1997
 105169,RSA,Jean Andersen,M,R,1981
@@ -5035,7 +5035,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 110647,SWE,Filip Bergevi,M,R,1994
 144838,USA,Max Jacob Schnur,M,U,1994
 122585,SWE,Andre Goransson,M,U,1994
-200465,NED,Sem Verbeek,M,L,1994
+200465,NLD,Sem Verbeek,M,L,1994
 138590,USA,Robbie C Bellamy,M,U,1993
 134784,FRA,Maxime Petel,M,U,1987
 106095,BRA,Alexandre Tsuchiya,M,U,1994
@@ -5136,16 +5136,16 @@ player_id,country_id,name,sex,hand,year_of_birth
 123888,RUS,Mihail Khaldeev,M,R,1987
 123736,KAZ,Sagadat Ayap,M,U,1994
 103612,KAZ,Alexey Kedryuk,M,R,1989
-105470,NED,Tim Van Terheijden,M,L,1990
-206886,NED,Amadatus Admiraal,M,U,1986
-206885,NED,Jasper Van Vliet,M,R,1989
+105470,NLD,Tim Van Terheijden,M,L,1990
+206886,NLD,Amadatus Admiraal,M,U,1986
+206885,NLD,Jasper Van Vliet,M,R,1989
 108748,LTU,Lukas Mugevicius,M,R,1994
 121823,GER,Julian Onken,M,U,1988
-105690,NED,Kevin Griekspoor,M,R,1988
-206884,NED,Brian De Vrind,M,U,1994
-206883,NED,Guy Stokman,M,R,1992
+105690,NLD,Kevin Griekspoor,M,R,1988
+206884,NLD,Brian De Vrind,M,U,1994
+206883,NLD,Guy Stokman,M,R,1992
 123835,GER,Leon Schutt,M,U,1993
-105388,NED,Lennert Van Der Linden,M,R,1998
+105388,NLD,Lennert Van Der Linden,M,R,1998
 206858,GBR,Joshua Oxley,M,R,1985
 206857,ITA,Vittorio Angeli,M,U,1990
 127555,ITA,Andrea Baldoni,M,U,1991
@@ -5153,9 +5153,9 @@ player_id,country_id,name,sex,hand,year_of_birth
 121816,ITA,Gianluca Di Nicola,M,U,1995
 105456,PER,Sergio Galdos,M,R,1990
 200290,FRA,Valentin Sansonetti,M,U,1990
-122644,NED,Sander Arends,M,U,1991
+122644,NLD,Sander Arends,M,U,1991
 124124,UKR,Filipp Kekercheni,M,R,1988
-105801,NED,David Pel,M,L,1991
+105801,NLD,David Pel,M,L,1991
 105429,AUS,Scott Puodziunas,M,U,1991
 108780,MAD,Lofo Ramiaramanana,M,L,1983
 109536,USA,Mark Oljaca,M,U,1995
@@ -5442,7 +5442,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 105875,FRA,Thomas Giraudeau,M,U,1991
 206840,ITA,Filippo Moggian,M,U,1991
 132278,ITA,Giovanni Orsoni,M,U,1987
-206839,ITF,Filippo Piranomonte,M,U,1992
+206839,ITA,Filippo Piranomonte,M,U,1992
 202431,MAR,Driss Lbahy,M,U,1984
 105778,GER,Tobias Simon,M,R,1991
 105832,MAR,Reda Karakhi,M,U,1991
@@ -5460,7 +5460,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 126450,ITA,Nicolo Turchetti,M,R,1996
 206870,ITA,Gianluca Quinzi,M,L,1996
 206323,ITA,Alessandro Ragazzi,M,U,1994
-106342,LAT,Martins Podzus,M,R,1994
+106342,LVA,Martins Podzus,M,R,1994
 200070,RUS,Kirill Kivattsev,M,U,1995
 119310,ITA,Luca Serena,M,R,1985
 127087,CZE,Dominik Recek,M,U,1989
@@ -5686,12 +5686,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 121604,ARG,Luciano Doria,M,U,1993
 121771,ARG,Brian Orradre,M,L,1992
 106276,ARG,Julian Busch,M,R,1984
-206249,PHI,Leander Lazaro,M,R,1989
+206249,PHL,Leander Lazaro,M,R,1989
 200447,ESP,Diego Garcia Dalisay,M,U,1999
-206813,PHI,Fritz Verdad,M,U,1999
-104591,PHI,Patrick Tierro,M,U,1987
+206813,PHL,Fritz Verdad,M,U,1999
+104591,PHL,Patrick Tierro,M,U,1987
 109331,CHN,Xiao Gong,M,U,1994
-108717,PHI,Francis Casey Alcantara,M,U,1986
+108717,PHL,Francis Casey Alcantara,M,U,1986
 206818,BRA,Christian Oliveira,M,U,1997
 206817,BRA,Joao Luiz Carvalho,M,U,1997
 206816,BRA,Felipe Lima,M,U,1988
@@ -5758,7 +5758,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 206933,USA,Riley H Reist,M,U,1992
 132535,COD,William Bushamuka,M,R,1990
 206932,USA,Matthew Mendez,M,U,1995
-106300,LBA,Fares Ghasya,M,U,1995
+106300,LBY,Fares Ghasya,M,U,1995
 127553,ITA,Manuel Ribeca,M,U,1998
 127554,ITA,Mattia Mannocci,M,U,1991
 128065,ITA,Stefano Baldoni,M,U,1991
@@ -5821,7 +5821,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 200597,ARG,Andres Ariel Fernandez Lopez,M,R,1987
 200621,PAR,Bruno Britez,M,U,1994
 137948,USA,Charles Force,M,U,1992
-119819,LAT,Krisjanis Stabins,M,U,1990
+119819,LVA,Krisjanis Stabins,M,U,1990
 103690,POL,Marcin Matkowski,M,R,1992
 138259,GER,Charly Zick,M,U,1990
 111509,USA,Spencer Papa,M,R,1996
@@ -5829,7 +5829,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 200222,USA,Nicholas S Hu,M,R,1998
 202324,FRA,Maxence Broville,M,R,1988
 134376,GBR,Andrew Watson,M,R,1992
-125848,NED,Niels Lootsma,M,U,1989
+125848,NLD,Niels Lootsma,M,U,1989
 207409,GER,Jason Jeremy Hildebrandt,M,U,1986
 126388,CAN,Raheel Manji,M,R,1990
 207276,CRO,Rocco Savin,M,U,1990
@@ -5866,7 +5866,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 132032,USA,Christopher Rosensteel,M,U,1992
 104187,UKR,Vadim Alekseenko,M,R,1990
 104186,UKR,Gleb Alekseenko,M,R,1993
-202148,NED,Michiel De Krom,M,U,1985
+202148,NLD,Michiel De Krom,M,U,1985
 106011,GER,Sami Reinwein,M,U,1993
 105381,BRA,Thales Turini,M,U,1989
 200482,NOR,Rana Roop Singh Bhullar,M,R,1989
@@ -5929,7 +5929,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 200255,ITA,Alexander Weis,M,U,1997
 106238,ESP,Andres Artunedo Martinavarro,,R,1990
 207173,KAZ,Timur Maulenov,M,R,1990
-133835,NED,Gijs Brouwer,M,L,1993
+133835,NLD,Gijs Brouwer,M,L,1993
 105128,ESP,Guillermo Olaso,M,U,1988
 133925,GER,Leonard Von Hindte,M,R,1991
 126320,ITA,Lorenzo Santini,M,R,1994
@@ -6138,8 +6138,8 @@ player_id,country_id,name,sex,hand,year_of_birth
 204840,CRO,Toni Simonovic,M,R,1992
 203584,VEN,Adriana Perez,F,R,1992
 202900,BOL,Maria Fernanda Alvarez Teran,F,R,1999
-210046,PHI,Anna Clarice Patrimonio,F,R,1990
-215857,PHI,Khim Iglupas,F,U,1998
+210046,PHL,Anna Clarice Patrimonio,F,R,1990
+215857,PHL,Khim Iglupas,F,U,1998
 221814,ECU,Luisa Uscocovich,F,U,1996
 221815,CUB,Isid Hernandez,F,U,1998
 214841,ECU,Mikaela Molina Bugarija,F,U,1998
@@ -6154,8 +6154,8 @@ player_id,country_id,name,sex,hand,year_of_birth
 212281,PUR,Monica Matias,F,U,1996
 221232,HON,Natalie Gabriela Espinal Sanchez,F,R,1996
 215788,HON,Alejandra Obando,F,U,1993
-212272,TRI,Breana Stampfli,F,U,1996
-212165,TRI,Anneliese Rose,F,U,1993
+212272,TTO,Breana Stampfli,F,U,1996
+212165,TTO,Anneliese Rose,F,U,1993
 215165,HON,Daniela Obando,F,R,1995
 221818,BAH,Sydney Clarke,F,U,1993
 221819,PAN,Karen Esther Contreras,F,U,1999
@@ -6164,7 +6164,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221820,PAN,Aranza Lailu Benitez Ellis,F,U,1996
 201683,PER,Bianca Botto,F,L,1991
 210947,PER,Ferny Angeles Paz,F,R,1995
-212233,TRI,Shenelle Mohammed,F,U,1996
+212233,TTO,Shenelle Mohammed,F,U,1996
 212314,TKM,Jahana Bayramova,F,U,1997
 216471,TKM,Guljan Muhammetkuliyeva,F,U,1995
 214621,IRI,Sadaf Sadeghvaziri,F,U,1996
@@ -6175,7 +6175,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 210174,PAK,Sarah Mahboob Khan,F,R,1996
 221106,SGP,Lynelle En Tong Lim,F,U,1996
 221824,SGP,Y kit Nicole Tan,F,U,1994
-215858,SIN,Charmaine Shi Yi Seah,F,U,2000
+215858,SGP,Charmaine Shi Yi Seah,F,U,2000
 221823,PAK,Mahin Qureshi,F,U,2000
 214471,KGZ,Alina Lazareva,F,U,1987
 221826,KGZ,Myrzaiym Sherikulova,F,U,1990
@@ -6225,11 +6225,11 @@ player_id,country_id,name,sex,hand,year_of_birth
 221835,CUB,Yoryana Delgado Herrera,F,U,2003
 221837,CRC,Sofia Perez,F,U,1998
 221838,BAH,Danielle Andrea Thompson,F,U,1995
-221839,BER,Shelby Madeiros,F,U,1995
-212178,BER,Ashley Brooks,F,U,1992
-212232,TRI,Carlista Mohammed,F,U,1999
+221839,BMU,Shelby Madeiros,F,U,1995
+212178,BMU,Ashley Brooks,F,U,1992
+212232,TTO,Carlista Mohammed,F,U,1999
 204355,THA,Katherine Westbury,F,R,1993
-217751,LIB,Nancy Karaky,F,R,1993
+217751,LBY,Nancy Karaky,F,R,1993
 215125,KGZ,Saara Kunakunova,F,U,1995
 221844,IRI,Shahrzad Banisaeid,F,U,1994
 221845,IRI,Kimia Rahmani,F,U,2000
@@ -6291,7 +6291,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 132023,USA,Jean Thirouin,M,U,1996
 208402,RSA,Gerhardt Marius Becker,M,L,1995
 124167,RSA,Vaughn Hunter,M,L,1996
-200242,NED,Mick Veldheer,M,L,1996
+200242,NLD,Mick Veldheer,M,L,1996
 209880,RSA,Carl Roothman,M,U,1992
 139052,ZIM,Muzingaye Dickson Andile Sibanda,M,U,1996
 206776,RSA,Pierre Malan,M,U,1997
@@ -6396,9 +6396,9 @@ player_id,country_id,name,sex,hand,year_of_birth
 202200,AUT,Jakob Aichhorn,M,U,2001
 209130,AUT,Benedikt Emesz,M,R,1992
 202211,AUT,Bjorn Nareyka,M,U,1995
-208334,NED,Deney Wassermann,M,R,1994
-209911,NED,Guy Den Ouden,M,U,1993
-133841,NED,Bart Van Den Berg,M,U,1997
+208334,NLD,Deney Wassermann,M,R,1994
+209911,NLD,Guy Den Ouden,M,U,1993
+133841,NLD,Bart Van Den Berg,M,U,1997
 207502,ROU,Stefan Palosi,M,R,1995
 202150,ROU,Dan Alexandru Tomescu,M,U,2001
 144716,UKR,Oleg Prihodko,M,R,1997
@@ -6424,7 +6424,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 208809,ESP,Nicolas Herrero Cuesta,M,U,1990
 210042,ITA,Gabriele Piraino,M,L,1989
 210054,CZE,Matthew William Donald,M,U,2000
-202161,NED,Bart Stevens,M,R,1992
+202161,NLD,Bart Stevens,M,R,1992
 208115,CZE,Krystof Zapsky,M,U,1993
 207601,ITA,Manuel Mazza,M,U,1993
 128041,SMR,Marco De Rossi,M,R,1984
@@ -6443,7 +6443,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221173,NZL,Valentina Ivanov,F,U,2001
 222296,CHN,Zhuoxuan Bai,F,R,1997
 221382,SVK,Katarina Kuzmova,F,U,1991
-221886,LAT,Kamilla Bartone,F,R,1996
+221886,LVA,Kamilla Bartone,F,R,1996
 221242,ECU,Mell Elizabeth Reasco Gonzalez,F,L,2001
 221799,PUR,Lauren Anzalotta Kynoch,F,U,1993
 221800,PUR,Maria Cecilia Aguiar,F,U,1992
@@ -6600,10 +6600,10 @@ player_id,country_id,name,sex,hand,year_of_birth
 106384,ISR,Or Ram Harel,M,R,1995
 125818,ISR,Shahar Elbaz,M,U,1991
 208641,USA,Jason Kros,M,U,1998
-207793,NED,Alec Deckers,M,R,1987
+207793,NLD,Alec Deckers,M,R,1987
 200365,GER,Christian Seraphim,M,U,1996
 106060,AUT,Thomas Statzberger,M,R,1994
-105199,NED,Stephan Fransen,M,R,1988
+105199,NLD,Stephan Fransen,M,R,1988
 111784,SWE,Gustav Hansson,M,U,1995
 134425,FIN,Mikko Rouvala,M,U,1995
 207418,USA,Alexander Knight,M,U,1993
@@ -6658,12 +6658,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 105164,AUS,Steven Goh,M,R,1987
 126809,FRA,Julien Delaplane,M,U,1998
 202357,TPE,Bang Shuo Yin,M,U,1987
-122498,SIN,Hao Yuan Ng,M,R,1997
+122498,SGP,Hao Yuan Ng,M,R,1997
 200598,USA,Isaiah Strode,M,R,1997
 207934,DEN,Philip Hjorth,M,U,1992
 207344,ITA,Pasquale De Giorgio,M,U,1988
 134429,ITA,Manfred Fellin,M,R,1990
-133933,TOG,Thomas Yaka Kofi Setodji,M,U,1995
+133933,TGO,Thomas Yaka Kofi Setodji,M,U,1995
 208104,ITA,Andrea Picchione,M,U,1994
 104168,ITA,Enrico Iannuzzi,M,R,1993
 207369,UZB,Sardor Ergashev,M,U,2001
@@ -6798,7 +6798,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221126,SGP,Tammy Tan,F,U,1994
 223133,GUM,Katrina Lai,F,U,1993
 223134,GUM,Nadine Del Carmen,F,U,1995
-223135,PHI,Shaira Hope Rivera,F,U,1999
+223135,PHL,Shaira Hope Rivera,F,U,1999
 223136,TKM,Rozhan Karajayeva,F,U,1999
 223137,TKM,Arzuv Klycheva,F,U,1993
 223005,THA,Anchisa Chanta,F,U,1997
@@ -6854,9 +6854,9 @@ player_id,country_id,name,sex,hand,year_of_birth
 221434,BLR,Aliona Falei,F,U,1995
 221029,BRA,Marina Figueiredo,F,U,1996
 221030,BRA,Camilla Bossi,F,U,1993
-221047,PHI,Hanna Grace Espinosa,F,U,1996
+221047,PHL,Hanna Grace Espinosa,F,U,1996
 221048,SWE,Nathalie Johansson,F,U,2002
-221049,NED,Stanzi Stuijt,F,U,2002
+221049,NLD,Stanzi Stuijt,F,U,2002
 221050,SRB,Lana Macukat,F,U,1988
 221279,UKR,Violetta Dominova,F,U,1992
 221178,RUS,Darya Astakhova,F,R,2002
@@ -6957,7 +6957,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220608,ROU,Denisa Elena Gheorghe,F,U,1995
 219853,GRE,Danai Petroula,F,U,1998
 221069,ITA,Eleonora Alvisi,F,U,1997
-219831,NED,Sem Wensveen,F,R,1997
+219831,NLD,Sem Wensveen,F,R,1997
 221082,USA,Lina Boylan,F,U,1998
 221038,IND,Muskan Gupta,F,U,2001
 221083,EGY,Aya El Sayed,F,U,2001
@@ -6974,7 +6974,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221375,RUS,Alisa Kummel,F,R,1994
 220936,ITA,Francesca Rumi,F,U,1987
 214418,IND,Vaidehi Chaudhari,F,U,2000
-221400,NED,Margriet Timmermans,F,U,1994
+221400,NLD,Margriet Timmermans,F,U,1994
 221057,USA,Nina Ugrelidze,F,R,1995
 219444,ITA,Giuliana Bestetti,F,R,1992
 221401,GBR,Olivia Elliott,F,U,1994
@@ -7002,7 +7002,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221474,EGY,Yasmin Ezzat,F,U,1998
 220130,CRO,Lana Sipek,F,U,2000
 221229,JPN,Natsumi Kawaguchi,F,U,2002
-221230,VIN,Khyanna Singh,F,U,2002
+221230,VCT,Khyanna Singh,F,U,2002
 221231,USA,Nina Gulbransen,F,R,1990
 220157,GUA,Rut Galindo,F,U,2001
 215695,USA,Kiah Generette,F,U,2001
@@ -7020,7 +7020,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 208499,MEX,Andrea Martinez,F,U,1999
 221115,USA,Julia Ronney,F,U,1996
 221197,ESP,Lucia Llinares Domingo,F,R,1998
-221019,NED,Isabelle Haverlag,F,U,1993
+221019,NLD,Isabelle Haverlag,F,U,1993
 214444,ESP,Estela Perez Somarriba,F,U,1998
 221198,GUD,Anne Sophie Morandais,F,U,1999
 221286,ESP,Silvia Vargas Jimenez,F,U,1999
@@ -7050,15 +7050,15 @@ player_id,country_id,name,sex,hand,year_of_birth
 221458,ESP,Silvia Martinez Jimenez,F,U,2000
 221204,EST,Helena Narmont,F,U,1999
 221205,EST,Sofiya Chekhlystova,F,R,1999
-221206,LAT,Stefanija Polischuk,F,U,2000
-221207,LAT,Margarita Ignatjeva,F,R,2001
+221206,LVA,Stefanija Polischuk,F,U,2000
+221207,LVA,Margarita Ignatjeva,F,R,2001
 221222,FIN,Venla Ahti,F,U,2000
 221085,SWE,Sydney Berlin,F,L,1984
 221223,CAN,Maria Tanasescu,F,R,1999
 220989,USA,Harris Caldwell,F,R,1992
 220318,ARG,Francesca M Fanchin,F,R,1998
 215085,USA,Zoe Hitt,F,R,1991
-220990,MRN,Dieuvela Gaspard,F,R,1964
+220990,MTQ,Dieuvela Gaspard,F,R,1964
 220991,SUI,Nadja Lorena Stehli,F,R,1995
 210327,USA,Morocco Hitt,F,R,1992
 220992,GUD,Melissa Landres,F,R,1994
@@ -7100,7 +7100,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221033,SWE,Tina Vlajic,F,R,1999
 221034,GRE,Anna Arkadianou,F,U,2001
 221042,USA,Catherine Gulihur,F,U,1997
-220957,NED,Katerina Antoniou,F,R,1993
+220957,NLD,Katerina Antoniou,F,R,1993
 221053,GRE,Zoi Spyrou,F,R,1995
 204373,DEN,Maria Jespersen,F,R,1991
 221411,ITA,Jennifer Ruggeri,F,R,1998
@@ -7264,7 +7264,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221100,USA,Charlotte Chavatipon,F,U,2002
 220010,SRB,Sofija Mandic,F,U,1995
 213684,GER,Julia Mikulski,F,U,1998
-221255,NED,Nynke Hamburg,F,U,2000
+221255,NLD,Nynke Hamburg,F,U,2000
 211888,NGR,Osariemen Airhunmwunde,F,U,2003
 221360,USA,Adesuwa Osabuohien,F,R,1994
 215761,NGR,Aanu Ayegbusi,F,U,1999
@@ -7301,7 +7301,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221386,SUI,Sebastianna Scilipoti,F,U,2003
 220480,GER,Xenia De Luna,F,R,2000
 220917,ESP,Eva Beyebach Munoz,F,U,2001
-215703,NED,Anastasiya Mulder Syrovatskaia,F,R,2002
+215703,NLD,Anastasiya Mulder Syrovatskaia,F,R,2002
 221388,FRA,Aminata Sall,F,L,2002
 221182,ROU,Alexandra Iordache,F,R,1997
 221169,ROU,Raluca Maria Tudorache,F,U,2000
@@ -7471,12 +7471,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 221537,ESP,Paloma Perez Bota,F,R,2003
 221515,RUS,Maria Andrienko,F,U,1998
 223229,ESP,Alba Ferreres Fernandez,F,U,2002
-202545,LAT,Irina Kuzmina,F,R,1999
+202545,LVA,Irina Kuzmina,F,R,1999
 221521,FIN,Emilia Hartman,F,U,2000
 221645,UNK,Trinite Klamadji,F,R,1992
 221513,ITA,Valentina Taddia,F,U,1999
 211064,GER,Hannah Nagel,F,R,2001
-221638,NED,Danique Baart,F,U,1999
+221638,NLD,Danique Baart,F,U,1999
 221511,USA,Ruth Marsh,F,U,2001
 221633,USA,Sophie Williams,F,U,1999
 221509,USA,Ava Hrastar,F,U,2002
@@ -7512,7 +7512,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 210256,ARG,Maria Daniela Frascini,F,R,1992
 222658,ARG,Noelia Belen Acosta,F,U,1992
 222659,ARG,Luciana Blatter,F,U,1998
-222340,NED,Reza Timmerman,F,U,1998
+222340,NLD,Reza Timmerman,F,U,1998
 222688,ARG,Sofia Constanza Karlau,F,U,1993
 222689,ARG,Tiziana Rossini,F,U,2002
 222838,ARG,Sol Rabin,F,U,1998
@@ -7610,7 +7610,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221965,BEL,Morgane Van Den Bergh,F,R,1996
 222443,BEL,Beau Deleu,F,U,1998
 221759,BEL,Maria Lemonakis,F,U,1996
-222444,NED,Zoe Gubbels,F,U,2000
+222444,NLD,Zoe Gubbels,F,U,2000
 221549,FRA,Mathilde Dury,F,U,1998
 222478,USA,Layla Bryant,F,U,2002
 222479,BEL,Emeline De Witte,F,R,2001
@@ -7811,7 +7811,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221798,EGY,Ritage Faizy,F,R,1996
 221777,TUN,Feryel Ben Hassen,F,R,1992
 221864,ITA,Federica Sacco,F,R,1997
-205783,NED,Michelle De Groot,F,U,2000
+205783,NLD,Michelle De Groot,F,U,2000
 210158,LTU,Iveta Dapkute,F,R,1993
 221901,BLR,Darya Shauha,F,U,2003
 221992,EGY,Mariam Samy,F,U,2000
@@ -7857,11 +7857,11 @@ player_id,country_id,name,sex,hand,year_of_birth
 222508,POL,Urszula Nebelska,F,U,1996
 215000,USA,Paige Cline,F,U,1996
 222395,ITA,Anita Bertoloni,F,R,2001
-221994,NED,Demi Tran,F,R,1990
+221994,NLD,Demi Tran,F,R,1990
 222847,ROU,Vanessa Ioana Georgiana Popa Teiusanu,F,U,1998
 222885,FRA,Brigitte Manceau,F,R,2001
 222886,UKR,Sabina Zeynalova,F,U,2000
-222276,NED,Jasmijn Gimbrere,F,R,2004
+222276,NLD,Jasmijn Gimbrere,F,R,2004
 222911,GER,Katharina Rothacker,F,U,2000
 222829,RUS,Mayya Gorbunova,F,R,1997
 222925,AUT,Viktoria Kurz,F,R,1999
@@ -7940,24 +7940,24 @@ player_id,country_id,name,sex,hand,year_of_birth
 222824,ESP,Maria Dolores Lopez Martinez,F,U,2003
 222796,ESP,Irene Artigas,F,R,1999
 221721,RUS,Elizaveta Kuznetsova,F,U,2000
-221578,LAT,Jekaterina Sagejeva,F,U,2000
+221578,LVA,Jekaterina Sagejeva,F,U,2000
 221726,RUS,Dasha Borodatova,F,R,2001
 222378,EST,Viktoria Kleer Kliimand,F,U,1999
 222093,FIN,Eveliina Koivupuisto,F,R,1999
 222350,EST,Lissi Kubre,F,U,1997
-221985,LAT,Darja Semenistaja,F,R,2002
+221985,LVA,Darja Semenistaja,F,R,2002
 222379,EST,Polina Ramenskaja,F,U,1999
-222380,LAT,Darta Dalecka,F,R,2000
+222380,LVA,Darta Dalecka,F,R,2000
 222381,EST,Anet Angelika Koskel,F,U,2001
 219640,RUS,Maria Mikhaylova,F,U,2001
 222382,EST,Aurelia Riga,F,U,2000
 214339,RUS,Arina Petrova,F,U,1998
 222914,EST,Liisa Varul,F,U,1995
 221729,USA,Anna Borovinskaya,F,U,1997
-222916,LAT,Marija Semenistaja,F,U,1999
+222916,LVA,Marija Semenistaja,F,U,1999
 222917,EST,Diandra Suitso,F,U,2000
 222857,EST,Lauren Elisabeth Lind,F,R,2000
-222669,LAT,Patricija Spaka,F,L,2002
+222669,LVA,Patricija Spaka,F,L,2002
 222918,EST,Andrea Roots,F,U,2002
 222919,RUS,Julia Avdeeva,F,R,2002
 220618,FIN,Lotta Heiskanen,F,U,2003
@@ -8104,7 +8104,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 222960,GRE,Aspasia Katsouda Taka,F,U,1975
 222961,RUS,Alina Mukhortova,F,U,1999
 222581,UKR,Anna Laura Hinka,F,U,2001
-221568,NED,Madelief Hageman,F,L,2003
+221568,NLD,Madelief Hageman,F,L,2003
 219462,FRA,Mir Ambaye,F,U,2003
 222978,CHN,Wanyi Zhang,F,U,2000
 222979,USA,Ella Leroy,F,R,2001
@@ -8361,7 +8361,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221787,KOR,Jooyeon Jeong,F,U,1998
 221602,UNK,Suhyun Lim,F,U,1990
 210729,LUX,Tatiana Silbereisen,F,R,2003
-222889,LAT,Kira Golenko,F,U,2002
+222889,LVA,Kira Golenko,F,U,2002
 222890,POL,Karina Gustowska,F,U,2001
 219283,SWE,Victoria Pahlett,F,R,1989
 220946,LUX,Marie Weckerle,F,U,1999
@@ -8466,7 +8466,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 211988,COL,Alejandra Gutierrez,F,U,1997
 222909,USA,Leyden Games,F,U,1997
 222962,RUS,Sofia Matiushova,F,R,1997
-222748,NED,Emma Van Poppel,F,U,2000
+222748,NLD,Emma Van Poppel,F,U,2000
 222033,USA,Vanessa Ong,F,R,2002
 222837,USA,Malaika Rapolu,F,U,1999
 221702,ARG,Nicole Poj,F,U,1996
@@ -8484,13 +8484,13 @@ player_id,country_id,name,sex,hand,year_of_birth
 222677,MNE,Tea Nikcevic,F,U,2001
 215883,MNE,Andrea Cetkovic,F,U,1996
 222678,SRB,Senka Deletic,F,R,2001
-222274,NED,Melissa Boyden,F,R,1996
+222274,NLD,Melissa Boyden,F,R,1996
 221712,SWE,Agnes Gustafsson,F,R,1999
-222275,NED,Bente Spee,F,U,1998
-222017,NED,Anouk Koevermans,F,R,1997
-222482,NED,Elysia Pool,F,U,1997
-222550,NED,Min Chae Kim,F,U,2002
-222551,NED,Sophie Wagemaker,F,L,2001
+222275,NLD,Bente Spee,F,U,1998
+222017,NLD,Anouk Koevermans,F,R,1997
+222482,NLD,Elysia Pool,F,U,1997
+222550,NLD,Min Chae Kim,F,U,2002
+222551,NLD,Sophie Wagemaker,F,L,2001
 222553,USA,Maika M Adair,F,U,1998
 205898,NGR,Abiodun Oyegoke,F,U,1986
 222818,NGR,Amala Nwokolo,F,U,2004
@@ -8513,7 +8513,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 222875,NOR,Anine Wilberg,F,U,2001
 222876,NOR,Mille Langaas,F,U,2004
 222845,POL,Matylda Burylo,F,U,1999
-222877,NED,Annemart Kleijn,F,R,2001
+222877,NLD,Annemart Kleijn,F,R,2001
 222896,PAR,Carlota Maria Pavia Sanchez,F,U,1999
 222513,PAR,Leyla Fiorella Britez Risso,F,U,1997
 222301,PER,Valeria Lloclla,F,U,1997
@@ -8524,11 +8524,11 @@ player_id,country_id,name,sex,hand,year_of_birth
 222304,PER,Alessia Martinez,F,U,1997
 222302,PER,Micaela Ode,F,U,1997
 222338,PER,Andrea Quiroz,F,U,1998
-215261,NED,Iris Julia Antje Verweij,F,U,1995
+215261,NLD,Iris Julia Antje Verweij,F,U,1995
 222339,PER,Patricia Cano,F,U,1998
 222303,PER,Michela Montori Rodriguez,F,U,1997
 222342,PER,Manuela Zegarra Ballon,F,U,1997
-214201,NED,Jocelijn Cavero Roeper,F,U,2000
+214201,NLD,Jocelijn Cavero Roeper,F,U,2000
 222352,PER,Daniela Rubio,F,U,1996
 222386,PER,Gia Posito,F,U,1998
 222387,PER,Lara Manzur,F,U,1998
@@ -8601,7 +8601,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 222723,RSA,Georgia Kennealy,F,U,1998
 222770,RSA,Martina Garnevska,F,U,1998
 222771,RSA,Kagiso Ledwaba,F,U,2000
-222724,BOT,Tshegofatso Tsiang,F,U,2001
+222724,BWA,Tshegofatso Tsiang,F,U,2001
 222725,RSA,Georgia Hosking,F,R,2002
 221786,RUS,Alena Kubanova,F,U,1997
 222554,RUS,Ksenia Meshcheryakova,F,U,1997
@@ -8654,7 +8654,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 220943,SWE,Johanna Strom,F,U,1999
 222855,SWE,Ruya Mavi,F,R,1991
 222892,SWE,Saga Koch,F,U,2001
-222152,PHI,Ashley Mckenzie,F,U,2002
+222152,PHL,Ashley Mckenzie,F,U,2002
 222182,THA,Roong Sirinuntavitaya,F,R,1999
 222413,THA,Natasha Sengphrachanh,F,R,1997
 219681,THA,Rada Manataweewat,F,R,1992
@@ -8679,7 +8679,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 222089,TTO,Kimberly Sabga,F,U,1995
 222090,TTO,Shauna Valentine,F,U,1997
 222136,USA,Danielle Alamo,F,R,1995
-207461,TRI,Kaisaran Siewrattan,F,U,1992
+207461,TTO,Kaisaran Siewrattan,F,U,1992
 221776,TUN,Sawssan Bouhlel,F,U,1992
 221767,TUN,Wiem Boubaker,F,U,1992
 221764,TUN,Amal Gati,F,U,2001
@@ -8719,7 +8719,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 211743,ITA,Sveva Mazzari,F,U,2002
 222823,SUI,Julie Schalch,F,U,1999
 221682,FRA,Jenifer Anger,F,U,2001
-222906,NED,Noesjka Brink,F,U,1998
+222906,NLD,Noesjka Brink,F,U,1998
 222912,ITA,Linda Canteri,F,R,2001
 222913,USA,Marika Jones,F,U,1996
 222932,ITA,Camilla Iervolino,F,U,1997
@@ -8786,7 +8786,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 223017,TUR,Billur Gonlusen,F,U,2000
 220653,ITA,Martina Girardi,F,U,1993
 223018,RUS,Anastasia Kovaleva,F,U,1998
-223019,NED,Ivana Milosevic,F,U,1997
+223019,NLD,Ivana Milosevic,F,U,1997
 211061,TUR,Gizem Melisa Ates,F,U,1998
 211963,TUR,Ege Tomey,F,U,2001
 222738,UKR,Karyna Kachur,F,L,1998
@@ -8827,7 +8827,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 221957,USA,Nicole Nowak,F,U,1997
 221958,USA,Margaret Polk,F,U,1999
 222021,USA,Nicole Hammond,F,R,2000
-222004,ZAM,Naomi Chileshe,F,U,1999
+222004,ZMB,Naomi Chileshe,F,U,1999
 222005,GHA,Elizabeth Kapari Bagerbaseh,F,R,1995
 222006,USA,Nikki Yanez,F,U,1997
 221741,MDA,Abigail Rencheli,F,R,2002
@@ -8879,7 +8879,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 222408,USA,Maria Santilli,F,U,1995
 222409,USA,Madison Riley,F,U,2000
 222410,USA,Cambelle Bouchard,F,U,1997
-447372,LAT,Liga Dekmeijere,F,R,1995
+447372,LVA,Liga Dekmeijere,F,R,1995
 222464,USA,Malissa Vos,F,U,1997
 222465,USA,Elyssa Ducret,F,U,1997
 221519,USA,Kelley Anderson,F,U,1993
@@ -8967,7 +8967,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 108705,TUN,Anis Ghorbel,M,R,1991
 123773,GEO,Giorgi Javakhishvili,M,R,1997
 134854,GEO,Irakli Metreveli,M,U,1997
-144854,LAT,Rudolfs Mednis,M,U,1996
+144854,LVA,Rudolfs Mednis,M,U,1996
 122082,PAR,Francisco Yim Kim,M,R,1993
 144799,VEN,Miguel Angel Este,M,U,1998
 200622,PAR,Hernando Jose Escurra Isnardi,M,U,1998
@@ -8986,7 +8986,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 103813,FIN,Jarkko Nieminen,M,L,1981
 104495,ROU,Florin Mergea,M,R,1988
 104763,ESA,Rafael Arevalo,M,R,1989
-111781,LAT,Janis Podzus,M,L,1994
+111781,LVA,Janis Podzus,M,L,1994
 126143,DEN,Andreas Bjerrehus,M,U,1994
 202219,LTU,Tomas Vaise,M,U,1994
 104043,ESP,Marc Lopez,M,R,1982
@@ -9001,7 +9001,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 200272,MAD,Jean Jacques Rakotohasy,M,U,1994
 103531,MON,Thomas Oger,M,U,1980
 105798,SLO,Tilen Zitnik,M,R,1980
-123915,LAT,Arturs Lazdins,M,R,1997
+123915,LVA,Arturs Lazdins,M,R,1997
 103875,IRI,Anoosha Shahgholi,M,U,1980
 106085,IRI,Hamid Reza Nadaf,M,R,1992
 144949,CYP,Menelaos Efstathiou,M,R,1987
@@ -9059,39 +9059,39 @@ player_id,country_id,name,sex,hand,year_of_birth
 223321,BEL,Sofia Costoulas,F,U,2001
 228909,BEL,Amelie Van Impe,F,R,1997
 245079,BEL,Romane Longueville,F,U,2003
-223425,NED,Eloise De Mooij,F,U,2003
+223425,NLD,Eloise De Mooij,F,U,2003
 245080,BEL,Chyara Onia Seke,F,U,2003
 241732,DEN,Cecilie Wiche,F,U,1999
-228109,NED,Dilara Okur,F,U,1995
-239467,NED,Charlotte Wijkamp,F,U,2002
-241728,DEU,Annemarie Lazar,F,U,2003
+228109,NLD,Dilara Okur,F,U,1995
+239467,NLD,Charlotte Wijkamp,F,U,2002
+241728,GER,Annemarie Lazar,F,U,2003
 214090,ARG,Maria Jose Zehnder,F,U,1996
 245081,BEL,Florence Fedeli,F,U,1996
 234474,FRA,Alyssa Reguer,F,U,2001
 223437,FRA,Cosima Trinity Calinescu,F,U,2000
 245082,BEL,Cristine Tchanichev,F,U,2000
 238331,FRA,Camilia Samel Druz,F,U,1996
-223418,NED,Klara Veldman,F,U,1999
+223418,NLD,Klara Veldman,F,U,1999
 239183,GER,Emma Kette,F,U,1999
-223422,NED,Annika Barth,F,U,2000
-223426,NED,Irene Zorg,F,U,2000
+223422,NLD,Annika Barth,F,U,2000
+223426,NLD,Irene Zorg,F,U,2000
 245083,BEL,Laure Line Monnoyer,F,U,2000
 243420,BEL,Hanne Vandewinkel,F,U,1995
-241713,DEU,Chiara Tomasetti,F,U,2002
+241713,GER,Chiara Tomasetti,F,U,2002
 233718,RUS,Maria Sholokhova,F,U,1998
 223285,FRA,Anaelle Leclercq,F,U,1997
-241721,NED,Gigi Sy A Foek,F,U,2000
+241721,NLD,Gigi Sy A Foek,F,U,2000
 241722,BEL,Astrid Schmits,F,U,2000
 241723,BEL,Lucie Rabiot,F,U,2000
 241724,FIN,Daliyah Hammoud,F,U,2000
-241725,NED,Laila Ghazouani,F,U,2000
+241725,NLD,Laila Ghazouani,F,U,2000
 241726,FRA,Lena Thomas Iglesias,F,U,2003
-241727,DEU,Kayleigh Castillo,F,U,2000
+241727,GER,Kayleigh Castillo,F,U,2000
 233740,SWE,Izabelle Persson,F,U,2000
 224483,RUS,Aglaya Zaynieva,F,U,2000
 223420,ROU,Nisrin Stoica,F,U,2003
 241729,BEL,Florence Fohnen,F,U,2000
-241730,DEU,Leandra Nizetic,F,U,2000
+241730,GER,Leandra Nizetic,F,U,2000
 223349,ROU,Andreea Alexandra Lila,F,U,2001
 239432,GER,Emily Castillo,F,U,1995
 239384,SRB,Fatma Idrizovic,F,U,1995
@@ -9229,9 +9229,9 @@ player_id,country_id,name,sex,hand,year_of_birth
 223203,CAN,Dasha Plekhanova,F,U,2000
 232874,ITA,Andrea Maria Artimedi,F,U,1997
 223397,LTU,Klaudija Bubelyte,F,U,2000
-232875,NED,Valerie Griffejoen,F,U,1989
+232875,NLD,Valerie Griffejoen,F,U,1989
 223178,RUS,Aleksandra Melnikova,F,U,1999
-223404,LAT,Sabine Rutlauka,F,U,2002
+223404,LVA,Sabine Rutlauka,F,U,2002
 233744,ITA,Sara Donnini,F,U,2000
 223289,RUS,Anastasiya Apalikhina,F,U,2001
 223153,RUS,Maria Mikhailova,F,U,1999
@@ -9261,12 +9261,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 238064,USA,Clervie Ngounoue,F,U,1996
 223065,GER,Yvette Schmucker,F,U,2001
 238066,SAU,Yara Alhogbani,F,U,2001
-223309,NED,Renee Van Bommel,F,U,2005
-231645,NED,Sem Hazes,F,U,2003
+223309,NLD,Renee Van Bommel,F,U,2005
+231645,NLD,Sem Hazes,F,U,2003
 238080,EGY,Karina Mohamed,F,U,2001
 238188,EGY,Mariam Ibrahim,F,U,2000
 238189,EGY,Farida Ahmed Hassan Amin Elsayed,F,U,2000
-240995,DEU,Lea Jakic,F,U,1989
+240995,GER,Lea Jakic,F,U,1989
 238071,ITA,Chiara Fornasieri,F,U,1998
 241002,EGY,Malak Arafat,F,U,1999
 223324,EGY,Dalia Sherif,F,U,2000
@@ -9297,7 +9297,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 231640,GER,Charlotte Biebel,F,U,2001
 223197,FRA,Joanna Tomera,F,U,2000
 231642,ESP,Irene Fuster Hidalgo,F,U,2001
-223380,NED,Clarine Lerby,F,U,2001
+223380,NLD,Clarine Lerby,F,U,2001
 232876,GBR,Lojan Shaker,F,U,1999
 232877,ITA,Clotilde Cobianchi,F,U,1999
 232878,ITA,Margherita Viglietti,F,U,2003
@@ -9365,7 +9365,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 239408,ESP,Andrea Martin Pavon,F,U,2000
 214296,USA,Erica Oosterhout,F,U,1998
 211515,COL,Daniela Lozano,F,U,2004
-236989,NED,Vanja Gudelj,F,U,2001
+236989,NLD,Vanja Gudelj,F,U,2001
 223370,GBR,Iman Khan,F,U,1999
 241004,ESP,Lola Diaz Gonzalez,F,U,2000
 241005,ITA,Giulia Caramelli,F,U,2000
@@ -9440,15 +9440,15 @@ player_id,country_id,name,sex,hand,year_of_birth
 238203,RUS,Alisa Zolotukhina,F,U,1999
 239125,GEO,Nutsa Tsintsadze,F,U,2001
 240164,GEO,Ketevan Jeladze,F,U,2000
-238201,NGA,Oluchukwu Jennifer Nkili,F,U,2001
+238201,NGR,Oluchukwu Jennifer Nkili,F,U,2001
 241010,RUS,Amrita Tsabolova,F,U,2001
 223399,GER,Selina Dal,F,U,2000
 230870,GER,Ella Seidel,F,U,2002
 230881,GER,Nicole Rivkin,F,U,1997
 230882,GER,Carolina Kuhl,F,U,1996
-244075,DEU,Paula Rumpf,F,U,1999
+244075,GER,Paula Rumpf,F,U,1999
 244076,BRA,Lais Schroeder,F,U,2000
-244085,DEU,Lea Von Kozierowski,F,U,1998
+244085,GER,Lea Von Kozierowski,F,U,1998
 244086,ROU,Andreea Mihwela Onitoiu,F,U,2001
 235162,GER,Amelie Christin Janssen,F,U,1999
 239132,GER,Meryem Alexandra Guener,F,U,2001
@@ -9457,14 +9457,14 @@ player_id,country_id,name,sex,hand,year_of_birth
 239126,CZE,Emma Slavikova,F,U,1998
 239127,GRE,Anna Novratidou,F,U,2001
 239128,GRE,Antonia Eleni Bazou,F,U,1996
-238198,BGR,Anna Evstatieva,F,U,2002
+238198,BUL,Anna Evstatieva,F,U,2002
 239165,GBR,Annali Olivelle,F,U,1998
 239166,NLD,Dunya Charalampopoulos,F,U,1998
 239167,ROU,Diana Maria Ilie,F,U,1999
 239169,CZE,Blanka Slukova,F,U,1999
 239410,FRA,Sydji Peszynski,F,U,2002
 239411,GRE,Rafaela Platsiota,F,U,2000
-239412,NED,Rachelle Starreveld,F,U,1996
+239412,NLD,Rachelle Starreveld,F,U,1996
 223409,CZE,Karolina Mrowiecova,F,U,2002
 239413,POL,Aleksandra Wierzbowska,F,U,1998
 239414,FRA,Noa Dujardin,F,U,2003
@@ -9571,7 +9571,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 239158,RUS,Daria Zelinskaya,F,U,2000
 245088,KAZ,Asima Sazan,F,U,2002
 245089,KAZ,Tomiris Mussina,F,U,1998
-223080,LAT,Elza Tomase,F,U,1993
+223080,LVA,Elza Tomase,F,U,1993
 239171,LVA,Tereze Vevere,F,U,1985
 239172,LTU,Emilija Tverijonaite,F,U,1998
 239173,LVA,Anna Jakovleva,F,U,1997
@@ -9585,7 +9585,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 239388,LTU,Patricija Cechanaviciute,F,U,1993
 239418,LTU,Saule Bileviciene,F,U,2001
 239131,LTU,Tia Kaukenas,F,U,2000
-223334,NED,Florentine Dekkers,F,U,1999
+223334,NLD,Florentine Dekkers,F,U,1999
 239480,POL,Jowana Kolowrotkiewicz,F,U,1999
 239481,POL,Amelia Kopel,F,U,2001
 239482,POL,Wiktoria Rutkowska,F,U,1996
@@ -9607,7 +9607,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 239420,POR,Maria Beatriz Teixeira,F,U,1997
 240997,ROU,Maria Aldea Wesselly,F,U,1996
 241011,GBR,Andra Sutherland,F,U,2000
-221540,NED,Isabelle Popma,F,U,1996
+221540,NLD,Isabelle Popma,F,U,1996
 238081,POR,Carolina Mesquita,F,U,2001
 239464,POR,Maria Joao Fonseca,F,U,2001
 239465,USA,Nicole Kiefer,F,U,1994
@@ -9684,7 +9684,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 224481,CZE,Izabela Heinzova,F,U,2001
 232893,TUN,Linda Ajimi,F,U,1998
 233735,SUI,Julie Sappl,F,U,2000
-233745,NED,Michelle Dzjachangirova,F,U,1996
+233745,NLD,Michelle Dzjachangirova,F,U,1996
 234506,GBR,Isabelle Cherny,F,U,2001
 236956,MAR,Yasmine Kabbaj,F,U,2001
 236984,TUN,Asma Ben Abdallah,F,U,2000
@@ -9694,7 +9694,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 236988,DEN,Sara Borkop,F,U,1999
 223175,LUX,Liz Badde,F,U,1998
 237467,NLD,Danique Havermans,F,U,2000
-223419,NED,Sanne Schalekamp,F,U,2001
+223419,NLD,Sanne Schalekamp,F,U,2001
 237468,LTU,Emilija Pranyte,F,U,1998
 237469,GER,Marlene Foerster,F,U,1999
 237483,GBR,Isabella Lynch,F,U,1999
@@ -9724,11 +9724,11 @@ player_id,country_id,name,sex,hand,year_of_birth
 239493,TUN,Khadija Ben Salem,F,U,2000
 221635,ITA,Ireni Lucia,F,U,2002
 239186,USA,Lexington Reed,F,U,1996
-240166,GRC,Marianna Argyrokastriti,F,U,1998
+240166,GRE,Marianna Argyrokastriti,F,U,1998
 240167,IND,Vineetha Mummadi,F,U,1998
 241014,RUS,Elizaveta Gavrilova,F,U,2003
 241015,ITA,Francesca Miglio,F,U,2001
-241016,DEU,Aaliyah Hohmann,F,U,2001
+241016,GER,Aaliyah Hohmann,F,U,2001
 241017,RUS,Iuliia Iudenko,F,U,1996
 241751,BLR,Yana Maria Khadarovich,F,U,2000
 241752,ITA,Margherita Trolese,F,U,2001
@@ -9772,7 +9772,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 233748,TUR,Leyla Nilufer Elmas,F,U,2001
 234249,TUR,Alina Muradow,F,U,1993
 234250,TUR,Zehra Canbaz,F,U,1999
-234507,NED,Amber Maatman,F,U,2002
+234507,NLD,Amber Maatman,F,U,2002
 234508,UKR,Dasha Zhabotina,F,U,1998
 235163,TUR,Zeynep Ekin Barut,F,U,2000
 235164,SVK,Noemi Babikova,F,U,2002
@@ -9796,8 +9796,8 @@ player_id,country_id,name,sex,hand,year_of_birth
 239130,GER,Liva Yildiz,F,U,2003
 219927,TUR,Gozde Turhan,F,U,2001
 239184,GER,Fabienne Kim Degroot,F,U,1999
-223421,NED,Coco Bosman,F,U,2002
-239430,NED,Liena Ammar,F,U,1999
+223421,NLD,Coco Bosman,F,U,2002
+239430,NLD,Liena Ammar,F,U,1999
 239431,TUR,Defne Ursan,F,U,2000
 223450,TUR,Ceylin Ipek,F,U,1991
 239433,TUR,Rana Bozdag,F,U,2002
@@ -9840,7 +9840,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 238210,USA,Andrea Burkhardt,F,U,1994
 201768,USA,Gail Falkenberg,F,U,2000
 223146,USA,Isabella Barrera Aguirre,F,U,2001
-238211,CRI,Elena Salazar Roca,F,U,1998
+238211,CRC,Elena Salazar Roca,F,U,1998
 223453,USA,Brooklyn Olson,F,U,1998
 239103,USA,Mckenna Schaefbauer,F,U,2000
 239104,USA,Kara Leigh Leonard,F,U,2003
@@ -9983,12 +9983,12 @@ player_id,country_id,name,sex,hand,year_of_birth
 223168,USA,Mary Stoiana,F,U,1998
 223061,RUS,Maria Nikitina,F,U,1998
 223063,RUS,Katerina Petrova,F,U,1998
-221730,NED,Bo Luttikhuis,F,U,1999
+221730,NLD,Bo Luttikhuis,F,U,1999
 214056,COL,Angelica Maria Ochoa Martinez,F,U,1998
 206306,PUR,Koralie Etienne,F,R,1997
-223423,NED,Sophie Schouten,F,U,2001
-223424,NED,Marente Sijbesma,F,U,2000
-223427,NED,Annelin Bakker,F,U,1999
+223423,NLD,Sophie Schouten,F,U,2001
+223424,NLD,Marente Sijbesma,F,U,2000
+223427,NLD,Annelin Bakker,F,U,1999
 219358,NZL,Kelly Southwood,F,U,2004
 223158,NZL,Shona Nakano,F,U,1996
 223159,NZL,Vivian Yang,F,U,1997
@@ -10005,7 +10005,7 @@ player_id,country_id,name,sex,hand,year_of_birth
 223429,PUR,Madalena Marques,F,U,1995
 223430,PUR,Joana Indio,F,U,1995
 223432,PUR,Maria Pinto,F,U,1999
-223434,BAN,Jhilik Chakma,F,U,2003
+223434,BGD,Jhilik Chakma,F,U,2003
 223335,CAN,Cadence Brace,F,U,1996
 223438,CAN,Stefanie Frias Da Silva,F,U,1993
 223275,RSA,Tiffany Anne Beukes,F,U,1997

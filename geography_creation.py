@@ -73,4 +73,4 @@ def geography_to_csv(path, language_file):
     file_continent.close()
 
 language_file = Path("languages.txt")
-geography_to_csv("data2021/countries.csv", language_file)
+geography_to_csv("data2021/countries_cleaned.csv", language_file)
