@@ -8,9 +8,9 @@ username = "Group_3"
 password = "GN3RTNTX"
 connectionString = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER=' + server + ';DATABASE=' + database + ';UID=' + username + ';PWD=' + password
 
-sql = "INSERT INTO Tournament (tourney_id,date_id,tourney_name,surface,draw_size,tourney_level,turney_spectators,tourney_revenue) VALUES (?,?,?,?,?,?,?,?,?,?)"
+sql = "INSERT INTO Tournament (tourney_id,date_id,tourney_name,surface,draw_size,tourney_level,tourney_spectators,tourney_revenue) VALUES (?,?,?,?,?,?,?,?)"
 
-file_tournament = open("output/player.csv", mode='r')
+file_tournament = open("output/tournament.csv", mode='r')
 csv_file = csv.DictReader(file_tournament, delimiter=",")
 
 cnxn = pyodbc.connect(connectionString)
