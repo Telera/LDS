@@ -43,10 +43,10 @@ def fill_missing_sex(path_player, path_match):
     players_full.rename(columns={'index': 'player_id'}, inplace=True)
     cols_order = ['player_id', 'country_id', 'name', 'sex', 'hand', 'year_of_birth']
     players_full = players_full[cols_order]
+    print(players_full.info())
+    print(players_full.isnull().sum())
     return(players_full)
 
 
-    #print(players['sex'].isnull().sum())
-    #print(players.info())
-
-fill_missing_sex("output/player.csv", "output/match.csv")
+players_cleaned = fill_missing_sex("output/player.csv", "output/match.csv")
+players_cleaned.to_csv("output/player_filled.csv", index=False)

@@ -10,7 +10,7 @@ connectionString = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER=' + server + '
 
 sql = "INSERT INTO Player (player_id,country_id,name,sex,hand,year_of_birth) VALUES (?,?,?,?,?,?)"
 
-file_player = open("output/player.csv", mode='r')
+file_player = open("output/player_filled.csv", mode='r')
 csv_file = csv.DictReader(file_player, delimiter=",")
 
 cnxn = pyodbc.connect(connectionString)

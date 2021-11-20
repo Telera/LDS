@@ -18,7 +18,7 @@ def min_max_columns(path):
         tokens_header = header.strip().split(',')
         missing_count = [0] * len(tokens_header)
         for line in f:
-            count +=1
+            count += 1
             tokens = line.strip().split(',')
             max_col = max(max_col, len(tokens))
             min_col = min(min_col, len(tokens))
@@ -53,18 +53,22 @@ def count_max_len_str(path):
 
 
 print("countries:")
+print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/countries.csv"))
 print(count_max_len_str("data2021/countries.csv"))
 
 print("female players:")
+print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/female_players.csv"))
 print(count_max_len_str("data2021/female_players.csv"))
 
 print("male players:")
+print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/male_players.csv"))
 print(count_max_len_str("data2021/male_players.csv"))
 
 print("tennis:")
+print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/tennis.csv"))
 print(count_max_len_str("data2021/tennis.csv"))
 
