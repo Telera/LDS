@@ -2,7 +2,9 @@
 import gender_guesser.detector as gender
 import pandas as pd
 import re
+from pathlib import Path
 
+#attempt to fill missing values with library gender_guesser, it returned 90% of accuracy we decided to fill it in another way
 """
 def fill_missing_sex(path):
     df_player = pd.read_csv(path)
@@ -14,7 +16,9 @@ def fill_missing_sex(path):
     print(list(map(lambda x: detector.get_gender(x), missing_sex_name)))
 """
 
+#fill missing values of new attribute sex using the mode of the sex opponents
 def fill_missing_sex(path_player, path_match):
+    #creation of a new pandas dataframe with a join of winner and loser players
     players = pd.read_csv(path_player)
     match = pd.read_csv(path_match)
     players_selection = match[['winner_id', 'loser_id']]
@@ -27,26 +31,30 @@ def fill_missing_sex(path_player, path_match):
     loser_id = players_sex[players_sex["loser_sex"].isnull()]["loser"].unique()
 
     #print(set(winner_id) == set(loser_id))
-    #both sets are equal
+    #both sets are equal so we can procede with only the first one
 
     print(winner_id)
     players_with_sex_missing = players_sex[players_sex['winner'].isin(winner_id)].sort_values(by="winner")
     #set(players_with_sex_missing.groupby(["winner", "loser_sex"])["loser_sex"].agg("size")) == set(players_with_sex_missing.groupby(["winner", "loser_sex"]).agg("size").sort_index())
     #all players have played with people with same sex for this reason we can remove duplicates
     missing_sex_values = players_sex[players_sex['winner'].isin(winner_id)].drop_duplicates(subset="winner")
-
+    #we kept the winner_id the loser sex
     missing_sex_values.drop(columns=["winner_sex", "loser"], axis=1, inplace=True)
     missing_sex_values.rename(columns={'winner': 'player', 'loser_sex': 'sex'}, inplace=True)
     print(missing_sex_values)
 
+    #filling of missing values
     players_full = players.set_index("player_id").combine_first(missing_sex_values.set_index("player")).reset_index()
     players_full.rename(columns={'index': 'player_id'}, inplace=True)
+    #define the order of pandas dataframe
     cols_order = ['player_id', 'country_id', 'name', 'sex', 'hand', 'year_of_birth']
     players_full = players_full[cols_order]
     print(players_full.info())
     print(players_full.isnull().sum())
     return(players_full)
 
-
-players_cleaned = fill_missing_sex("output/player.csv", "output/match.csv")
-players_cleaned.to_csv("output/player_filled.csv", index=False)
+player_path = Path("output/player.csv")
+match_path = Path("output/match.csv")
+players_cleaned = fill_missing_sex(player_path, match_path)
+players_full = Path("output/player_filled.csv")
+players_cleaned.to_csv(players_full, index=False)

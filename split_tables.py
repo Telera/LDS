@@ -1,30 +1,11 @@
 import csv
-import re
 import datetime
 from pathlib import Path
 
-"""
-# tournament
-date id <- da creare
-0 1 2 3 4 47 48
-
-# Player
-WINNER 7  12 9  10 11
-LOSER  14 19 16 17 18
-Gender <- creare
-byear of birth <- creare
-
-# Match
-0 
-7  winner id
-14 loser id
-match id (match num+tourney id) <- creare
-21 score
-22-46 incluso
-"""
-
+#function used to reformat our date YYYYMMDD
 def reformat_date(date):
     return(datetime.datetime.strptime(date, '%Y%m%d').date())
+
 
 def preprocessing_match(dict, file, id):
     #match_num + tourney_id
@@ -35,11 +16,13 @@ def preprocessing_match(dict, file, id):
     file.writerow(dict)
 
 def preprocessing_tournament(dict, file):
+    #rename date_id key
     dict["date_id"] = dict.pop("tourney_date")
     file.writerow(dict)
 
 def year_of_birth(date, age):
     date = reformat_date(date)
+    #get only the year
     year = date.year
     fist_gen = str(date.year) + "01" + "01"
     first_gen_next_year = str(date.year + 1) + "01" + "01"
@@ -47,9 +30,11 @@ def year_of_birth(date, age):
     startOfNextYear = reformat_date(first_gen_next_year)
     delta = date - startOfThisYear
     yearDuration = startOfNextYear - startOfThisYear
+    #fraction state the decimal fraction of days from the first of Jan to the date of the match
     fraction = delta/yearDuration
     date_fraction = (date.year) + fraction
     birth = date_fraction - float(age)
+    #before the return operation we rounded the year
     return(int(birth))
 
 def preprocessing_player(dict, file, year_of_birth, sex):
@@ -69,10 +54,13 @@ def preprocessing_player(dict, file, year_of_birth, sex):
     file.writerow(dict_player)
 
 def create_gender_sets():
-    male_file = open("data2021/male_players.csv", "r")
+    male_players = Path("data2021/male_players.csv")
+    male_file = open(male_players, "r")
     reader_male = csv.DictReader(male_file)
-    female_file = open("data2021/female_players.csv", "r")
+    female_file = Path("data2021/female_players.csv")
+    female_file = open(female_file, "r")
     reader_female = csv.DictReader(female_file)
+
     players = (reader_male, reader_female)
     dict_set = {"male": set(), "female": set()}
     for player_gender in players:
@@ -92,14 +80,15 @@ def preprocessing_date(file, date):
     dict["day"] = tourney_date.day
     dict["month"] = tourney_date.month
     dict["year"] = tourney_date.year
+    #quarter formula
     dict["quarter"] = (tourney_date.month - 1) // 3 + 1
     file.writerow(dict)
 
-tennis_file = open("data2021/tennis_cleaned.csv", "r")
+tennis_cleaned = Path("data2021/tennis_cleaned.csv")
+tennis_file = open(tennis_cleaned, "r")
 reader = csv.DictReader(tennis_file)
 header = reader.fieldnames
 print(header)
-
 
 headers = {}
 headers["match"] = [header[0]] + header[6:8] + [header[13]] + header[19:45]
@@ -109,19 +98,22 @@ headers["loser_player"] = [header[13]] + header[15:18]
 headers["date"] = [header[5]]
 print(headers)
 
-match_file = open("output/match.csv", "w")
+match = Path("output/match.csv")
+match_file = open(match, "w")
 match_header = [str.replace('match_num','match_id') for str in headers["match"]]
 match_writer = csv.DictWriter(match_file, fieldnames=match_header, lineterminator = '\n')
 match_writer.writeheader()
 
-tournament_file = open("output/tournament.csv", "w")
+tournament = Path("output/tournament.csv")
+tournament_file = open(tournament, "w")
 tournament_header = headers["tournament"]
 tournament_header = [str.replace('tourney_date','date_id') for str in headers["tournament"]]
 tournament_header.insert(1, tournament_header.pop(5))
 tournament_writer = csv.DictWriter(tournament_file, fieldnames=tournament_header, lineterminator = '\n')
 tournament_writer.writeheader()
 
-player_file = open("output/player.csv", "w")
+player = Path("output/player.csv")
+player_file = open(player, "w")
 player_header = [str.replace("winner_id" , "player_id").replace("winner_name" , "name").replace("winner_hand" , "hand").replace("winner_ioc", "country_id") for str in headers["winner_player"]]
 player_header.insert(1, player_header.pop(-1))
 player_header.insert(3, "sex")
@@ -129,11 +121,13 @@ player_header.append("year_of_birth")
 player_writer = csv.DictWriter(player_file, fieldnames=player_header, lineterminator = '\n')
 player_writer.writeheader()
 
-date_file = open("output/date.csv", "w")
+date = Path("output/date.csv")
+date_file = open(date, "w")
 date_header = ["date_id", "day", "month","year" , "quarter"]
 date_writer = csv.DictWriter(date_file, fieldnames=date_header, lineterminator = '\n')
 date_writer.writeheader()
 
+#sets that contains the keys of entities that have already been inserted
 set_id_tournament = set()
 set_id_player = set()
 set_id_date = set()
@@ -142,6 +136,7 @@ sets_player_gender = create_gender_sets()
 
 match_id_count = 0
 for row in reader:
+    #for each table we create a dictionary that contais their respective values
     line_match = {}
     line_tournament = {}
     line_winner_player = {}
@@ -171,8 +166,7 @@ for row in reader:
 
     if line_winner_player["winner_id"] not in set_id_player:
         set_id_player.add(line_winner_player["winner_id"])
-        if row["winner_age"] != "":
-            winner_year_of_birth = year_of_birth(row["tourney_date"], row["winner_age"])
+        winner_year_of_birth = year_of_birth(row["tourney_date"], row["winner_age"])
         winner_name = row["winner_name"].replace("-", " ").replace("'", "").lower()
         if winner_name in sets_player_gender["male"]:
             sex_winner_player = "M"
@@ -187,8 +181,7 @@ for row in reader:
 
     if line_loser_player["loser_id"] not in set_id_player:
         set_id_player.add(line_loser_player["loser_id"])
-        if row["loser_age"] != "":
-            loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
+        loser_year_of_birth = year_of_birth(row["tourney_date"], row["loser_age"])
         loser_name = row["loser_name"].replace("-", " ").replace("'", "").lower()
         if loser_name in sets_player_gender["male"]:
             sex_loser_player = "M"

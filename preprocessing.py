@@ -55,20 +55,24 @@ def count_max_len_str(path):
 print("countries:")
 print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/countries.csv"))
+print("Max len for strings:")
 print(count_max_len_str("data2021/countries.csv"))
-
+print("\n \n")
 print("female players:")
 print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/female_players.csv"))
+print("Max len for strings:")
 print(count_max_len_str("data2021/female_players.csv"))
-
+print("\n \n")
 print("male players:")
 print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/male_players.csv"))
+print("Max len for strings:")
 print(count_max_len_str("data2021/male_players.csv"))
-
+print("\n \n")
 print("tennis:")
 print("(count, max_col, min_col, missing_count)")
 print(min_max_columns("data2021/tennis.csv"))
+print("Max len for strings:")
 print(count_max_len_str("data2021/tennis.csv"))
 

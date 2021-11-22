@@ -14,7 +14,7 @@ def download_file(url,local_file, force=False):
     else:
         print(local_file,'already downloaded')
 
-
+#creation of a dictionary with key : IOC and value: First Language
 def add_language(path):
     # check if language.txt is already been downloaded
     if not language_file.is_file():
@@ -59,7 +59,7 @@ def geography_to_csv(path, language_file):
                    }
     for row in countries_reader:
         geography_dict["country_ioc"] = row["country_code"]
-
+        #manage the exeption of Uknown equal to Malaysia
         if row["continent"] == "Unknown":
             geography_dict["continent"] = "Oceania"
         else:
@@ -69,8 +69,11 @@ def geography_to_csv(path, language_file):
             geography_dict["language"] = dict_language[corrections[row["country_name"]]]
         else:
             geography_dict["language"] = dict_language[row["country_name"]]
+        #write the row in the file
         geography_writer.writerow(geography_dict)
     file_continent.close()
 
 language_file = Path("languages.txt")
-geography_to_csv("data2021/countries_cleaned.csv", language_file)
+countries_cleaned = Path("data2021/countries_cleaned.csv")
+#save into the csv
+geography_to_csv(countries_cleaned, language_file)

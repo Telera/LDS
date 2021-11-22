@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import pyodbc
 import csv
+from pathlib import Path
 
 server = "lds.di.unipi.it"
 database = "Group_3_DB"
